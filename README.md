@@ -5,10 +5,9 @@
 As our project develops, we anticipate the creation of new or more specific reseach questions.
 These are the questions that are currently facilitating our research:
 
-- Do the Grimm's Fairy Tale's tend to get darker over time?
-- Are children always represented as naive within the stories?
 - How does the association between the fairy tales and marketing towards children 
-lead to a shift in content within the stories?
+lead to a shift in content within the stories? (Use this question when analyzing the findings of the second question)
+- Are the descriptors for women generally more positive or negative compared to men? Are women or men given a more active role?
 
 ## Our corpus
 Since there are many translations and editions of the Grimm's Fairytales, 
@@ -42,3 +41,4 @@ And potentially:
 - The Juniper Tree
 - The Young Giant
 - The Singing, Springing Lark
+
