@@ -29,33 +29,34 @@
         you look behind the large barrel?"</p>
     <p>"It would be better to wait until it's light to continue looking," said another. "We'll look
         tomorrow morning, and then we'll soon find the ring."</p>
-    <p>After this the band lay down to sleep there in the same cellar. As soon as they were asleep
-        and snoring, the bride came out from behind the barrel. They were all lying there in rows,
+    <p>After this <action agency="passive" gender="male" willingness="neutral">the band lay down to sleep there in the same cellar.</action> As soon as they were asleep
+        and snoring, <action agency="active" gender="female" willingness="eager">the bride came out from behind the barrel.</action> They were all lying there in rows,
         and she would have to walk over all the sleeping men to reach the door. She carefully put
         her foot down between them, fearing always that she might awaken one of them, but
         fortunately that did not happen. After reaching the door she was once again in the woods,
-        and because the moon shone brightly, she followed the ribbons until she arrived back
-        home.</p>
-    <p>She told her father everything that had happened to her, and he immediately ordered an entire
-        regiment to surround his castle, as soon as the bridegroom arrived there. That happened. The
-        bridegroom came that very day and immediately asked why she hadn't come to visit him
-        yesterday as she had promised.</p>
-    <p>She said, "I had a very bad dream. I dreamed that I went to a house. An old woman was sitting
+        and because the moon shone brightly, <action agency="active" gender="female" willingness="eager">she followed the ribbons until she arrived back
+        home.</action></p>
+    <p><action agency="neutral" gender="female" willingness="eager">She told her father everything that had happened to her,</action> and <action agency="active" gender="male" willingness="eager">he immediately ordered an entire
+        regiment to surround his castle,</action> as soon as the bridegroom arrived there. That happened. The
+        <action agency="active" gender="male" willingness="eager">bridegroom came that very day and immediately asked why she hadn't come to visit him
+        yesterday</action> as she had promised.</p>
+    <p><action agency="neutral" gender="male" willingness="eager">She said, "I had a very bad dream.</action> I dreamed that I went to a house. An <descriptor type="negative" gender="female">old woman</descriptor> was sitting
         just outside the door, and she said to me, 'It is good that you came when no one is at home,
-        for I have to tell you, that I had to fill a large kettle with water, and they intend to
-        kill you, and boil you, and then eat you.' Even as she spoke, the robbers came home, and
-        before anyone noticed me, the old woman said, 'Quick, go down into the cellar and hide
-        yourself behind the large barrel.' I was hardly there when the robbers came down the cellar
-        stairs. They were dragging an old woman with them, whom they took hold of and murdered.
-        After they had murdered the old woman, they began to pull all the rings off her fingers, one
-        after the other, but the ring on her ring finger wouldn't come off, so one of them picked up
-        an ax and chopped away at it until it flew into the air, and it came down behind the barrel
+        for I have to tell you, that I had to fill a large kettle with water, and <descriptor type="negative" gender="male">they intend to
+        kill you, and boil you, and then eat you.</descriptor>' Even as she spoke, the robbers came home, and
+        before anyone noticed me, the <descriptor type="negative" gender="female">old woman</descriptor> said, <action agency="active" gender="female" willingness="eager">'Quick, go down into the cellar and hide
+            yourself behind the large barrel.'</action> I was hardly there when <action agency="active" gender="male" willingness="eager">the robbers came down the cellar
+                stairs. They were dragging</action> an <descriptor type="negative" gender="female">old woman</descriptor> with them, <action agency="active" gender="male" willingness="eager">whom they took hold of and murdered.
+                    After they had murdered</action> the <descriptor type="negative" gender="female">old woman,</descriptor> <action agency="active" gender="male" willingness="eager">they began to pull all the rings off her fingers,</action> one
+        after the other, but the ring on her ring finger wouldn't come off, so one of them <action agency="active" gender="male" willingness="eager">picked up
+        an ax and chopped away at it until it</action> flew into the air, and it came down behind the barrel
         right into my lap, and here I have the finger!"</p>
-    <p>With these words she suddenly pulled the finger from her pocket.</p>
-    <p>When the bridegroom saw and heard these things he turned as white as chalk with fear. He
-        tried to flee by jumping out the window, but the sentries were standing below. They captured
+    <p><action agency="active" gender="female" willingness="eager">With these words she suddenly pulled the finger from her pocket.</action></p>
+    <p>When the bridegroom saw and heard these things <descriptor type="negative" gender="male">he turned as white as chalk with fear.</descriptor> <action agency="active" gender="male" willingness="eager">He
+        tried to flee by jumping out the window,</action> but the <action agency="active" gender="male" willingness="eager">sentries were standing below. They captured
         him and his entire band, and all of them were executed as a reward for their wicked
-        deeds.</p>
+        deeds.</action></p>
+    <empty happy_ending="true"></empty>
     <p>
         <source>A different version of this tale was included in the first edition
                 <year>(1812)</year> of the Grimms' Kinder- und Hausmärchen.</source>

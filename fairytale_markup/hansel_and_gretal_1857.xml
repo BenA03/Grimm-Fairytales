@@ -19,7 +19,7 @@
     <p>"But I do feel sorry for the poor children," said the man.</p>
     <p>The two children had not been able to fall asleep because of their hunger, and they heard
         what the stepmother had said to the father.</p>
-    <p>Gretel cried bitter tears and said to Hansel, "It is over with us!"</p>
+    <p><action agency="passive" gender="female" willingness="neutral">Gretel cried bitter tears</action> and said to Hansel, "It is over with us!"</p>
     <p>"Be quiet, Gretel," said Hansel, "and don't worry. I know what to do."</p>
     <p>And as soon as the adults had fallen asleep, <action agency="active" gender="male" willingness="eager">he got up, pulled on his jacket, opened the
         lower door, and crept outside.</action> The moon was shining brightly, and the white pebbles in front

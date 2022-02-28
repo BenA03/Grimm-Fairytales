@@ -33,7 +33,7 @@
         you to take as much rapunzel as you want. <descriptor type="negative" gender="female">But under one condition: You must give me the
         child</descriptor>that your wife will bring to the world. It will do well, and I will take care of it
         like a mother."</p>
-    <p>In his fear the man agreed to everything.</p>
+    <p><action agency="passive" gender="male" willingness="neutral">In his fear the man agreed to everything.</action></p>
     <p>When the woman gave birth, the sorceress appeared, named the little girl Rapunzel, and took
         her away. Rapunzel became the most <descriptor type="positive" gender="female">beautiful</descriptor> child under the sun. When she was twelve years
         old, the sorceress locked her in a tower that stood in a forest and that had neither a door
@@ -97,7 +97,7 @@
         twins that she had given birth to.</p>
     <p>He heard a voice and thought it was familiar. He advanced toward it, and as he approached,
         <action agency="passive" gender="female" willingness="eager">Rapunzel recognized him, and crying, threw her arms around his neck.</action> <action agency="passive" gender="female" willingness="eager">Two of her tears fell
-        into his eyes, and they became clear once again, and he could see as well as before.</action> <empty happyending="true">He led
+        into his eyes, and they became clear once again, and he could see as well as before.</action> <empty happy_ending="true">He led
         her into his kingdom, where he was received with joy, and for a long time they lived happily
         and satisfied.</empty></p>
     <source>Source: Jacob and Wilhelm Grimm, "Rapunzel," Kinder- und Hausmärchen, gesammelt durch
