@@ -1,172 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Downloads/grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <fairytale>
     <metadata>
         <title>Rumpelstiltskin</title>
-
         <author>Jacob and Wilhelm Grimm</author>
-    </metadata>
-
-    <p>Once upon a time there was a <descriptor type="neutral" gender="male">miller</descriptor> who
-        was <descriptor type="negative" gender="male">poor</descriptor>, but who had a <descriptor
-            type="positive" gender="female">beautiful</descriptor> daughter. Now it happened that he
-            <action agency="passive" gender="male" willingness="eager">got into a conversation with
-            the king, and to make an impression on him he said, "I have a daughter who can spin
-            straw into gold."</action></p>
-
-    <p>The king said to the miller, "That is an art that I really like. If your daughter is as
-        skillful as you say, then bring her to my castle tomorrow, and <action agency="active"
-            gender="male" willingness="eager">I will put her to the test</action>."</p>
-
-    <p>When the girl <action agency="passive" gender="female" willingness="hesitant">was brought to
-            him he led her into a room that was entirely filled with straw. Giving her a spinning
-            wheel and a reel, he said, "Get to work now. Spin all night, and if by morning you have
-            not spun this straw into gold, then you will have to die."</action> Then <action
-            agency="active" gender="male" willingness="eager">he himself locked the room</action>,
-        and she was there all alone.</p>
-
-    <p>The poor miller's daughter sat there, and for her life she did not know what to do. She had
-        no idea how to spin straw into gold. <action agency="passive" gender="female"
-            willingness="neutral">She became more and more afraid, and finally began to
-        cry</action>.</p>
-
-    <p>Then suddenly the door opened. A <descriptor type="neutral" gender="male">little</descriptor>
-        man stepped inside and said, "Good evening, Mistress Miller, why are you crying so?"</p>
-
-    <p>"Oh," answered the girl, "I am supposed to spin straw into gold, and I do not know how to do
-        it."</p>
-
-    <p>The <descriptor type="neutral" gender="male">little</descriptor> man said, "What will you
-        give me if I spin it for you?"</p>
-
-    <p>"My necklace," said the girl.</p>
-
-    <p>The <descriptor type="neutral" gender="male">little</descriptor> man took the necklace, sat
-        down before the spinning wheel, and whir, whir, whir, three times pulled, and the spool was
-        full. Then he put another one on, and whir, whir, whir, three times pulled, and the second
-        one was full as well. So it went until morning, and then all the straw was spun, and all the
-        spools were filled with gold.</p>
-
-    <p>At sunrise the king came, and when he saw the gold he was surprised and happy, but his heart
-        became even more <descriptor type="negative" gender="male">greedy</descriptor> for gold. He
-        had the miller's daughter taken to another room filled with straw. It was even larger, and
-            <action agency="active" gender="male" willingness="eager">he ordered her to spin it in
-            one night</action>, if she valued her life.</p>
-
-    <p>The girl <action agency="passive" gender="female" willingness="neutral">did not know what to
-            do, and she cried</action>. Once again the door opened, and the <descriptor
-            type="neutral" gender="male">little </descriptor> man appeared. He said, "<action
-            agency="passive" gender="male" willingness="eager">What will you give me if I spin the
-            straw into gold for you?"</action></p>
-
-    <p><action agency="active" gender="female" willingness="hesitant">"The ring from my finger,"
-            answered the girl</action>.</p>
-
-    <p>The <descriptor type="neutral" gender="male">little</descriptor> man <action agency="active"
-            gender="male" willingness="eager">took the ring, and began once again to whir with the
-            spinning wheel. By morning he had spun all the straw into glistening gold</action>. The
-        king was happy beyond measure when he saw it, but he still did not have his fill of gold. He
-        had the miller's daughter taken to a still larger room filled with straw, and said, "Tonight
-        you must spin this too. If you succeed you shall become my wife." He thought, "Even if she
-        is only a miller's daughter, I will not find a richer wife in all the world."</p>
-
-    <p>When the girl was alone the <descriptor type="neutral" gender="male">little</descriptor> man
-        returned for a third time. He said, "What will you give me if I spin the straw this
-        time?"</p>
-
-    <p>"I have nothing more that I could give you," answered the girl.</p>
-
-    <p>"Then promise me, after you are queen, your first child."</p>
-
-    <p>"Who knows what will happen," thought the miller's daughter, and <action agency="active"
-            gender="female" willingness="hesitant">not knowing what else to do, she promised the
-                <descriptor type="neutral" gender="male">little man</descriptor> what he
-            demanded</action>. In return the <descriptor type="neutral" gender="male">little
-            man</descriptor> once again spun the straw into gold.</p>
-
-    <p>When in the morning the king came and found everything just as he desired, he married her,
-        and the <descriptor type="positive" gender="female">beautiful</descriptor>
-        <descriptor type="neutral" gender="female">miller's daughter</descriptor>
-        <action agency="passive" gender="female" willingness="neutral">became queen</action>.</p>
-
-    <p>A year later she brought a <descriptor type="positive" gender="neutral">beautiful
-            child</descriptor> to the world. She thought no more about the <descriptor
-            type="neutral" gender="male">little man</descriptor>, but suddenly he appeared in her
-        room and said, "Now give me that which you promised."</p>
-
-    <p>The queen took fright and offered the little man all the wealth of the kingdom if he would
-        let her keep the child, but the <descriptor type="neutral" gender="male">little
-            man</descriptor> said, "No. Something living is dearer to me than all the treasures of
-        the world."</p>
-
-    <p>Then the queen began lamenting and crying so much that the <descriptor type="neutral"
-            gender="male">little man</descriptor> took pity on her and said, "I will give you three
-        days' time. If by then you know my name, then you shall keep your child."</p>
-
-    <p>The queen spent the entire night thinking of all the names she had ever heard. Then <action
-            agency="active" gender="female" willingness="eager">she sent a messenger into the
-            country to inquire far and wide what other names there were</action>. When the
-            <descriptor type="neutral" gender="male">little man</descriptor> returned the next day
-        she began with Kaspar, Melchior, Balzer, and said in order all the names she knew. After
-        each one the <descriptor type="neutral" gender="male">little man</descriptor> said, "That is
-        not my name."</p>
-
-    <p>The second day <action agency="active" gender="female" willingness="eager">she sent inquiries
-            into the neighborhood as to what names people had</action>. She recited the most unusual
-        and most curious names to the <descriptor type="neutral" gender="male">little
-            man</descriptor>: "Is your name perhaps Beastrib? Or Muttoncalf? Or Legstring?"</p>
-
-    <p>But he always answered, "That is not my name."</p>
-
-    <p>On the third day the messenger <action agency="passive" gender="male" willingness="neutral"
-            >returned and said, "I have not been able to find a single new name, but when I was
-            approaching a high mountain in the corner of the woods, there where the fox and the hare
-            say good-night, I saw a little house</action>. A fire was burning in front of the house,
-        and an altogether <descriptor type="neutral" gender="male">comical</descriptor>
-        <descriptor type="neutral" gender="male">little man</descriptor> was jumping around the
-        fire, hopping on one leg and calling out:</p>
-
-    <lg>
-        <l><action agency="active" gender="male" willingness="eager">Today I'll bake; tomorrow I'll
-                brew</action>,</l>
-        <l><action agency="active" gender="male" willingness="eager">Then I'll fetch the queen's new
-                child</action>,</l>
-        <l>It is good that no one knows,</l>
-        <l>Rumpelstiltskin is my name.</l>
-    </lg>
-    <p>You can imagine how happy the queen was when she heard that name. Soon afterward the
-            <descriptor type="neutral" gender="male">little</descriptor> man came in and asked,
-        "Now, Madame Queen, what is my name?"</p>
-
-    <p>She first asked, "Is your name Kunz?"</p>
-
-    <p>"No."</p>
-
-    <p>"Is your name Heinz?"</p>
-
-    <p>"No."</p>
-
-    <p>"Is your name perhaps Rumpelstiltskin?"</p>
-
-    <p>"The devil told you that! The devil <action agency="passive" gender="female"
-            willingness="eager">told you that</action>!" shouted the <descriptor type="neutral"
-            gender="male">little man</descriptor>, and with anger <action agency="active"
-            gender="male" willingness="eager">he stomped his right foot so hard into the ground that
-            he fell in up to his waist. Then with both hands he took hold of his left foot and
-            ripped himself up the middle in two</action>.</p>
-    <empty happy_ending="true"/>
-    <metadata>
         <source>Source: Jacob and Wilhelm Grimm, "Rumpelstilzchen," Kinder- und Hausmärchen, vol. 1
             (Göttingen: Verlag der Dieterichschen Buchhandlung, <year>1857</year>) [Children's and
             Household Tales -- Grimms' Fairy Tales], no. 55, pp. 281-84.</source>
-        <source>The Grimms' source: Henriette Dorothea (Dortchen) Wild (1795-1867), and other
-            sources.</source>
         <translator>Translated by D. L. Ashliman. © 2002.</translator>
-        <note>Aarne-Thompson-Uther type 500, Guessing the Helper's Name.</note>
-        <note>The Grimms included this tale, in a simpler version, in the first edition of their
-            Kinder- und Hausmärchen (1812). The story underwent a substantial stylistic revision for
-            the second edition (1819). Additional stylistic changes were made in succeeding
-            editions.</note>
-        <note>Link to a translation of the 1812 version of Rumpelstiltskin.</note>
     </metadata>
 
+    <body>
+        <p>Once upon a time there was a <descriptor type="neutral" gender="male">miller</descriptor>
+            who was <descriptor type="negative" gender="male">poor</descriptor>, but who had a
+                <descriptor type="positive" gender="female">beautiful</descriptor> daughter. Now it
+            happened that he <action agency="passive" gender="male" willingness="eager">got into a
+                conversation with the king, and to make an impression on him he said, "I have a
+                daughter who can spin straw into gold."</action></p>
+
+        <p>The king said to the miller, "That is an art that I really like. If your daughter is as
+            skillful as you say, then bring her to my castle tomorrow, and <action agency="active"
+                gender="male" willingness="eager">I will put her to the test</action>."</p>
+
+        <p>When the girl <action agency="passive" gender="female" willingness="hesitant">was brought
+                to him he led her into a room that was entirely filled with straw. Giving her a
+                spinning wheel and a reel, he said, "Get to work now. Spin all night, and if by
+                morning you have not spun this straw into gold, then you will have to die."</action>
+            Then <action agency="active" gender="male" willingness="eager">he himself locked the
+                room</action>, and she was there all alone.</p>
+
+        <p>The poor miller's daughter sat there, and for her life she did not know what to do. She
+            had no idea how to spin straw into gold. <action agency="passive" gender="female"
+                willingness="neutral">She became more and more afraid, and finally began to
+                cry</action>.</p>
+
+        <p>Then suddenly the door opened. A <descriptor type="neutral" gender="male"
+                >little</descriptor> man stepped inside and said, "Good evening, Mistress Miller,
+            why are you crying so?"</p>
+
+        <p>"Oh," answered the girl, "I am supposed to spin straw into gold, and I do not know how to
+            do it."</p>
+
+        <p>The <descriptor type="neutral" gender="male">little</descriptor> man said, "What will you
+            give me if I spin it for you?"</p>
+
+        <p>"My necklace," said the girl.</p>
+
+        <p>The <descriptor type="neutral" gender="male">little</descriptor> man took the necklace,
+            sat down before the spinning wheel, and whir, whir, whir, three times pulled, and the
+            spool was full. Then he put another one on, and whir, whir, whir, three times pulled,
+            and the second one was full as well. So it went until morning, and then all the straw
+            was spun, and all the spools were filled with gold.</p>
+
+        <p>At sunrise the king came, and when he saw the gold he was surprised and happy, but his
+            heart became even more <descriptor type="negative" gender="male">greedy</descriptor> for
+            gold. He had the miller's daughter taken to another room filled with straw. It was even
+            larger, and <action agency="active" gender="male" willingness="eager">he ordered her to
+                spin it in one night</action>, if she valued her life.</p>
+
+        <p>The girl <action agency="passive" gender="female" willingness="neutral">did not know what
+                to do, and she cried</action>. Once again the door opened, and the <descriptor
+                type="neutral" gender="male">little </descriptor> man appeared. He said, "<action
+                agency="passive" gender="male" willingness="eager">What will you give me if I spin
+                the straw into gold for you?"</action></p>
+
+        <p><action agency="active" gender="female" willingness="hesitant">"The ring from my finger,"
+                answered the girl</action>.</p>
+
+        <p>The <descriptor type="neutral" gender="male">little</descriptor> man <action
+                agency="active" gender="male" willingness="eager">took the ring, and began once
+                again to whir with the spinning wheel. By morning he had spun all the straw into
+                glistening gold</action>. The king was happy beyond measure when he saw it, but he
+            still did not have his fill of gold. He had the miller's daughter taken to a still
+            larger room filled with straw, and said, "Tonight you must spin this too. If you succeed
+            you shall become my wife." He thought, "Even if she is only a miller's daughter, I will
+            not find a richer wife in all the world."</p>
+
+        <p>When the girl was alone the <descriptor type="neutral" gender="male">little</descriptor>
+            man returned for a third time. He said, "What will you give me if I spin the straw this
+            time?"</p>
+
+        <p>"I have nothing more that I could give you," answered the girl.</p>
+
+        <p>"Then promise me, after you are queen, your first child."</p>
+
+        <p>"Who knows what will happen," thought the miller's daughter, and <action agency="active"
+                gender="female" willingness="hesitant">not knowing what else to do, she promised the
+                    <descriptor type="neutral" gender="male">little man</descriptor> what he
+                demanded</action>. In return the <descriptor type="neutral" gender="male">little
+                man</descriptor> once again spun the straw into gold.</p>
+
+        <p>When in the morning the king came and found everything just as he desired, he married
+            her, and the <descriptor type="positive" gender="female">beautiful</descriptor>
+            <descriptor type="neutral" gender="female">miller's daughter</descriptor>
+            <action agency="passive" gender="female" willingness="neutral">became
+            queen</action>.</p>
+
+        <p>A year later she brought a <descriptor type="positive" gender="neutral">beautiful
+                child</descriptor> to the world. She thought no more about the <descriptor
+                type="neutral" gender="male">little man</descriptor>, but suddenly he appeared in
+            her room and said, "Now give me that which you promised."</p>
+
+        <p>The queen took fright and offered the little man all the wealth of the kingdom if he
+            would let her keep the child, but the <descriptor type="neutral" gender="male">little
+                man</descriptor> said, "No. Something living is dearer to me than all the treasures
+            of the world."</p>
+
+        <p>Then the queen began lamenting and crying so much that the <descriptor type="neutral"
+                gender="male">little man</descriptor> took pity on her and said, "I will give you
+            three days' time. If by then you know my name, then you shall keep your child."</p>
+
+        <p>The queen spent the entire night thinking of all the names she had ever heard. Then
+                <action agency="active" gender="female" willingness="eager">she sent a messenger
+                into the country to inquire far and wide what other names there were</action>. When
+            the <descriptor type="neutral" gender="male">little man</descriptor> returned the next
+            day she began with Kaspar, Melchior, Balzer, and said in order all the names she knew.
+            After each one the <descriptor type="neutral" gender="male">little man</descriptor>
+            said, "That is not my name."</p>
+
+        <p>The second day <action agency="active" gender="female" willingness="eager">she sent
+                inquiries into the neighborhood as to what names people had</action>. She recited
+            the most unusual and most curious names to the <descriptor type="neutral" gender="male"
+                >little man</descriptor>: "Is your name perhaps Beastrib? Or Muttoncalf? Or
+            Legstring?"</p>
+
+        <p>But he always answered, "That is not my name."</p>
+
+        <p>On the third day the messenger <action agency="passive" gender="male"
+                willingness="neutral">returned and said, "I have not been able to find a single new
+                name, but when I was approaching a high mountain in the corner of the woods, there
+                where the fox and the hare say good-night, I saw a little house</action>. A fire was
+            burning in front of the house, and an altogether <descriptor type="neutral"
+                gender="male">comical</descriptor>
+            <descriptor type="neutral" gender="male">little man</descriptor> was jumping around the
+            fire, hopping on one leg and calling out:</p>
+
+        <lg>
+            <l><action agency="active" gender="male" willingness="eager">Today I'll bake; tomorrow
+                    I'll brew</action>,</l>
+            <l><action agency="active" gender="male" willingness="eager">Then I'll fetch the queen's
+                    new child</action>,</l>
+            <l>It is good that no one knows,</l>
+            <l>Rumpelstiltskin is my name.</l>
+        </lg>
+        <p>You can imagine how happy the queen was when she heard that name. Soon afterward the
+                <descriptor type="neutral" gender="male">little</descriptor> man came in and asked,
+            "Now, Madame Queen, what is my name?"</p>
+
+        <p>She first asked, "Is your name Kunz?"</p>
+
+        <p>"No."</p>
+
+        <p>"Is your name Heinz?"</p>
+
+        <p>"No."</p>
+
+        <p>"Is your name perhaps Rumpelstiltskin?"</p>
+
+        <p>"The devil told you that! The devil <action agency="passive" gender="female"
+                willingness="eager">told you that</action>!" shouted the <descriptor type="neutral"
+                gender="male">little man</descriptor>, and with anger <action agency="active"
+                gender="male" willingness="eager">he stomped his right foot so hard into the ground
+                that he fell in up to his waist. Then with both hands he took hold of his left foot
+                and ripped himself up the middle in two</action>.</p>
+        <ending happy_ending="true"/>
+    </body>
 </fairytale>
