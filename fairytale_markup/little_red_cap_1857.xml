@@ -3,8 +3,11 @@
 <fairytale>
     <metadata>
         <title>Little Red Cap</title>
-
         <author>Jacob and Wilhelm Grimm</author>
+        <source>Source: "Rotkäppchen," Kinder- und Hausmärchen, gesammelt durch die Brüder Grimm,
+            vol. 1 (Göttingen: Verlag der Dieterichschen Buchhandlung, <year>1857</year>), no. 26,
+            pp. 140-44.</source>
+        <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
     </metadata>
 
     <body>
@@ -209,24 +212,4 @@
                 happily</action>, and no one harmed her.</p>
         <empty happy_ending="true"/>
     </body>
-    <metadata>
-        <source>Source: "Rotkäppchen," Kinder- und Hausmärchen, gesammelt durch die Brüder Grimm,
-            vol. 1 (Göttingen: Verlag der Dieterichschen Buchhandlung, <year>1857</year>), no. 26,
-            pp. 140-44.</source>
-        <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
-        <source>The Grimms' source for the first variant (the main story) was Jeanette Hassenpflug
-            (1791-1860). Marie Hassenpflug (1788-1856) provided them with the second variant (the
-            concluding episode, introduced with the sentence "They also tell how Little Red Cap was
-            taking some baked things to her grandmother another time...."</source>
-        <note>This famous story was included in the first edition (1812) and all succeeding editions
-            of Kinder- und Hausmärchen. The translation above is based on the Grimms' final edition
-                <year>(1857)</year>. They made only a few minor stylistic changes to the story in
-            the course of its publication history.</note>
-        <note>Click here for a translation of the Grimms' 1812 version of Little Red Cap.</note>
-        <note>Note that most speakers of English know this story with the Grimms' contents, but with
-            Charles Perrault's title, Little Red Riding Hood. In Perrault's version, a frighening
-            cautionary tale, the naive heroine is killed by the wolf.</note>
-        <note>Aarne-Thompson-Uther type 333.</note>
-    </metadata>
-
 </fairytale>
