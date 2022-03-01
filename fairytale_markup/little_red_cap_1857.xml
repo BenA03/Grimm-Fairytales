@@ -210,6 +210,6 @@
                 >slid off the roof, fell into the trough, and drowned</action>. And Little Red Cap
                 <action agency="active" gender="female" willingness="eager">returned home
                 happily</action>, and no one harmed her.</p>
-        <empty happy_ending="true"/>
+        <ending happy_ending="true"/>
     </body>
 </fairytale>
