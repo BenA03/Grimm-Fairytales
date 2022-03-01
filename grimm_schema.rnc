@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = fairytale 
-fairytale = element fairytale { metadata+ | body }
-metadata = element metadata { title?, author?, source?, translator?, note*, year+ }
+fairytale = element fairytale { metadata, body }
+metadata = element metadata { title, author, source, translator}
 title = element title { text }
 author = element author { text }
 source = element source { mixed { (year?) } }
