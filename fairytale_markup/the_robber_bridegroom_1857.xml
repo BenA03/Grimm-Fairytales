@@ -99,10 +99,10 @@
         finger with the ring.</p>
     <p><action agency="active" gender="female" willingness="eager">With these words she pulled out the finger and showed it to everyone who was there.</action></p>
     <p><description type="negative" gender="male">The robber, who had during this story become as white as chalk,</description> <action agency="active" gender="male" willingness="eager">jumped up and tried to
-        escape,</action> but the guests held him fast, and turned him over to the courts. <action agency="active" gender=female" willingness="eager">Then he and his
-        whole band were executed for their shameful deeds.</action></p>
+        escape,</action> but the guests held him fast, and turned him over to the courts. <action agency="active" gender="female" willingness="eager">Then he and his
+            whole band were executed for their shameful deeds.</action><empty happy_ending="true"></empty></p>
     <source>Source: Jacob and Wilhelm Grimm, Der Räuberbräutigam, Kinder- und Hausmärchen
-        (Children's and Household Tales -- Grimms' Fairy Tales), final edition (Berlin, 1857), no.
+        (Children's and Household Tales -- Grimms' Fairy Tales), final edition <year>(Berlin, 1857)</year>, no.
         40.</source>
-    <translator>Translated by D. L. Ashliman. © <year>2001-2002.</year></translator>
+    <translator>Translated by D. L. Ashliman. © 2001-2002.</translator>
 </story>

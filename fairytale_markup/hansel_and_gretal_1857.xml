@@ -19,7 +19,7 @@
     <p>"But I do feel sorry for the poor children," said the man.</p>
     <p>The two children had not been able to fall asleep because of their hunger, and they heard
         what the stepmother had said to the father.</p>
-    <p>Gretel cried bitter tears and said to Hansel, "It is over with us!"</p>
+    <p><action agency="passive" gender="female" willingness="neutral">Gretel cried bitter tears</action> and said to Hansel, "It is over with us!"</p>
     <p>"Be quiet, Gretel," said Hansel, "and don't worry. I know what to do."</p>
     <p>And as soon as the adults had fallen asleep, <action agency="active" gender="male" willingness="eager">he got up, pulled on his jacket, opened the
         lower door, and crept outside.</action> The moon was shining brightly, and the white pebbles in front
@@ -207,12 +207,12 @@
         the woman had died. Gretel shook out her apron, scattering pearls and precious stones around
         the room, and Hansel added to them by throwing one handful after the other from his
         pockets.</p>
-    <p><empty happyending="true">Now all their cares were at an end, and they lived happily together.</empty></p>
+    <p><empty happy_ending="true">Now all their cares were at an end, and they lived happily together.</empty></p>
     <p>My tale is done,</p>
     <p>A mouse has run.</p>
     <p>And whoever catches it can make for himself from it a large, large fur cap.</p>
     <source>Source: Jacob and Wilhelm Grimm, "Hänsel und Grethel," Kinder- und Hausmärchen
         [Children's and Household Tales -- Grimms' Fairy Tales], vol. 1, 7th ed. (Göttingen: Verlag
-        der Dieterichschen Buchhandlung, 1857), no. 15, pp. 79-87.</source>
-    <translator>Translated by D. L. Ashliman. © <year>2000-2002.</year></translator>
+        der Dieterichschen Buchhandlung, <year>1857</year>), no. 15, pp. 79-87.</source>
+    <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
 </story>
