@@ -1,53 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tale><metadata>50
-Little Brier-Rose
-Jacob and Wilhelm Grimm</metadata>
-<p>In past times there were a king and a queen, <action>who said every day, "Oh, if only we had a child!"</action> but they never received one.</p>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    
+    <metadata>
+        <title>Little Brier-Rose</title>
+        <author>Jacob and Wilhelm Grimm</author>
+        <source>Kinder- und Hausmärchen,
+            <year>1857</year></source>
+        <translator>D.L. Ashliman</translator>
+        <note>In some versions (including later Grimm editions) the harbinger of pregnancy is a
+            frog.</note>
+    </metadata>
+    <body>
+<p>In past times there were a king and a queen, who said every day, "Oh, if only we had a child!" but they never received one.</p>
 
 <p>Then it happened one day while the queen was sitting in her bath, that a frog crept out of the water onto the ground and said to her, "Your wish shall be fulfilled, and before a year passes you will bring a daughter into the world."</p>
 
-What the frog said did happen, and the queen gave birth to a girl who was so <descriptor type="positve" gender="female">beautiful</descriptor> that the king could not contain himself for joy, and he ordered a great celebration. He invited not only his relatives, friends, and acquaintances, but also the wise women so that they would be kindly disposed toward the child. There were thirteen of them in his kingdom, but because he had only twelve golden plates from which they were to eat, one of them had to remain at home.
+<p>What the frog said did happen, and the queen gave birth to a girl who was so <descriptor type="positve" gender="female">beautiful</descriptor> that the king could not contain himself for joy, and he ordered a great celebration. He invited not only his relatives, friends, and acquaintances, but also the wise women so that they would be kindly disposed toward the child. There were thirteen of them in his kingdom, but because he had only twelve golden plates from which they were to eat, one of them had to remain at home.
 
-The feast was celebrated with great splendor, and at its conclusion the wise women presented the child with their magic gifts. The one gave her virtue, the second one beauty, the third one wealth, and so on with everything that one could wish for on earth.
+</p><p>The feast was celebrated with great splendor, and at its conclusion the wise women presented the child with their magic gifts. The one gave her virtue, the second one beauty, the third one wealth, and so on with everything that one could wish for on earth.
 
-The eleventh one had just pronounced her blessing when the thirteenth one suddenly walked in. She wanted to avenge herself for not having been invited, and without greeting anyone or even looking at them she <action agency="active" gender="female" willingness="eager">cried out</action> with a loud voice, "In the princess's fifteenth year she shall prick herself with a spindle and fall over dead." And without saying another word she turned around and left the hall.
+</p><p>The eleventh one had just pronounced her blessing when the thirteenth one suddenly walked in. She wanted to avenge herself for not having been invited, and without greeting anyone or even looking at them she <action agency="active" gender="female" willingness="eager">cried out</action> with a loud voice, "In the princess's fifteenth year she shall prick herself with a spindle and fall over dead." And without saying another word she turned around and left the hall.
 
-Everyone was horrified, and the twelfth wise woman, who had not yet offered her wish, stepped foreward. Because she was unable to undo the wicked wish, but only to soften it, she said, "It shall not be her death. The princess will only fall into a hundred-year deep sleep."
+</p><p>Everyone was horrified, and the twelfth wise woman, who had not yet offered her wish, stepped foreward. Because she was unable to undo the wicked wish, but only to soften it, she said, "It shall not be her death. The princess will only fall into a hundred-year deep sleep."
 
-The king, wanting to rescue his dear child, issued an order that all spindles in the entire kingdom should be burned. The wise women's gifts were all fulfilled on the girl, for she was so <descriptor type="positive" gender="female">beautiful, well behaved, friendly, and intelligent that everyone who saw her had to love her</descriptor>.
+</p><p>The king, wanting to rescue his dear child, issued an order that all spindles in the entire kingdom should be burned. The wise women's gifts were all fulfilled on the girl, for she was so <descriptor type="positive" gender="female">beautiful, well behaved, friendly, and intelligent that everyone who saw her had to love her</descriptor>.
 
-Now it happened that on the day when she turned fifteen years of age the king and the queen were not at home, and the girl was all alone in the castle. She walked around from one place to the next, looking into rooms and chambers as her heart desired. Finally she came to an old tower. She climbed up the narrow, winding stairs and arrived at a small door. In the lock there was a rusty key, and when she turned it the door sprang open. There in a small room sat an old woman with a spindle busily spinning her flax.
+</p><p>Now it happened that on the day when she turned fifteen years of age the king and the queen were not at home, and the girl was all alone in the castle. She walked around from one place to the next, looking into rooms and chambers as her heart desired. Finally she came to an old tower. She climbed up the narrow, winding stairs and arrived at a small door. In the lock there was a rusty key, and when she turned it the door sprang open. There in a small room sat an old woman with a spindle busily spinning her flax.
 
-"Good day, old woman," said the princess. "What are you doing there?"
+</p><p>"Good day, old woman," said the princess. "What are you doing there?"
 
-"I am spinning," said the old woman, nodding her head.
+</p><p>"I am spinning," said the old woman, nodding her head.
 
-"What is that thing that is so merrily bouncing about?" asked the girl, taking hold of the spindle, for she too wanted to spin.
+</p><p>"What is that thing that is so merrily bouncing about?" asked the girl, taking hold of the spindle, for she too wanted to spin.
 
-She had no sooner touched the spindle when the magic curse was fulfilled, and she pricked herself in the finger. The instant that she felt the prick she fell onto a bed that was standing there, and she lay there in a deep sleep. And this sleep spread throughout the entire castle. The king and queen, who had just returned home, walked into the hall and began falling asleep, and all of their attendants as well. The horses fell asleep in their stalls, the dogs in the courtyard, the pigeons on the roof, the flies on the walls, and even the fire on the hearth flickered, stopped moving, and fell asleep. The roast stopped sizzling. The cook, who was about to pull kitchen boy's hair for having done something wrong, let him loose and fell asleep. The wind stopped blowing, and outside the castle not a leaf was stirring in the trees.
+</p><p>She had no sooner touched the spindle when the magic curse was fulfilled, and she pricked herself in the finger. The instant that she felt the prick she fell onto a bed that was standing there, and she lay there in a deep sleep. And this sleep spread throughout the entire castle. The king and queen, who had just returned home, walked into the hall and began falling asleep, and all of their attendants as well. The horses fell asleep in their stalls, the dogs in the courtyard, the pigeons on the roof, the flies on the walls, and even the fire on the hearth flickered, stopped moving, and fell asleep. The roast stopped sizzling. The cook, who was about to pull kitchen boy's hair for having done something wrong, let him loose and fell asleep. The wind stopped blowing, and outside the castle not a leaf was stirring in the trees.
 
-Round about the castle a thorn hedge began to grow, and every year it became higher, until it finally surrounded and covered the entire castle. Finally nothing at all could be seen of it, not even the flag on the roof.
+</p><p>Round about the castle a thorn hedge began to grow, and every year it became higher, until it finally surrounded and covered the entire castle. Finally nothing at all could be seen of it, not even the flag on the roof.
 
-A legend circulated throughout the land about the <descriptor type="positive" gender="female">beautiful</descriptor> <action agency="passive" gender="female" willingness="neutral">sleeping Little Brier-Rose</action>, for so the princess was called. Legends also told that from time to time princes came, wanting to force their way through the hedge into the castle. However, they did not succeed, for the thorns held firmly together, as though they had hands, and the young men became stuck in them, could not free themselves, and died miserably.
+</p><p>A legend circulated throughout the land about the <descriptor type="positive" gender="female">beautiful</descriptor> <action agency="passive" gender="female" willingness="neutral">sleeping Little Brier-Rose</action>, for so the princess was called. Legends also told that from time to time princes came, wanting to force their way through the hedge into the castle. However, they did not succeed, for the thorns held firmly together, as though they had hands, and the young men became stuck in them, could not free themselves, and died miserably.
 
-Many long, long years later, once again a prince came to the country. He heard an old man telling about the thorn hedge. It was said that there was a castle behind it, in which a beautiful princess named Little Brier-Rose had been asleep for a hundred years, and with her the king and the queen and all the royal attendants were sleeping. He also knew from his grandfather that many princes had come and tried to penetrate the thorn hedge, but they had become stuck in it and died a sorrowful death.
+</p><p>Many long, long years later, once again a prince came to the country. He heard an old man telling about the thorn hedge. It was said that there was a castle behind it, in which a beautiful princess named Little Brier-Rose had been asleep for a hundred years, and with her the king and the queen and all the royal attendants were sleeping. He also knew from his grandfather that many princes had come and tried to penetrate the thorn hedge, but they had become stuck in it and died a sorrowful death.
 
-Then the young man said, "I am not afraid. I will go there and see the beautiful Little Brier-Rose."
+</p><p>Then the young man said, "I am not afraid. I will go there and see the beautiful Little Brier-Rose."
 
-However much the good old man tried to dissuade him, the prince would not listen to his words.
+</p><p>However much the good old man tried to dissuade him, the prince would not listen to his words.
 
-The hundred years had just passed, and the day had come when Little Brier-Rose was to awaken. When the prince approached the thorn hedge, it was nothing but large, beautiful flowers that separated by themselves, allowing him to pass through without harm, but then behind him closed back into a hedge.
+</p><p>The hundred years had just passed, and the day had come when Little Brier-Rose was to awaken. When the prince approached the thorn hedge, it was nothing but large, beautiful flowers that separated by themselves, allowing him to pass through without harm, but then behind him closed back into a hedge.
 
-In the courtyard he saw the horses and spotted hunting dogs lying there asleep, and on the roof the pigeons, perched with their little heads tucked under they wings. When he walked inside the flies were asleep on the wall, the cook in the kitchen was still holding up his hand as if he wanted to grab the boy, and the maid was sitting in front of the black chicken that was supposed to be plucked. He walked further and saw all the attendants lying asleep in the hall, and above them near the throne the king and the queen were lying. He walked on still further, and it was so quiet that he could hear his own breath. Finally he came to the tower and opened the door to the little room where Little Brier-Rose was sleeping.
+</p><p>In the courtyard he saw the horses and spotted hunting dogs lying there asleep, and on the roof the pigeons, perched with their little heads tucked under they wings. When he walked inside the flies were asleep on the wall, the cook in the kitchen was still holding up his hand as if he wanted to grab the boy, and the maid was sitting in front of the black chicken that was supposed to be plucked. He walked further and saw all the attendants lying asleep in the hall, and above them near the throne the king and the queen were lying. He walked on still further, and it was so quiet that he could hear his own breath. Finally he came to the tower and opened the door to the little room where Little Brier-Rose was sleeping.
 
-There she lay and was so <descriptor type="positive" gender="female">beautiful</descriptor> that he could not take his eyes off her. <action agency="active" gender="male">He bent over and gave her a kiss.</action> When he touched her with the kiss Little Brier-Rose opened her eyes, awoke, and looked at him kindly.
+</p><p>There she lay and was so <descriptor type="positive" gender="female">beautiful</descriptor> that he could not take his eyes off her. <action agency="active" gender="male" willingness ="eager">He bent over and gave her a kiss.</action> When he touched her with the kiss Little Brier-Rose opened her eyes, awoke, and looked at him kindly.
 
-They went downstairs together, and the king awoke, and the queen, and all the royal attendants, and they looked at one another in amazement. The horses in the courtyard stood up and shook themselves. The hunting dogs jumped and wagged their tails. The pigeons on the roof pulled their little heads out from beneath their wings, looked around, and flew into the field. The flies on the walls crept about again. The fire in the kitchen rose up, broke into flames, and cooked the food. The roast began to sizzle once again. The cook boxed the boy's ears, causing him to cry, and the maid finished plucking the chicken.
+</p><p>They went downstairs together, and the king awoke, and the queen, and all the royal attendants, and they looked at one another in amazement. The horses in the courtyard stood up and shook themselves. The hunting dogs jumped and wagged their tails. The pigeons on the roof pulled their little heads out from beneath their wings, looked around, and flew into the field. The flies on the walls crept about again. The fire in the kitchen rose up, broke into flames, and cooked the food. The roast began to sizzle once again. The cook boxed the boy's ears, causing him to cry, and the maid finished plucking the chicken.
 
-<p><empty happy_ending="true">And then the prince's marriage to Little Brier-Rose was celebrated with great splendor, and they lived happily until they died.</empty></p>
-<metadata>
-Source: Jacob and Wilhelm Grimm, "Dornröschen," Kinder- und Hausmärchen, gesammelt durch die Brüder Grimm, 7th ed., vol. 1 (Göttingen: Verlag der Dieterichschen Buchhandlung, 1857), no. 50, pp. 252-54.
-The Grimms' source: Marie Hassenpflug (1788-1856).
-Translated by D. L. Ashliman. © 2002-2005.
-The Grimms included this tale in the first edition of their Kinder- und Hausmärchen (1812). Modest stylistic changes were made with the second edition (1819).</metadata>
-</tale>
+</p><p>And then the prince's marriage to Little Brier-Rose was celebrated with great splendor, and they lived happily until they died.</p>
+
+    <ending happy_ending="true"/>
+        
+    </body>
+
+</fairytale>

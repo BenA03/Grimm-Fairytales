@@ -1,95 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tale><metadata><tale>Girl without Hands</tale>
-<version>Version of 1812</version></metadata>
-<p><descriptor type="negative" gender= "male">A miller, who was so poor that he had nothing more than his mill and a large apple tree which stood behind it,</descriptor> <action agency="active" gender= "male" willingness= "neutral">went into the forest to gather wood</action>.
-There he was approached by an <descriptor type="neutral" gender="male">old man</descriptor>, who said, "Why do you torment yourself so? I will make you rich if you will sign over to me that which is standing behind your mill. I will come and claim it in three years."
-<action agency="active" gender="male" willingness="eager">The miller thought, "That is my apple tree," agreed, and signed it over to the man.</action></p>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
 
-<p>When he came home, his <descriptor type="neutral" gender="female">wife</descriptor> said to him, "Miller, where did all the wealth come from that suddenly has filled every chest and cupboard in our house?"</p>
+<fairytale>
 
-<p>"I received it from an old man in the forest by signing over to him that which is standing behind the mill."</p>
+ <metadata>
+  <title>Girl without Hands</title>
+  <author>Jacob and Wilhelm Grimm</author>
+  <source>Jacob and Wilhelm Grimm, "Mädchen ohne Hände," Kinder- und Hausmärchen [Children's and
+   Household Tales -- Grimms' Fairy Tales], 1st edition, vol. 1 (Berlin: In der
+   Realschulbuchhandlung, <year>1812</year>), no. 31, pp. 132-38.</source><translator>D. L. Ashliman</translator>
+ </metadata>
 
-<p>"Husband!" said <descriptor type="negative" gender="female">the woman, terrified</descriptor>. "This is going to be very bad. The old man was the devil, and he had our daughter in mind, who was just then standing behind the mill sweeping the yard."</p>
+<body>
+ <p><descriptor type="negative" gender="male">A miller, who was so poor that he had nothing more
+   than his mill and a large apple tree which stood behind it,</descriptor>
+  <action agency="active" gender="male" willingness="neutral">went into the forest to gather
+   wood</action>. There he was approached by an <descriptor type="neutral" gender="male">old
+   man</descriptor>, who said, "Why do you torment yourself so? I will make you rich if you will
+  sign over to me that which is standing behind your mill. I will come and claim it in three years."
+   <action agency="active" gender="male" willingness="eager">The miller thought, "That is my apple
+   tree," agreed, and signed it over to the man.</action></p>
 
-<p>Now <descriptor type="positive" gender="female">the miller's daughter was very beautiful and pious.</descriptor>
- Three years later when the devil came, early in the morning, and wanted to take her, <action agency="active" gender="female" willingness="eager">she had drawn a circle around herself with chalk and had washed herself clean.</action></p>
+ <p>When he came home, his <descriptor type="neutral" gender="female">wife</descriptor> said to him,
+  "Miller, where did all the wealth come from that suddenly has filled every chest and cupboard in
+  our house?"</p>
 
-<p>Therefore the devil could not approach her, and <descriptor type="negative" gender="male">angrily</descriptor> he said to the miller, "Keep wash water away from her, so she cannot wash herself any more, and I can have power over her."</p>
+ <p>"I received it from an old man in the forest by signing over to him that which is standing
+  behind the mill."</p>
 
-<p>The miller was <descriptor type="negative" gender="male">frightened</descriptor> and <action agency="active" gender="male" willingness="neutral">did what he was told</action>.
-The next day the devil returned, but she had <action agency="passive" gender="female" willingness="neutral">wept</action> into her hands and <action agency="passive" gender="female" willinges="neutral">washed</action> herself with her tears, and was entirely clean.</p>
+ <p>"Husband!" said <descriptor type="negative" gender="female">the woman, terrified</descriptor>.
+  "This is going to be very bad. The old man was the devil, and he had our daughter in mind, who was
+  just then standing behind the mill sweeping the yard."</p>
 
-<p>Because the devil still could not approach her, he was very <descriptor type="negative" gender="male">angry</descriptor>, and <action agency="active" gender="male" willingness="neutral">ordered</action> the miller, "Chop off her hands, so I can get to her."</p>
+ <p>Now <descriptor type="positive" gender="female">the miller's daughter was very beautiful and
+   pious.</descriptor> Three years later when the devil came, early in the morning, and wanted to
+  take her, <action agency="active" gender="female" willingness="eager">she had drawn a circle
+   around herself with chalk and had washed herself clean.</action></p>
 
-<p>The miller was <descriptor type="negative" gender="male">horrified</descriptor> and answered, "How could I chop off my dear child's hands? No, I will not do it."</p>
+ <p>Therefore the devil could not approach her, and <descriptor type="negative" gender="male"
+   >angrily</descriptor> he said to the miller, "Keep wash water away from her, so she cannot wash
+  herself any more, and I can have power over her."</p>
 
-<p>"Then do you know what? I will take you, if you don't do it!"</p>
+ <p>The miller was <descriptor type="negative" gender="male">frightened</descriptor> and <action
+   agency="active" gender="male" willingness="neutral">did what he was told</action>. The next day
+  the devil returned, but she had <action agency="passive" gender="female" willingness="neutral"
+   >wept</action> into her hands and <action agency="passive" gender="female" willingness="neutral"
+   >washed</action> herself with her tears, and was entirely clean.</p>
 
-<p>That <descriptor type="negative" gender="male">frightened</descriptor> the miller terribly, and driven by fear he <action agency="active" gender="male" willingness="neutral">promised</action> to do what the devil had ordered.
-He went to his daughter and said, "My child, the devil will take me if I don't chop off both your hands, and I have promised him that I will do it. I beg for your forgiveness."</p>
+ <p>Because the devil still could not approach her, he was very <descriptor type="negative"
+   gender="male">angry</descriptor>, and <action agency="active" gender="male" willingness="neutral"
+   >ordered</action> the miller, "Chop off her hands, so I can get to her."</p>
 
-<p>"Father," she said, "do with me what you will," <action agency="passive" gender= "female" willingness="neutral">stretched forth her hands, and let him chop them off</action>.</p>
+ <p>The miller was <descriptor type="negative" gender="male">horrified</descriptor> and answered,
+  "How could I chop off my dear child's hands? No, I will not do it."</p>
 
-<p>The devil came a third time, but she had <action agency="passive" gender="female" willingness="neutral">wept</action> so long onto her stumps, that she was still entirely clean, and the devil had lost all power over her.</p>
+ <p>"Then do you know what? I will take you, if you don't do it!"</p>
 
-<p>The miller, because he had become so wealthy through her, promised to take the best care of her for the rest of her life, but she did not want to remain there.</p>
+ <p>That <descriptor type="negative" gender="male">frightened</descriptor> the miller terribly, and
+  driven by fear he <action agency="active" gender="male" willingness="neutral">promised</action> to
+  do what the devil had ordered. He went to his daughter and said, "My child, the devil will take me
+  if I don't chop off both your hands, and I have promised him that I will do it. I beg for your
+  forgiveness."</p>
 
-<p>"I must leave here," she said. "Compassionate people will give me enough to keep me alive."</p>
+ <p>"Father," she said, "do with me what you will," <action agency="passive" gender="female"
+   willingness="neutral">stretched forth her hands, and let him chop them off</action>.</p>
 
-<p>She had the chopped-off hands tied to her back, and she <action agency="active" gender="female" willingness="eager">set forth</action> with the rising sun, walking the entire day until evening, when she came to the king's garden.
-There was a gap in the garden hedge.
-<action agency="active" gender="female" willingness="neutral">She went inside, found a fruit tree, shook it with her body until the apples fell to the ground, bent over and picked them up with her teeth, and ate them.</action>
-Thus she lived for two days, but on the third day the garden watchmen saw her, captured her, and threw her into prison.</p>
+ <p>The devil came a third time, but she had <action agency="passive" gender="female"
+   willingness="neutral">wept</action> so long onto her stumps, that she was still entirely clean,
+  and the devil had lost all power over her.</p>
 
-<p>The next morning she was brought before the king and sentenced to be banished from the land, but the prince said, "Wait, wouldn't it be better to let her tend the chickens in the courtyard?"
-So she stayed there for a time and tended the chickens.
-The prince saw her often and grew very fond of her.</p>
+ <p>The miller, because he had become so wealthy through her, promised to take the best care of her
+  for the rest of her life, but she did not want to remain there.</p>
 
-<p>Meanwhile the time came when he was to get married.
-Messengers were sent everywhere in the world to find him a beautiful bride.
-"You needn't look so far and wide," he said. "I know where one is very nearby."</p>
+ <p>"I must leave here," she said. "Compassionate people will give me enough to keep me alive."</p>
 
-<p>The <descriptor type="neutral" gender="male">old</descriptor> king <action agency="passive" gender="male" willingness="neutral">pondered</action> this back and forth, but he could not think of a single maiden in his kingdom who was both beautiful and rich, "You surely don't want to marry the one who tends the chickens in the courtyard?"
- But his son <action agency="active" gender="male" willingness="eager">declared</action> that he would marry no one else, so finally the king had to agree.
- Soon afterward he <action agency="passive" gender="male" willingness="neutral">died</action>, and the prince succeeded him as king and lived happily for a time with his wife.</p>
+ <p>She had the chopped-off hands tied to her back, and she <action agency="active" gender="female"
+   willingness="eager">set forth</action> with the rising sun, walking the entire day until evening,
+  when she came to the king's garden. There was a gap in the garden hedge. <action agency="active"
+   gender="female" willingness="neutral">She went inside, found a fruit tree, shook it with her body
+   until the apples fell to the ground, bent over and picked them up with her teeth, and ate
+   them.</action> Thus she lived for two days, but on the third day the garden watchmen saw her,
+  captured her, and threw her into prison.</p>
 
-<p>Once the king had to go away to war, and during his absence his wife <action agency="active" gender="female" willingness="neutral">gave birth</action> to a <descriptor type="positive" gender="male">beautiful</descriptor> child.
- She sent a messenger with a letter telling her husband the joyful news.
- On the way the messenger stopped to rest by a brook and fell asleep.
- The devil, who was still trying to harm her, came to him and exchanged the letter with one that stated that the queen had given birth to a <descriptor type="negative" gender="male">changeling</descriptor>.
- The king was very saddened to read this, but he wrote that the queen and the child should be well cared for until his return.
- The messenger started back with this letter.
- When he stopped to rest at the same spot and fell asleep, the devil again appeared, this time <action agency="active" gender="male" willingness="eager">exchanging</action> the king's letter with one that ordered the queen and the child to be driven from the kingdom.
- This had to be done, however much the people all <action agency="passive" willingness="neutral">wept</action> with sorrow.</p>
+ <p>The next morning she was brought before the king and sentenced to be banished from the land, but
+  the prince said, "Wait, wouldn't it be better to let her tend the chickens in the courtyard?" So
+  she stayed there for a time and tended the chickens. The prince saw her often and grew very fond
+  of her.</p>
 
-<p>"I did not come here to become queen," she said. "I have no luck, and I demand none. Just tie my child and my hands onto my back, and I will set forth into the world."</p>
+ <p>Meanwhile the time came when he was to get married. Messengers were sent everywhere in the world
+  to find him a beautiful bride. "You needn't look so far and wide," he said. "I know where one is
+  very nearby."</p>
 
-<p>That evening she came to a place in a thick forest where a <descriptor type="positive" gender="male">good</descriptor> old man was sitting by a spring. "Be so kindhearted as to hold my child to my breast until I have nursed him," she said.</p>
+ <p>The <descriptor type="neutral" gender="male">old</descriptor> king <action agency="passive"
+   gender="male" willingness="neutral">pondered</action> this back and forth, but he could not think
+  of a single maiden in his kingdom who was both beautiful and rich, "You surely don't want to marry
+  the one who tends the chickens in the courtyard?" But his son <action agency="active"
+   gender="male" willingness="eager">declared</action> that he would marry no one else, so finally
+  the king had to agree. Soon afterward he <action agency="passive" gender="male"
+   willingness="neutral">died</action>, and the prince succeeded him as king and lived happily for a
+  time with his wife.</p>
 
-<p>The man did that, after which he said to her, "Go to that thick tree over there and wrap your maimed arms around it three times!"
- And when she had done this, her hands <action agency="passive" gender="female" willingness="neutral">grew</action> back on.
- Then he showed her a house.
- "You can live there," he said, "but do not go outside, and do not open the door for anyone unless he asks three times to come in, for God's sake."</p>
+ <p>Once the king had to go away to war, and during his absence his wife <action agency="active"
+   gender="female" willingness="neutral">gave birth</action> to a <descriptor type="positive"
+   gender="male">beautiful</descriptor> child. She sent a messenger with a letter telling her
+  husband the joyful news. On the way the messenger stopped to rest by a brook and fell asleep. The
+  devil, who was still trying to harm her, came to him and exchanged the letter with one that stated
+  that the queen had given birth to a <descriptor type="negative" gender="male"
+   >changeling</descriptor>. The king was very saddened to read this, but he wrote that the queen
+  and the child should be well cared for until his return. The messenger started back with this
+  letter. When he stopped to rest at the same spot and fell asleep, the devil again appeared, this
+  time <action agency="active" gender="male" willingness="eager">exchanging</action> the king's
+  letter with one that ordered the queen and the child to be driven from the kingdom. This had to be
+  done, however much the people all <action agency="passive" gender = "mixed" willingness="neutral">wept</action>
+  with sorrow.</p>
 
-<p>Meanwhile the king returned home and discovered how he had been deceived.
- Accompanied by a single servant he <action agency="active" gender="female" willingness="eager">set forth</action>, and after a long journey he finally happened, one night, into the same forest where the queen was living, but he did not know that she was so close to him.
- "There is a little light from a house back there," said his servant. "We can rest there."</p>
+ <p>"I did not come here to become queen," she said. "I have no luck, and I demand none. Just tie my
+  child and my hands onto my back, and I will set forth into the world."</p>
 
-<p>"No," said the king. "I do not want to rest so long, but rather to continue searching for my wife. I cannot rest until I find her."</p>
+ <p>That evening she came to a place in a thick forest where a <descriptor type="positive"
+   gender="male">good</descriptor> old man was sitting by a spring. "Be so kindhearted as to hold my
+  child to my breast until I have nursed him," she said.</p>
 
-<p>But the servant <action agency="active" gender="male" willingness="eager">begged</action> so much and <action agency="active" gender="male" willingness="eager">complained</action> so about his weariness that out of compassion, the king <action agency="passive" gender="male" willingness="hesitant">gave in</action>.
-When they came to the house, the moon was shining, and they saw the queen standing by the window.
-"That must be our queen; she looks just like her," said the servant, "but I see now that she is not the one, for this one has hands."</p>
+ <p>The man did that, after which he said to her, "Go to that thick tree over there and wrap your
+  maimed arms around it three times!" And when she had done this, her hands <action agency="passive"
+   gender="female" willingness="neutral">grew</action> back on. Then he showed her a house. "You can
+  live there," he said, "but do not go outside, and do not open the door for anyone unless he asks
+  three times to come in, for God's sake."</p>
 
-<p>The servant asked her for shelter, but she <action agency="active" gender="female" willingness="neutral">refused</action>, because he had not asked "for God's sake."
- He was about to go on and seek another place for their night's lodging when the king himself came up and said, "Let me in, for God's sake!"</p>
+ <p>Meanwhile the king returned home and discovered how he had been deceived. Accompanied by a
+  single servant he <action agency="active" gender="female" willingness="eager">set forth</action>,
+  and after a long journey he finally happened, one night, into the same forest where the queen was
+  living, but he did not know that she was so close to him. "There is a little light from a house
+  back there," said his servant. "We can rest there."</p>
 
-<p>"I cannot let you in until you have asked me three time, for God's sake," she replied.
- And after the king had asked two more times, she opened the door.
- His <descriptor type="neutral" gender="male">little</descriptor> son ran to him and led him in to his mother.
- The king recognized her immediately as his <descriptor type="positive" gender="male">beloved</descriptor> wife.
- <empty happy_ending="true">The next morning they all journeyed together back to their kingdom, and as soon as they had left the house, it disappeared behind them.</empty></p>
+ <p>"No," said the king. "I do not want to rest so long, but rather to continue searching for my
+  wife. I cannot rest until I find her."</p>
 
-<metadata>Source: Jacob and Wilhelm Grimm, "Mädchen ohne Hände," Kinder- und Hausmärchen [Children's and Household Tales -- Grimms' Fairy Tales], 1st edition, vol. 1 (Berlin: In der Realschulbuchhandlung, 1812), no. 31, pp. 132-38.
-Translated by D. L. Ashliman. © 2012.</metadata>
-</tale>
+ <p>But the servant <action agency="active" gender="male" willingness="eager">begged</action> so
+  much and <action agency="active" gender="male" willingness="eager">complained</action> so about
+  his weariness that out of compassion, the king <action agency="passive" gender="male"
+   willingness="hesitant">gave in</action>. When they came to the house, the moon was shining, and
+  they saw the queen standing by the window. "That must be our queen; she looks just like her," said
+  the servant, "but I see now that she is not the one, for this one has hands."</p>
+
+ <p>The servant asked her for shelter, but she <action agency="active" gender="female"
+   willingness="neutral">refused</action>, because he had not asked "for God's sake." He was about
+  to go on and seek another place for their night's lodging when the king himself came up and said,
+  "Let me in, for God's sake!"</p>
+
+ <p>"I cannot let you in until you have asked me three time, for God's sake," she replied. And after
+  the king had asked two more times, she opened the door. His <descriptor type="neutral"
+   gender="male">little</descriptor> son ran to him and led him in to his mother. The king
+  recognized her immediately as his <descriptor type="positive" gender="male">beloved</descriptor>
+  wife. The next morning they all journeyed together back to their
+   kingdom, and as soon as they had left the house, it disappeared behind them.</p>
+ <ending happy_ending="true"/>
+ </body>
+</fairytale>

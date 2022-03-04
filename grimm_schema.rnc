@@ -20,4 +20,3 @@ gender = attribute gender { text }
 action = element action { mixed { ( agency, gender, willingness), ( descriptor | action )* } }
 agency = attribute agency { text }
 willingness = attribute willingness { text }
-
