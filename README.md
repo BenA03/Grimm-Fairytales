@@ -1,5 +1,7 @@
 # Grimm's Fairy Tales
 
+(Link to website: [http://grimm-tales.obdurodon.org/methodology.xhtml](http://grimm-tales.obdurodon.org/methodology.xhtml)
+
 ## Our research questions
 
 As our project develops, we anticipate the creation of new or more specific reseach questions.
