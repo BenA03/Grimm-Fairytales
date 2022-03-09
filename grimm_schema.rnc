@@ -1,22 +1,42 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-start = fairytale 
+start = fairytale
 fairytale = element fairytale { metadata, body }
-metadata = element metadata { title, author?, source?, translator?, note?}
+metadata = element metadata { title, author?, source?, translator?, note? }
 title = element title { text }
 author = element author { text }
-source = element source { mixed { (year?) } }
+source =
+  element source {
+    mixed { year? }
+  }
 translator = element translator { text }
-note = element note { mixed { (year?) }}
-year = element year { text } 
-body = element body { ( p+ | lg )*, ending }
-lg = element lg { l+ } 
-l = element l { mixed { ( descriptor | action )* }}
-ending = element ending { happy_ending }
+note =
+  element note {
+    mixed { year? }
+  }
+year = element year { text }
+body = element body { (p | lg)+, ending }
+lg = element lg { l+ }
+l =
+  element l {
+    mixed { (descriptor | action)* }
+  }
+ending = element ending { happy_ending, empty }
 happy_ending = attribute happy_ending { "true" | "false" }
-p = element p { mixed { ( descriptor | action )* } }
+p =
+  element p {
+    mixed { (descriptor | action)* }
+  }
 descriptor = element descriptor { type, gender, text }
 type = attribute type { text }
+# Current values are "male", "female", "feamle" (sic), "fenale" (sic), 
+# "mixed", "male | female", "female | male", "neutral", "positive"
+# Fix this inconsistenty by using an or-group of strings or a list?
 gender = attribute gender { text }
-action = element action { mixed { ( agency, gender, willingness), ( descriptor | action )* } }
+action =
+  element action {
+    agency,
+    gender,
+    willingness,
+    mixed { (descriptor | action)* }
+  }
 agency = attribute agency { text }
 willingness = attribute willingness { text }
