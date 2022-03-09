@@ -1,6 +1,6 @@
 # Grimm's Fairy Tales
 
-(Link to website: [http://grimm-tales.obdurodon.org/methodology.xhtml](http://grimm-tales.obdurodon.org/methodology.xhtml)
+Link to website: [http://grimm-tales.obdurodon.org/methodology.xhtml](http://grimm-tales.obdurodon.org/methodology.xhtml)
 
 ## Our research questions
 
