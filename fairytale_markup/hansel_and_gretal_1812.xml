@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata Translator="D. L. Ashliman" Year="1812" Source="https://sites.pitt.edu/~dash/grimm015a.html" Storynumber="15"/>
+    <body>
+       <title>Hansel and Gretel</title>
+       <author>Jacob and Wilhelm Grimm</author>
 
-    <title>Hansel and Gretel</title>
-    <p>Next to a great forest there lived a <description type="negative" gender="male">poor woodcutter</description> who had come upon such hard times that
+    <p>Next to a great forest there lived a <descriptor type="negative" gender="male">poor woodcutter</descriptor> who had come upon such hard times that
         he could scarcely provide daily bread for his wife and his two children, Hansel and Gretel.
         <action agency="passive" gender="male" willingness="eager">Finally he could no longer even manage this,</action> and he did not know where to turn for help.</p>
     <p><action agency="passive" gender="male" willingness="eager">One evening as he was lying in bed worrying about his problems,</action> his wife said to him,
@@ -33,7 +37,7 @@
         up with us."</p>
     <p>"Oh, father, I am looking at my white cat that is sitting on the roof and wants to say
         good-bye to me."</p>
-    <p>The mother said, <description type="negative" gender="male">"You fool,</description> that isn't your cat. That's the morning sun shining on the
+    <p>The mother said, <descriptor type="negative" gender="male">"You fool,</descriptor> that isn't your cat. That's the morning sun shining on the
         chimney."</p>
     <p>However, <action agency="active" gender="male" willingness="eager">Hansel had not been looking at his cat but instead had been dropping the shiny
         pebbles from his pocket onto the path.</action></p>
@@ -104,14 +108,14 @@
     <p>Nibble, nibble, little mouse,</p>
     <p>Who is nibbling at my house?</p>
     <p>Hansel and Gretel were so frightened that they dropped what they were holding in their hands,
-        and immediately they saw a <description type="negative" gender="female">little woman, as old as the hills,</description> creeping out the door.</p>
+        and immediately they saw a <descriptor type="negative" gender="female">little woman, as old as the hills,</descriptor> creeping out the door.</p>
     <p>She shook her head and said, "Oh, you dear children, where did you come from? Come inside
         with me, and you will be just fine."</p>
     <p><action agency="active" gender="female" willingness="eager">She took them by the hand and led them into her house.</action></p>
     <p>Then <action agency="active" gender="female" willingness="eager">she served them a good meal:</action> pancakes with sugar, apples, and nuts; and made two nice
         beds for them.</p>
     <p><action agency="passive" gender="male | female" willingness="neutral">Hansel and Gretel went to bed, thinking it was though they were in heaven.</action></p>
-    <p>But the <description type="negative" gender="female">old woman was a wicked witch who was lying in wait there for children.</description></p>
+    <p>But the <descriptor type="negative" gender="female">old woman was a wicked witch who was lying in wait there for children.</descriptor></p>
     <p><action agency="active" gender="female" willingness="eager">She had built her house of bread in order to lure them to her, and if she captured one, she
         would kill him, cook him, and eat him; and for her that was a day to celebrate.</action></p>
     <p>So she was overjoyed that Hansel and Gretel had found their way to her.</p>
@@ -120,13 +124,13 @@
     <p>"They will be a good mouthful," she thought.</p>
     <p><action agency="active" gender="female" willingness="eager">She grabbed Hansel and put him in a little stall,</action> and when he awoke, he found himself in a
         cage, locked up like a young dog, and he could walk only a few steps.</p>
-    <p>Then <action agency="active" gender="female" willingness="eager">she shook Gretel and cried,</action> "Get up, <description type="negative" gender="female">lazybones!</description> Fetch water. Go into the kitchen and
+    <p>Then <action agency="active" gender="female" willingness="eager">she shook Gretel and cried,</action> "Get up, <descriptor type="negative" gender="female">lazybones!</descriptor> Fetch water. Go into the kitchen and
         cook something to eat. Your brother is locked in that stall there. I want to fatten him up,
         and <action agency="active" gender="female" willingness="eager">when he is fat I am going to eat him.</action> For now, you have to feed him."</p>
     <p><action agency="passive" gender="female" willingness="hesitant">Gretel was frightened and cried, but she had to do what the witch demanded.</action></p>
     <p>Now Hansel was given the best things to eat every day, so he would get fat, but Gretel
         received nothing but crayfish shells.</p>
-    <p>Every day the <description type="negative" gender="female">old woman</description> came and said, "Hansel, stick out your finger, so I can feel if you
+    <p>Every day the <descriptor type="negative" gender="female">old woman</descriptor> came and said, "Hansel, stick out your finger, so I can feel if you
         are fat enough yet."</p>
     <p>But <action agency="active" gender="male" willingness="eager">Hansel always stuck out a little bone,</action> and she wondered why he didn't get any fatter.</p>
     <p>After four weeks, one evening she said to Gretel, "Hurry up and fetch some water. Whether
@@ -142,34 +146,25 @@
         died together and would not now be suffering so, and she herself would not have to be
         boiling the water that would kill her dear brother; and she prayed, "Dear God, save us poor
         children."</p>
-    <p>Then the <description type="negative" gender="female">old woman</description> called, "Gretel, come here right now to the oven."</p>
+    <p>Then the <descriptor type="negative" gender="female">old woman</descriptor> called, "Gretel, come here right now to the oven."</p>
     <p>And when Gretel came, she said, "Look inside and see if the bread is nicely brown and done,
         for my eyes are weak, and I can't see that far. If you can't see that far either, then sit
         on the board, and I'll push you inside, then you can walk around inside and take a
         look."</p>
-    <p>But once Gretel was inside, the <description type="negative" gender="female">witch</description> intended to close the door, and bake her in the hot
+    <p>But once Gretel was inside, the <descriptor type="negative" gender="female">witch</descriptor> intended to close the door, and bake her in the hot
         oven, and eat her as well. That is what the wicked witch was thinking, and that is why she
         called Gretel.</p>
     <p>However, God let <action agency="active" gender="female" willingness="eager">Gretel know this, so she said, "I don't know how to do that. First show me.
         You sit on the board, and I will push you inside."</action></p>
     <p>So the old woman sat on the board, and since she was light, <action agency="active" gender="female" willingness="eager">Gretel pushed her all the way
         inside, then quickly closed the door and secured it with an iron bar.</action></p>
-    <p>The <description type="negative" gender="female">old woman</description> in the hot oven began to cry and to wail, but Gretel ran away, and the <description type="negative" gender="female">old
-        woman</description> burned up miserably.</p>
+    <p>The <descriptor type="negative" gender="female">old woman</descriptor> in the hot oven began to cry and to wail, but Gretel ran away, and the <descriptor type="negative" gender="female">old
+        woman</descriptor> burned up miserably.</p>
     <p><action agency="active" gender="female" willingness="eager">Gretel ran to Hansel and unlocked his door.</action></p>
     <p><action agency="active" gender="male" willingness="eager">He jumped out,</action> and they kissed each other and were overjoyed.</p>
     <p>The whole house was filled with precious stones and pearls.</p>
     <p><action agency="active" gender="male | female" willingness="eager">They filled their pockets, then ran away and found their way back home.</action></p>
-    <p>The <description type="positive" gender="male">father rejoiced when he saw them once more, for he had not had a happy day since they had
-        been gone,</description> and now he was a <description type="positive" gender="male">rich man.</description> However, the mother had died.</p>
-    <empty happy_ending="true"></empty>
-    <source>The Grimms' specific source is unclear. Although they state that it derives "from
-        various stories from Hessen," a handwritten marginal note in the Grimms' personal copy of
-        the first edition reveals that in 1813 Henriette Dorothea (Dortchen) Wild contributed the
-        children's verse answer to the witch, "The wind, the wind,/ The heavenly child," which
-        rhymes in German: "Der Wind, der Wind,/ Das himmlische Kind." It is likely that the Grimms
-        heard the entire story in the Wild household. Wilhelm Grimm married Dortchen Wild in
-        1825.</source>
-    <year>First edition, 1812</year>
-    <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
-</story>
+    <p>The <descriptor type="positive" gender="male">father rejoiced when he saw them once more, for he had not had a happy day since they had
+        been gone,</descriptor> and now he was a <descriptor type="positive" gender="male">rich man.</descriptor> However, the mother had died.</p>
+    <ending happy_ending="true"></ending></body>
+</fairytale>

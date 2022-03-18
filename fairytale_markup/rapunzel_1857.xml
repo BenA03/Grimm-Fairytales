@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata Translator="D.L. Ashliman" Year="1857" Source="https://sites.pitt.edu/~dash/grimm012a.html" Storynumber="12"/>
     <title>Rapunzel</title>
     <author>Jacob and Wilhelm Grimm</author>
+    <body>
     <p>Once upon a time there was a man and a woman who had long, but to no avail, wished for a
         child. Finally the woman came to believe that the good Lord would fulfill her wish. Through
         the small rear window of these people's house they could see into a splendid garden that was
@@ -89,7 +92,7 @@
         bird</descriptor> is no longer sitting in her nest, nor is she singing any more. The cat got her, and
         will scratch your eyes out as well. You have lost Rapunzel. You will never see her
         again."</p>
-    <p>The prince was overcome with grief, and <action agency="active" gender="male">in his despair he threw himself from the tower.</action> He
+    <p>The prince was overcome with grief, and <action agency="active" gender="male" willingness="hesitant">in his despair he threw himself from the tower.</action> He
         escaped with his life, but the thorns into which he fell poked out his eyes. Blind, he
         wandered about in the forest, eating nothing but grass and roots, and doing nothing but
         weeping and wailing over the loss of his <descriptor type="positive" gender="female">beloved wife.</descriptor> Thus he wandered about miserably for
@@ -97,12 +100,9 @@
         twins that she had given birth to.</p>
     <p>He heard a voice and thought it was familiar. He advanced toward it, and as he approached,
         <action agency="passive" gender="female" willingness="eager">Rapunzel recognized him, and crying, threw her arms around his neck.</action> <action agency="passive" gender="female" willingness="eager">Two of her tears fell
-        into his eyes, and they became clear once again, and he could see as well as before.</action> <empty happy_ending="true">He led
+        into his eyes, and they became clear once again, and he could see as well as before.</action> He led
         her into his kingdom, where he was received with joy, and for a long time they lived happily
-        and satisfied.</empty></p>
-    <source>Source: Jacob and Wilhelm Grimm, "Rapunzel," Kinder- und Hausmärchen, gesammelt durch
-        die Brüder Grimm [Children's and Household Tales -- Grimms' Fairy Tales], 7th ed., vol. 1
-        (Göttingen: Verlag der Dieterichschen Buchhandlung, <year>1857</year>), no. 12, pp. 65-69.</source>
-    <translator>Translated by D. L. Ashliman. © 2000-2006.</translator>
-
-</story>
+        and satisfied.</p>
+        <ending happy_ending="true"/>
+    </body>
+</fairytale>
