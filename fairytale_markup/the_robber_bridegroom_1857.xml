@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
+<fairytale>
+    <metadata Translator="D. L. Ashliman" Year="1857" Source="https://sites.pitt.edu/~dash/grimm040.html" Storynumber=40"/>
     <title>The Robber Bridegroom</title>
     <author>Jacob and Wilhelm Grimm</author>
+        <body>
     <p>Once upon a time there was a miller who had a <descriptor type="positive" gender="female">beautiful daughter.</descriptor> When she came of age he
         wished that she was provided for and well married. He thought, "If a respectable suitor
         comes and asks for her hand in marriage, <action agency="passive" gender="male" willingness="eager">I will give her to him."</action></p>
@@ -100,9 +102,7 @@
     <p><action agency="active" gender="female" willingness="eager">With these words she pulled out the finger and showed it to everyone who was there.</action></p>
     <p><description type="negative" gender="male">The robber, who had during this story become as white as chalk,</description> <action agency="active" gender="male" willingness="eager">jumped up and tried to
         escape,</action> but the guests held him fast, and turned him over to the courts. <action agency="active" gender="female" willingness="eager">Then he and his
-            whole band were executed for their shameful deeds.</action><empty happy_ending="true"></empty></p>
-    <source>Source: Jacob and Wilhelm Grimm, Der Räuberbräutigam, Kinder- und Hausmärchen
-        (Children's and Household Tales -- Grimms' Fairy Tales), final edition <year>(Berlin, 1857)</year>, no.
-        40.</source>
-    <translator>Translated by D. L. Ashliman. © 2001-2002.</translator>
-</story>
+            whole band were executed for their shameful deeds.</action></p>
+            <ending happy_ending="true"/>
+        </body>
+</fairytale>

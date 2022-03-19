@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
-
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata Translator="D.L. Ashliman" Year="1812" Source="https://sites.pitt.edu/~dash/grimm012a.html" Storynumber="12"/>
     <title>Rapunzel</title>
+    <author>Jacob and Wilhelm Grimm</author>
+    <body>
     <p>Once upon a time there was a man and a woman who had long wished for a child but had never
         received one.</p>
     <p>Finally, however, <action agency="active" gender="male | female" willingness="eager">the woman came to be with child.</action></p>
@@ -80,11 +83,6 @@
     <p>She recognized him instantly as well and <action agency="active" gender="female" willingness="eager">threw her arms around his neck.</action></p>
     <p><action agency="active" gender="female" willingness="eager">Two of her tears fell into his eyes, and they became clear once again, and he could see as
         well as before.</action></p>
-    <empty happy_ending="true"></empty>
-        <source>Jacob and Wilhelm Grimm, Kinder- und Hausmärchen (Children's and Household Tales --
-            Grimms' Fairy Tales), 1st ed. <year>(Berlin, 1812)</year>, v. 1, no. 12.</source>
-    
-    <p>
-        <translator>Translated by D. L. Ashliman. © 2000-2006.</translator>
-    </p>
-</story>
+    <ending happy_ending="true"/>
+    </body>
+</fairytale>
