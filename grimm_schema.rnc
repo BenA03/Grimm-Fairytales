@@ -22,21 +22,11 @@ l =
 ending = element ending { happy_ending, empty }
 happy_ending = attribute happy_ending { "true" | "false" }
 p =
-  element p {
-    mixed { (descriptor | action)* }
-  }
+  element p {mixed { (descriptor | action)* } }
 descriptor = element descriptor { type, gender, text }
-type = attribute type { text }
-# Current values are "male", "female", "feamle" (sic), "fenale" (sic), 
-# "mixed", "male | female", "female | male", "neutral", "positive"
-# Fix this inconsistenty by using an or-group of strings or a list?
-gender = attribute gender { text }
-action =
-  element action {
-    agency,
-    gender,
-    willingness,
-    mixed { (descriptor | action)* }
-  }
-agency = attribute agency { text }
-willingness = attribute willingness { text }
+type = attribute type { "positive" | "negative" | "neutral" }
+gender = attribute gender { "female" | "male" | "mixed" }
+action = element action { mixed { ( agency, gender, willingness), ( descriptor | action )* } }
+agency = attribute agency { "active" | "passive" }
+willingness = attribute willingness { "eager" | "hesitant" | "neutral"}
+

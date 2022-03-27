@@ -1,90 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
-
-    <title>Rapunzel</title>
-    <p>Once upon a time there was a man and a woman who had long wished for a child but had never
-        received one.</p>
-    <p>Finally, however, <action agency="active" gender="male | female" willingness="eager">the woman came to be with child.</action></p>
-    <p>Through the small rear window of these people's house they could see into a <descriptor type="positive" gender="female">fairy's</descriptor> garden
-        that was filled with flowers and herbs of all kinds.</p>
-    <p>No one dared enter this garden.</p>
-    <p>One day the woman was standing at this window, and she saw the most beautiful rapunzel in a
-        bed.</p>
-    <p><action agency="passive" gender="female" willingness="hesitant">She longed for some, but not knowing how to get any, she became miserably ill.</action></p>
-    <p>Her husband was frightened, and asked her why she was doing so poorly.</p>
-    <p>"Oh, if I do not get some rapunzel from the garden behind our house, I shall surely die," she
-        said.</p>
-    <p>The man, who loved her dearly, <action agency="active" gender="male" willingness="eager">decided to get her some, whatever the cost.</action></p>
-    <p><action agency="active" gender="male" willingness="eager">One evening he climbed over the high wall, hastily dug up a handful of rapunzel, and took it
-        to his wife.</action></p>
-    <p>She immediately made a salad from it, which she devoured greedily.</p>
-    <p>It tasted so very good to her that by the next day her desire for more had grown
-        threefold.</p>
-    <p><action agency="active" gender="male" willingness="eager">The man saw that there would be no peace, so once again he climbed into the garden.</action></p>
-    <p>To his horror, the <descriptor type="positive" gender="female">fairy</descriptor> was standing there.</p>
-    <p><action agency="active" gender="female" willingness="eager">She scolded him fiercely</action> for daring to enter and steal from her garden.</p>
-    <p><action agency="passive" gender="male" willingness="eager">He excused himself as best he could with his wife's pregnancy, and how it would be dangerous
-        to deny her anything.</action></p>
-    <p>Finally the <descriptor type="positive" gender="female">fairy</descriptor> spoke, "I will accept your excuse and even allow you to take as much
-        rapunzel as you want, if you will <descriptor type="negative" gender="female">give me the child that your wife is now carrying."</descriptor></p>
-    <p><action agency="passive" gender="male" willingness="neutral">In his fear the man agreed to everything.</action></p>
-    <p>When the woman gave birth, the <descriptor type="positive" gender="female">fairy</descriptor> appeared, named the little girl Rapunzel, and <action agency="active" gender="female" willingness="eager">took her
-        away.</action></p>
-    <p>This Rapunzel became the most <descriptor type="positive" gender="female">beautiful child</descriptor> under the sun, but when she was twelve years
-        old, the <descriptor type="positive" gender="female">fairy</descriptor> <action agency="active" gender="female" willingness="eager">locked her in a high tower that had neither a door nor a stairway, but only a
-        tiny little window at the very top.</action></p>
-    <p>When the <descriptor type="positive" gender="female">fairy</descriptor> wanted to enter, <action agency="active" gender="female" willingness="eager">she stood below and called out:</action></p>
-    <p>Rapunzel, Rapunzel!</p>
-    <p>Let down your hair to me.</p>
-    <p><descriptor type="positive" gender="female">Rapunzel had splendid hair, as fine as spun gold.</descriptor></p>
-    <p>When the <descriptor type="positive" gender="female">fairy</descriptor> called out, <action agency="passive" gender="female" willingness="neutral">she untied it, wound it around a window hook, let it fall twenty
-        yards to the ground,</action> and the <descriptor type="positive" gender="female">fairy</descriptor> <action agency="active" gender="female" willingness="eager">climbed up it.</action></p>
-    <p>One day a young prince came through the forest where the tower stood.</p>
-    <p>He saw the <descriptor type="positive" gender="female">beautiful Rapunzel</descriptor> standing at her window, heard her sing with her <descriptor type="positive" gender="female">sweet voice,</descriptor>
-        and <action agency="passive" gender="male" willingness="eager">fell in love with her.</action></p>
-    <p>Because there was no door in the tower and no ladder was tall enough to reach her, <action agency="active" gender="male" willingness="eager">He came to
-        the forest every day,</action> until once he saw the <descriptor type="positive" gender="female">fairy,</descriptor> who said:</p>
-    <p>Rapunzel, Rapunzel!</p>
-    <p>Let down your hair.</p>
-    <p>Then he knew which ladder would get him into the tower.</p>
-    <p><action agency="passive" gender="male" willingness="eager">He remembered the words that he would have to speak, and the next day, as soon as it was
-        dark, he went to the tower and called upward:</action></p>
-    <p>Rapunzel, Rapunzel!</p>
-    <p>Let down your hair!</p>
-    <p><action agency="passive" gender="female" willingness="eager">She let her hair fall.</action> <action agency="active" gender="male" willingness="eager">He tied himself to it and was pulled up.</action></p>
-    <p>At first Rapunzel was frightened, but soon she came to like the young king so well that <action agency="passive" gender="female" willingness="eager">she
-        arranged for him to come every day and be pulled up.</action> Thus they lived in joy and pleasure for
-        a long time.</p>
-    <p>The <descriptor type="positive" gender="female">fairy</descriptor> did not discover what was happening until one day Rapunzel said to her, "Frau
-        Gothel, tell me why it is that my clothes are all too tight. They no longer fit me."</p>
-    <p><descriptor type="negative" gender="female">"You godless child,"</descriptor> said the <descriptor type="positive" gender="female">fairy.</descriptor> "What am I hearing from you?" She immediately saw how
-        <descriptor type="negative" gender="female">she had been deceived and was terribly angry.</descriptor></p>
-    <p>She took <descriptor type="positive" gender="female">Rapunzel's beautiful hair,</descriptor> <action agency="active" gender="female" willingness="eager">wrapped it a few times around her left hand, grasped a
-        pair of scissors with her right hand, and snip snip, cut it off.</action></p>
-    <p>Then <action agency="active" gender="female" willingness="eager">she sent Rapunzel into a wilderness</action> where <action agency="passive" gender="female" willingness="neutral">she suffered greatly and where, after a time,
-        she gave birth to twins, a boy and a girl.</action></p>
-    <p>On the evening of the same day that she sent Rapunzel away, the <descriptor type="positive" gender="female">fairy</descriptor> <action agency="active" gender="female" willingness="eager">tied the cut-off hair
-        to the hook at the top of the tower,</action> and when the prince called out:</p>
-    <p>Rapunzel, Rapunzel!</p>
-    <p>Let down your hair!</p>
-    <p>she let down the hair.</p>
-    <p>The prince was startled to find the <descriptor type="positive" gender="female">fairy</descriptor> instead of his <descriptor type="positive" gender="female">beloved Rapunzel.</descriptor></p>
-    <p>"Do you know what, <descriptor type="negative" gender="female">evil</descriptor> one?" cried the <descriptor type="negative" gender="female">angry fairy</descriptor>. "You have lost Rapunzel forever."</p>
-    <p><action agency="active" gender="male" willingness="eager">The prince, in his despair, threw himself from the tower.</action></p>
-    <p>He escaped with his life, but he lost his eyesight in the fall.</p>
-    <p><action agency="passive" gender="male" willingness="neutral">Sorrowfully he wandered about in the forest weeping and, eating nothing but grass and
-        roots.</action></p>
-    <p><action agency="passive" gender="male" willingness="neuttral">Some years later he happened into the wilderness where Rapunzel lived miserably with her
-        children.</action></p>
-    <p>He thought that her voice was familiar.</p>
-    <p>She recognized him instantly as well and <action agency="active" gender="female" willingness="eager">threw her arms around his neck.</action></p>
-    <p><action agency="active" gender="female" willingness="eager">Two of her tears fell into his eyes, and they became clear once again, and he could see as
-        well as before.</action></p>
-    <empty happy_ending="true"></empty>
-        <source>Jacob and Wilhelm Grimm, Kinder- und Hausmärchen (Children's and Household Tales --
-            Grimms' Fairy Tales), 1st ed. <year>(Berlin, 1812)</year>, v. 1, no. 12.</source>
-    
-    <p>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata>
+        <title>Rapunzel</title>
+        <author>Jacob and Wilhelm Grimm</author>
+        <source>Source: Jacob and Wilhelm Grimm, Kinder- und Hausmärchen (Children's and Household
+            Tales -- Grimms' Fairy Tales), 1st ed. (Berlin, <year>1812</year>), v. 1, no.
+            12.</source>
         <translator>Translated by D. L. Ashliman. © 2000-2006.</translator>
-    </p>
-</story>
+    </metadata>
+    <body>
+        <p>Once upon a time there was a man and a woman who had long wished for a child but had
+            never received one.</p>
+        <p>Finally, however, <action agency="passive" gender="mixed" willingness="eager">the woman
+                came to be with child.</action></p>
+        <p>Through the small rear window of these people's house they could see into a <descriptor
+                type="positive" gender="female">fairy's</descriptor> garden that was filled with
+            flowers and herbs of all kinds.</p>
+        <p>No one dared enter this garden.</p>
+        <p>One day the woman was standing at this window, and she saw the most beautiful rapunzel in a bed.</p>
+        <p><action agency="passive" gender="female" willingness="hesitant">She longed for some, but
+                not knowing how to get any, she became miserably ill.</action></p>
+        <p>Her husband was <descriptor type="negative" gender="male">frightened</descriptor>, and
+            asked her why she was doing so poorly.</p>
+        <p>"Oh, if I do not get some rapunzel from the garden behind our house, I shall surely die,"
+            she said.</p>
+        <p>The man, who loved her dearly, <action agency="active" gender="male" willingness="eager"
+                >decided to get her some, whatever the cost.</action></p>
+        <p><action agency="active" gender="male" willingness="eager">One evening he climbed over the
+                high wall, hastily dug up a handful of rapunzel, and took it to his
+            wife.</action></p>
+        <p>She immediately made a salad from it, which she devoured <descriptor gender="female"
+                type="negative">greedily.</descriptor></p>
+        <p>It tasted so very good to her that by the next day her desire for more had grown
+            threefold.</p>
+        <p><action agency="active" gender="male" willingness="eager">The man saw that there would be
+                no peace, so once again he climbed into the garden.</action></p>
+        <p>To his horror, the <descriptor type="positive" gender="female">fairy</descriptor> was
+            standing there.</p>
+        <p><action agency="active" gender="female" willingness="eager">She scolded him
+                fiercely</action> for daring to enter and steal from her garden.</p>
+        <p><action agency="passive" gender="male" willingness="eager">He excused himself as best he
+                could with his wife's pregnancy, and how it would be dangerous to deny her
+                anything.</action></p>
+        <p>Finally the <descriptor type="positive" gender="female">fairy</descriptor> spoke, "I will
+            accept your excuse and even allow you to take as much rapunzel as you want, if you will
+                <descriptor type="negative" gender="female">give me the child that your wife is now
+                carrying."</descriptor></p>
+        <p><action agency="passive" gender="male" willingness="neutral">In his fear the man agreed
+                to everything.</action></p>
+        <p>When the woman gave birth, the <descriptor type="positive" gender="female"
+                >fairy</descriptor> appeared, named the <descriptor type="neutral" gender="female"
+                >little</descriptor> girl Rapunzel, and <action agency="active" gender="female"
+                willingness="eager">took her away.</action></p>
+        <p>This Rapunzel became the most <descriptor type="positive" gender="female">beautiful
+                child</descriptor> under the sun, but when she was twelve years old, the <descriptor
+                type="positive" gender="female">fairy</descriptor>
+            <action agency="active" gender="female" willingness="eager">locked her in a high tower
+                that had neither a door nor a stairway, but only a tiny little window at the very
+                top.</action></p>
+        <p>When the <descriptor type="positive" gender="female">fairy</descriptor> wanted to enter,
+                <action agency="active" gender="female" willingness="eager">she stood below and
+                called out:</action></p>
+        <lg>
+            <l>Rapunzel, Rapunzel!</l>
+            <l>Let down your hair to me.</l>
+        </lg>
+        <p><descriptor type="positive" gender="female">Rapunzel had splendid hair, as fine as spun
+                gold.</descriptor></p>
+        <p>When the <descriptor type="positive" gender="female">fairy</descriptor> called out,
+                <action agency="passive" gender="female" willingness="neutral">she untied it, wound
+                it around a window hook, let it fall twenty yards to the ground,</action> and the
+                <descriptor type="positive" gender="female">fairy</descriptor>
+            <action agency="active" gender="female" willingness="eager">climbed up it.</action></p>
+        <p>One day a <descriptor type="neutral" gender="male">young</descriptor> prince <action
+                gender="male" agency="active" willingness="eager">came through the forest where the
+                tower stood.</action></p>
+        <p>He saw the <descriptor type="positive" gender="female">beautiful</descriptor> Rapunzel
+            standing at her window, heard her sing with her <descriptor type="positive"
+                gender="female">sweet voice,</descriptor> and <action agency="passive" gender="male"
+                willingness="eager">fell in love with her.</action></p>
+        <p>Because there was no door in the tower and no ladder was tall enough to reach her,
+                <action agency="active" gender="male" willingness="eager">He came to the forest
+                every day,</action> until once he saw the <descriptor type="positive"
+                gender="female">fairy,</descriptor> who said:</p>
+        <lg>
+            <l>Rapunzel, Rapunzel!</l>
+            <l>Let down your hair.</l>
+        </lg>
+        <p>Then he knew which ladder would get him into the tower.</p>
+        <p><action agency="passive" gender="male" willingness="eager">He remembered the words that
+                he would have to speak, and the next day, as soon as it was dark, he went to the
+                tower and called upward:</action></p>
+        <lg>
+            <l>Rapunzel, Rapunzel!</l>
+            <l>Let down your hair!</l>
+        </lg>
+        <p><action agency="passive" gender="female" willingness="eager">She let her hair
+                fall.</action>
+            <action agency="active" gender="male" willingness="eager">He tied himself to it and was
+                pulled up.</action></p>
+        <p>At first Rapunzel was <descriptor gender="female" type="negative"
+                >frightened,</descriptor> but soon she came to like the young king so well that
+                <action agency="passive" gender="female" willingness="eager">she arranged for him to
+                come every day and be pulled up.</action> Thus they lived in joy and pleasure for a
+            long time.</p>
+        <p>The <descriptor type="positive" gender="female">fairy</descriptor> did not discover what
+            was happening until one day Rapunzel said to her, "Frau Gothel, tell me why it is that
+            my clothes are all too tight. They no longer fit me."</p>
+        <p><descriptor type="negative" gender="female">"You godless child,"</descriptor> said the
+                <descriptor type="positive" gender="female">fairy.</descriptor> "What am I hearing
+            from you?" She immediately saw how she had been deceived and was <descriptor
+                type="negative" gender="female">terribly angry.</descriptor></p>
+        <p>She took Rapunzel's <descriptor type="positive" gender="female">beautiful</descriptor>
+            hair, <action agency="active" gender="female" willingness="eager">wrapped it a few times
+                around her left hand, grasped a pair of scissors with her right hand, and snip snip,
+                cut it off.</action></p>
+        <p>Then <action agency="active" gender="female" willingness="eager">she sent Rapunzel into a
+                wilderness</action> where <action agency="passive" gender="female"
+                willingness="neutral">she suffered greatly and where, after a time, she gave birth
+                to twins, a boy and a girl.</action></p>
+        <p>On the evening of the same day that she sent Rapunzel away, the <descriptor
+                type="positive" gender="female">fairy</descriptor>
+            <action agency="active" gender="female" willingness="eager">tied the cut-off hair to the
+                hook at the top of the tower,</action> and when the prince called out:</p>
+        <lg>
+            <l>Rapunzel, Rapunzel!</l>
+            <l>Let down your hair!</l>
+            <l>she let down the hair.</l>
+        </lg>
+        <p>The prince was startled to find the <descriptor type="positive" gender="female"
+                >fairy</descriptor> instead of his <descriptor type="positive" gender="female"
+                >beloved</descriptor> Rapunzel.</p>
+        <p>"Do you know what, <descriptor type="negative" gender="female">evil</descriptor> one?"
+            cried the <descriptor type="negative" gender="female">angry fairy</descriptor>. "You
+            have lost Rapunzel forever."</p>
+        <p><action agency="active" gender="male" willingness="eager">The prince, in his despair,
+                threw himself from the tower.</action></p>
+        <p>He escaped with his life, but he lost his eyesight in the fall.</p>
+        <p><action agency="passive" gender="male" willingness="neutral">Sorrowfully he wandered
+                about in the forest weeping and, eating nothing but grass and roots.</action></p>
+        <p><action agency="passive" gender="male" willingness="neutral">Some years later he happened
+                into the wilderness where Rapunzel lived miserably with her children.</action></p>
+        <p>He thought that her voice was familiar.</p>
+        <p>She recognized him instantly as well and <action agency="active" gender="female"
+                willingness="eager">threw her arms around his neck.</action></p>
+        <p><action agency="active" gender="female" willingness="eager">Two of her tears fell into
+                his eyes, and they became clear once again, and he could see as well as
+                before.</action></p>
+        <ending happy_ending="true"/>
+    </body>
+</fairytale>

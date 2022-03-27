@@ -1,218 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story>
-    <title>Hansel and Gretel</title>
-    <author>Jacob and Wilhelm Grimm</author>
-    <p>Next to a great forest there lived a <description type="negative" gender="male">poor woodcutter</description> with his wife and his two children. The
-        boy's name was Hansel and the girl's name was Gretel. He had but little to eat, and once,
-        when a great famine came to the land, <action agency="passive" gender="male" willingness="eager">he could no longer provide even their daily bread.</action></p>
-    <p><action agency="passive" gender="male" willingness="eager">One evening as he was lying in bed worrying about his problems,</action> he sighed and said to his
-        wife, "What is to become of us? How can we feed our children when we have nothing for
-        ourselves?"</p>
-    <p>"Man, do you know what?" answered the woman."Early tomorrow morning we will take the two
-        children out into the thickest part of the woods, make a fire for them, and give each of
-        them a little piece of bread, then leave them by themselves and go off to our work. They
-        will not find their way back home, and we will be rid of them."</p>
-    <p><action agency="passive" gender="male" willingness="eager">"No, woman," said the man. "I will not do that. How could I bring myself to abandon my own
-        children alone in the woods? Wild animals would soon come and tear them to pieces."</action></p>
-    <p>"Oh, <description type="negative" gender="female">you fool,"</description> she said, "then all four of us will starve. All you can do is to plane the
-        boards for our coffins." <action agency="passive" gender="female" willingness="eager">And she gave him no peace until he agreed.</action></p>
-    <p>"But I do feel sorry for the poor children," said the man.</p>
-    <p>The two children had not been able to fall asleep because of their hunger, and they heard
-        what the stepmother had said to the father.</p>
-    <p><action agency="passive" gender="female" willingness="neutral">Gretel cried bitter tears</action> and said to Hansel, "It is over with us!"</p>
-    <p>"Be quiet, Gretel," said Hansel, "and don't worry. I know what to do."</p>
-    <p>And as soon as the adults had fallen asleep, <action agency="active" gender="male" willingness="eager">he got up, pulled on his jacket, opened the
-        lower door, and crept outside.</action> The moon was shining brightly, and the white pebbles in front
-        of the house were glistening like silver coins. Hansel bent over and filled his jacket
-        pockets with them, as many as would fit.</p>
-    <p>Then he went back into the house and said, "Don't worry, Gretel. Sleep well. God will not
-        forsake us." Then he went back to bed.</p>
-    <p>At daybreak, even before sunrise, the woman came and woke the two children. <description type="negative" gender="female | male">Get up, you
-        lazybones.</description> We are going into the woods to fetch wood." <action agency="active" gender="female" willingness="eager">Then she gave each one a little piece
-        of bread, saying, "Here is something for midday. Don't eat it any sooner, for you'll not get
-        any more."</action></p>
-    <p>Gretel put the bread under her apron, because Hansel's pockets were full of stones. Then all
-        together they set forth into the woods. After they had walked a little way, Hansel began
-        stopping again and again and looking back toward the house.</p>
-    <p>The father said, "Hansel, why are you stopping and looking back? Pay attention now, and don't
-        forget your legs."</p>
-    <p>"Oh, father," said Hansel, "I am looking at my white cat that is sitting on the roof and
-        wants to say good-bye to me."</p>
-    <p>The woman said, <description type="negative" gender="male">You fool,</description> that isn't your cat. That's the morning sun shining on the
-        chimney."</p>
-    <p>However, <action agency="active" gender="male" willingness="eager"> Hansel had not been looking at his cat but instead had been dropping the shiny
-        pebbles from his pocket onto the path.</action></p>
-    <p>When they arrived in the middle of the woods, the father said, "You children gather some
-        wood, and I will make a fire so you won't freeze."</p>
-    <p><action agency="active" gender="female | male" willingness="eager">Hansel and Gretel gathered together some twigs,</action> a pile as high as a small mountain</p>
-    <p>The twigs were set afire, and when the flames were burning well, the woman said, "Lie down by
-        the fire and rest. We will go into the woods to cut wood. When we are finished, we will come
-        back and get you."</p>
-    <p>Hansel and Gretel sat by the fire. When midday came each one ate his little piece of bread.
-        Because they could hear the blows of an ax, they thought that the father was nearby.
-        However, it was not an ax. It was a branch that he had tied to a dead tree and that the wind
-        was beating back and forth. After they had sat there a long time, their eyes grew weary and
-        closed, and they fell sound sleep.</p>
-    <p>When they finally awoke, it was dark at night. Gretel began to cry and said, "How will we get
-        out of woods?"</p>
-    <p>Hansel comforted her, "Wait a little until the moon comes up, and then we'll find the
-        way."</p>
-    <p>After the full moon had come up, <action agency="active" gender="male" willingness="eager">Hansel took his little sister by the hand.</action> They followed the
-        pebbles that glistened there like newly minted coins, showing them the way. They walked
-        throughout the entire night, and as morning was breaking, they arrived at the father's
-        house.</p>
-    <p>They knocked on the door, and when the woman opened it and saw that it was Hansel and Gretel,
-        she said, <description type="negative" gender="female | male">You wicked children,</description> why did you sleep so long in the woods? We thought that you
-        did not want to come back."</p>
-    <p>But the <description type="positive" gender="male"> father was overjoyed when he saw his children</description> once more, for <action agency="passive" gender="male" willingness="eager">he had not wanted to
-        leave them alone.</action></p>
-    <p>Not long afterward there was once again great need everywhere, and one evening the children
-        heard the mother say to the father, "We have again eaten up everything. We have only a half
-        loaf of bread, and then the song will be over. <action agency="passive" gender="female" willingness="eager">We must get rid of the children. We will take
-        them deeper into the woods, so they will not find their way out. Otherwise there will be no
-        help for us."</action></p>
-    <p><action agency="passive" gender="male" willingness="hesitant">The man was very disheartened, and he thought, "It would be better to share the last bit with
-        the children."</action></p>
-    <p>But the <description type="negative" gender="female">woman would not listen to him, scolded him, and criticized him.</description> He who says A must
-        also say B, and because he had given in the first time, he had to do so the second time as
-        well.</p>
-    <p>The children were still awake and had overheard the conversation. When the adults were
-        asleep, <action agency="active" gender="male" willingness="eager">Hansel got up again and wanted to gather pebbles as he had done before,</action> but the
-        <action agency="active" gender="female" willingness="active">woman had locked the door,</action> and <action agency="active" gender="male" willingness="eager">Hansel could not get out. But he comforted his little sister
-        and said, "Don't cry, Gretel. Sleep well. God will help us."</action></p>
-    <p><action agency="active" gender="female" willingness="eager">Early the next morning the woman came and got the children from their beds. They received
-        their little pieces of bread, even less than the last time.</action> On the way to the woods, Hansel
-        crumbled his piece in his pocket, then often stood still, and threw crumbs onto the
-        ground.</p>
-    <p>"Hansel, why are you always stopping and looking around?" said his father. "Keep walking
-        straight ahead."</p>
-    <p>"I can see my pigeon sitting on the roof. It wants to say good-bye to me."</p>
-    <p><description type="negative" gender="male">"Fool,"</description> said the woman, "that isn't your pigeon. That's the morning sun shining on the
-        chimney."</p>
-    <p>But little by little <action agency="active" gender="male" willingness="eager">Hansel dropped all the crumbs onto the path.</action> <action agency="active" gender="female" willingness="eager">The woman took them deeper
-        into the woods than they had ever been in their whole lifetime.</action></p>
-    <p>Once again a large fire was made, and the mother said, "Sit here, children. If you get tired
-        you can sleep a little. We are going into the woods to cut wood. We will come and get you in
-        the evening when we are finished."</p>
-    <p>When it was midday <action agency="active" gender="female" willingness="eager">Gretel shared her bread with Hansel, who had scattered his piece along the
-        path.</action> <action agency="passive" gender="female | male" willingness="eager">Then they fell asleep, and evening passed, but no one came to get the poor
-        children.</action></p>
-    <p>It was dark at night when they awoke, and <action agenncy="active" gender="male" willingness="eager">Hansel comforted Gretel and said, "Wait, when the
-        moon comes up I will be able to see the crumbs of bread that I scattered, and they will show
-        us the way back home."</action></p>
-    <p>When the moon appeared <action agency="active" gender="female | male" willingness="eager">they got up, but they could not find any crumbs,</action> for the many
-        thousands of birds that fly about in the woods and in the fields had pecked them up.</p>
-    <p>Hansel said to Gretel, "We will find our way," but they did not find it.</p>
-    <p><action agency="active" gender="female | male" willingness="eager">They walked through the entire night and the next day from morning until evening, but they
-        did not find their way out of the woods.</action> They were terribly hungry, for they had eaten only
-        a few small berries that were growing on the ground. And because they were so tired that
-        their legs would no longer carry them, <action agency="passive" gender="female | male" willingness="eager">they lay down under a tree and fell asleep.</action> It was
-        already the third morning since they had left the father's house. <action agency="active" gender="female | male" willingness="eager">They started walking
-        again, but managed only to go deeper and deeper into the woods.</action> If help did not come soon,
-        they would perish. At midday they saw a little snow-white bird sitting on a branch. It sang
-        so beautifully that they stopped to listen. When it was finished it stretched its wings and
-        flew in front of them. They followed it until they came to a little house. The bird sat on
-        the roof, and when they came closer, they saw that the little house was built entirely from
-        bread with a roof made of cake, and the windows were made of clear sugar.</p>
-    <p>"Let's help ourselves to a good meal," said Hansel. "I'll eat a piece of the roof, and
-        Gretel, you eat from the window. That will be sweet."</p>
-    <p><action agency="active" gender="male" willingness="eager">Hansel reached up and broke off a little of the roof to see how it tasted,</action> while Gretel stood
-        next to the windowpanes and was nibbling at them. Then a gentle voice called out from
-        inside:</p>
-    <p>Nibble, nibble, little mouse,</p>
-    <p>Who is nibbling at my house?</p>
-    <p>The children answered:</p>
-    <p>The wind, the wind,</p>
-    <p>The heavenly child.</p>
-    <p>They continued to eat, without being distracted. Hansel, who very much like the taste of the
-        roof, <action agency="active" gender="male" willingness="eager">tore down another large piece,</action> and <action type="active" gender="female" willingness="eager">Gretel poked out an entire round windowpane.</action>
-        Suddenly the door opened, and <description type="negative" gender="female">a woman, as old as the hills and leaning on a crutch,</description> came
-        creeping out. Hansel and Gretel were so frightened that they dropped what they were holding
-        in their hands.</p>
-    <p>But the <description type="negative" gender="female">old woman</description> shook her head and said, "Oh, you dear children, who brought you here? Just
-        come in and stay with me. No harm will come to you."</p>
-    <p><action agency="active" gender="female" willingness="eager">She took them by the hand and led them into her house. Then she served them a good meal:</action> milk
-        and pancakes with sugar, apples, and nuts. Afterward <action type="active" gender="female" willingness="eager">she made two nice beds for them,</action> decked
-        in white. <action agency="passive" gender="female | male" willingness="eager">Hansel and Gretel went to bed, thinking they were in heaven.</action> But the <description type="negative" gender="female">old woman</description> had
-        only pretended to be friendly. <description type="negative" gender="female">She was a wicked witch</description> <action agency="active" gender="female" willingness="eager">who was lying in wait there for
-        children. She had built her house of bread only in order to lure them to her, and if she
-        captured one, she would kill him, cook him, and eat him; and for her that was a day to
-        celebrate.</action></p>
-    <p><description type="negative" gender="female">Witches have red eyes and cannot see very far, but they have a sense of smell like animals,
-        and know when humans are approaching.</description></p>
-    <p><action agency="active" gender="female" willingness="eager">When Hansel and Gretel came near to her, she laughed wickedly and spoke scornfully, "Now I
-        have them. They will not get away from me again."</action></p>
-    <p>Early the next morning, before they awoke, she got up, went to their beds, and looked at the
-       <description type="positive" gender="female | male"> two of them lying there so peacefully, with their full red cheeks.</description> "They will be a good
-        mouthful," she mumbled to herself. <action agency="active" gender="female" willingness="eager">Then she grabbed Hansel with her withered hand and
-        carried him to a little stall, where she locked him behind a cage door.</action> Cry as he might,
-        there was no help for him.</p>
-    <p><action agency="active" gender="female" willingness="eager">Then she shook Gretel and cried,</action> "Get up, <description type="negative" gender="female">lazybones!</description> Fetch water and cook something good for
-        your brother. He is locked outside in the stall and is to be fattened up. When he is fat I
-        am going to eat him."</p>
-    <p><action agency="passive" gender="female" willingness="hesitant">Gretel began to cry, but it was all for nothing. She had to do what the witch demanded.</action> Now
-        Hansel was given the best things to eat every day, but Gretel received nothing but crayfish
-        shells.</p>
-    <p>Every morning the <description type="negative" gender="female">old woman</description> crept out to the stall and shouted, "Hansel, stick out your
-        finger, so I can feel if you are fat yet."</p>
-    <p><action agency="active" gender="male" willingness="eager">But Hansel stuck out a little bone,</action> and the <description type="negative" gender="female">old woman,</description> who had bad eyes and could not see the
-        bone, thought it was Hansel's finger, and she wondered why he didn't get fat.</p>
-    <p>When four weeks had passed and Hansel was still thin, <description type="negative" gender="female">impatience overcame her,</description> and she would
-        wait no longer. "Hey, Gretel!" she shouted to the girl, "Hurry up and fetch some water.
-        Whether Hansel is fat or thin, <action agency="active" gender="female" willingness="eager">tomorrow I am going to slaughter him and boil him."</action></p>
-    <p>Oh, how <action agency="passive" gender="female" willingness="hesitant">the poor little sister sobbed as she was forced to carry the water, and how the tears
-        streamed down her cheeks!</action> "Dear God, please help us," she cried. "If only the wild animals
-        had devoured us in the woods, then we would have died together."</p>
-    <p>"Save your slobbering," said the old woman. "It doesn't help you at all."</p>
-    <p><action agency="passive" gender="female" willingness="hesitant">The next morning Gretel had to get up early, hang up the kettle with water, and make a
-        fire.</action></p>
-    <p>"First we are going to bake," said the old woman. "I have already made a fire in the oven and
-        kneaded the dough."</p>
-    <p><action agency="action" gender="female" willingness="eager">She pushed poor Gretel outside to the oven,</action> from which fiery flames were leaping. "Climb in,"
-        said the witch, "and see if it is hot enough to put the bread in yet." And when Gretel was
-        inside, she intended to close the oven, and bake her, and eat her as well.</p>
-    <p>But Gretel saw what she had in mind, so she said, "I don't know how to do that. How can I get
-        inside?"</p>
-    <p>"<description type="negative" gender="female">Stupid goose,"</description> said the <description type="negative" gender="female">old woman.</description> The opening is big enough. See, I myself could get in."
-        And she crawled up stuck her head into the oven.</p>
-    <p><action agency="active" gender="female" willingness="eager">Then Gretel gave her a shove, causing her to fall in. Then she closed the iron door and
-        secured it with a bar.</action> The <description type="negative" gender="female">old woman</description> began to howl frightfully. <action agency="active" gender="female" willingness="eager">But Gretel ran away, and the
-            <description type="negative" gender="female">godless witch</description> burned up miserably. Gretel ran straight to Hansel, unlocked his stall, and
-            cried, "Hansel, we are saved. The <description type="negative" gender="female">old witch</description> is dead."</action></p>
-    <p><action agency="active" gender="male" willingness="eager">Then Hansel jumped out, like a bird from its cage when someone opens its door.</action> How happy they
-        were! They threw their arms around each other's necks, jumped with joy, and kissed one
-        another. Because they now had nothing to fear, they went into the witch's house. In every
-        corner were chests of pearls and precious stones.</p>
-    <p>"These are better than pebbles," said Hansel, filling his pockets.</p>
-    <p>Gretel said, "I will take some home with me as well," and she filled her apron full.</p>
-    <p>"But now we must leave," said Hansel, "and get out of these witch-woods."</p>
-    <p>After walking a few hours they arrived at a large body of water. "We cannot get across," said
-        Hansel. "I cannot see a walkway or a bridge."</p>
-    <p>"There are no boats here," answered Gretel, "but there is a white duck swimming. If I ask it,
-        it will help us across."</p>
-    <p><action agency="active" gender="female" willingness="eager">Then she called out:</action></p>
-    <p>Duckling, duckling,</p>
-    <p>Here stand Gretel and Hansel.</p>
-    <p>Neither a walkway nor a bridge,</p>
-    <p>Take us onto your white back.</p>
-    <p>The duckling came up to them, and Hansel climbed onto it, then asked his little sister to sit
-        down next to him.</p>
-    <p>"No," answered Gretel. "That would be too heavy for the duckling. It should take us across
-        one at a time."</p>
-    <p>That is what the good animal did, and when they were safely on the other side, and had walked
-        on a little while, the woods grew more and more familiar to them, and finally they saw the
-        father's house in the distance. <action agency="active" gender="female | male" willingness="eager">They began to run, rushed inside, and threw their arms
-        around the father's neck.</action></p>
-    <p>The <descriptor type="positive" gender="male">man had not had even one happy hour since he had left the children in the woods.</descriptor> However,
-        the woman had died. Gretel shook out her apron, scattering pearls and precious stones around
-        the room, and Hansel added to them by throwing one handful after the other from his
-        pockets.</p>
-    <p><empty happy_ending="true">Now all their cares were at an end, and they lived happily together.</empty></p>
-    <p>My tale is done,</p>
-    <p>A mouse has run.</p>
-    <p>And whoever catches it can make for himself from it a large, large fur cap.</p>
-    <source>Source: Jacob and Wilhelm Grimm, "Hänsel und Grethel," Kinder- und Hausmärchen
-        [Children's and Household Tales -- Grimms' Fairy Tales], vol. 1, 7th ed. (Göttingen: Verlag
-        der Dieterichschen Buchhandlung, <year>1857</year>), no. 15, pp. 79-87.</source>
-    <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
-</story>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata>
+        <title>Hansel and Gretel</title>
+        <author>Jacob and Wilhelm Grimm</author>
+        <source>Source: Jacob and Wilhelm Grimm, "Hänsel und Grethel," Kinder- und Hausmärchen
+            [Children's and Household Tales -- Grimms' Fairy Tales], vol. 1, 7th ed. (Göttingen:
+            Verlag der Dieterichschen Buchhandlung, <year>1857</year>), no. 15, pp. 79-87.</source>
+        <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
+    </metadata>
+
+    <body>
+        <p>Next to a great forest there lived a <descriptor type="negative" gender="male">poor
+                woodcutter</descriptor> with his wife and his two children. The boy's name was
+            Hansel and the girl's name was Gretel. He had but little to eat, and once, when a great
+            famine came to the land, <action agency="passive" gender="male" willingness="eager">he
+                could no longer provide even their daily bread.</action></p>
+        <p><action agency="passive" gender="male" willingness="eager">One evening as he was lying in
+                bed worrying about his problems,</action> he sighed and said to his wife, "What is
+            to become of us? How can we feed our children when we have nothing for ourselves?"</p>
+        <p>"Man, do you know what?" answered the woman."Early tomorrow morning we will take the two
+            children out into the thickest part of the woods, make a fire for them, and give each of
+            them a little piece of bread, then leave them by themselves and go off to our work. They
+            will not find their way back home, and we will be rid of them."</p>
+        <p><action agency="passive" gender="male" willingness="eager">"No, woman," said the man. "I
+                will not do that. How could I bring myself to abandon my own children alone in the
+                woods? Wild animals would soon come and tear them to pieces."</action></p>
+        <p>"Oh, <descriptor type="negative" gender="female">you fool,"</descriptor> she said, "then
+            all four of us will starve. All you can do is to plane the boards for our coffins."
+                <action agency="passive" gender="female" willingness="eager">And she gave him no
+                peace until he agreed.</action></p>
+        <p>"But I do feel sorry for the poor children," said the man.</p>
+        <p>The two children had not been able to fall asleep because of their hunger, and they
+                <action agency="passive" gender="mixed" willingness="neutral">heard what the
+                stepmother had said to the father.</action></p>
+        <p><action agency="passive" gender="female" willingness="neutral">Gretel cried bitter
+                tears</action> and said to Hansel, "It is over with us!"</p>
+        <p>"Be quiet, Gretel," said Hansel, "and don't worry. I know what to do."</p>
+        <p>And as soon as the adults had fallen asleep, <action agency="active" gender="male"
+                willingness="eager">he got up, pulled on his jacket, opened the lower door, and
+                crept outside.</action> The moon was shining brightly, and the white pebbles in
+            front of the house were glistening like silver coins. Hansel bent over and filled his
+            jacket pockets with them, as many as would fit.</p>
+        <p>Then he went back into the house and said, "Don't worry, Gretel. Sleep well. God will not
+            forsake us." Then he went back to bed.</p>
+        <p>At daybreak, even before sunrise, the woman came and woke the two children. <descriptor
+                type="negative" gender="mixed">Get up, you lazybones.</descriptor> We are going into
+            the woods to fetch wood." <action agency="active" gender="female" willingness="eager"
+                >Then she gave each one a little piece of bread, saying, "Here is something for
+                midday. Don't eat it any sooner, for you'll not get any more."</action></p>
+        <p>Gretel put the bread under her apron, because Hansel's pockets were full of stones. Then
+            all together they set forth into the woods. After they had walked a little way, Hansel
+                <action agency="active" gender="male" willingness="eager">began stopping again and
+                again and looking back toward the house.</action></p>
+        <p>The father said, "Hansel, why are you stopping and looking back? Pay attention now, and
+            don't forget your legs."</p>
+        <p>"Oh, father," said Hansel, "I am looking at my white cat that is sitting on the roof and
+            wants to say good-bye to me."</p>
+        <p>The woman said, <descriptor type="negative" gender="male">You fool,</descriptor> that
+            isn't your cat. That's the morning sun shining on the chimney."</p>
+        <p>However, <action agency="active" gender="male" willingness="eager"> Hansel had not been
+                looking at his cat but instead had been dropping the shiny pebbles from his pocket
+                onto the path.</action></p>
+        <p>When they arrived in the middle of the woods, the father said, "You children gather some
+            wood, and I will make a fire so you won't freeze."</p>
+        <p><action agency="active" gender="mixed" willingness="eager">Hansel and Gretel gathered
+                together some twigs,</action> a pile as high as a small mountain</p>
+        <p>The twigs were set afire, and when the flames were burning well, the woman said, "Lie
+            down by the fire and rest. We will go into the woods to cut wood. When we are finished,
+            we will come back and get you."</p>
+        <p>Hansel and Gretel sat by the fire. When midday came each one ate his little piece of
+            bread. Because they could hear the blows of an ax, they thought that the father was
+            nearby. However, it was not an ax. It was a branch that he had tied to a dead tree and
+            that the wind was beating back and forth. After they had sat there a long time, their
+            eyes grew weary and closed, and they fell sound sleep.</p>
+        <p>When they finally awoke, it was dark at night. Gretel began to cry and said, "How will we
+            get out of woods?"</p>
+        <p>Hansel comforted her, "Wait a little until the moon comes up, and then we'll find the
+            way."</p>
+        <p>After the full moon had come up, <action agency="active" gender="male"
+                willingness="eager">Hansel took his little sister by the hand.</action> They <action
+                gender="mixed" agency="active" willingness="eager">followed the pebbles that
+                glistened there like newly minted coins, showing them the way. They walked
+                throughout the entire night, and as morning was breaking, they arrived at the
+                father's house.</action></p>
+        <p>They knocked on the door, and when the woman opened it and saw that it was Hansel and
+            Gretel, she said, You <descriptor type="negative" gender="mixed">wicked</descriptor>
+            children, why did you sleep so long in the woods? We thought that you did not want to
+            come back."</p>
+        <p>But the father was <descriptor type="positive" gender="male"> overjoyed</descriptor> when
+            he saw his children once more, for <action agency="passive" gender="male"
+                willingness="eager">he had not wanted to leave them alone.</action></p>
+        <p>Not long afterward there was once again great need everywhere, and one evening the
+            children heard the mother say to the father, "We have again eaten up everything. We have
+            only a half loaf of bread, and then the song will be over. <action agency="active"
+                gender="female" willingness="eager">We must get rid of the children. We will take
+                them deeper into the woods, so they will not find their way out. Otherwise there
+                will be no help for us."</action></p>
+        <p><action agency="passive" gender="male" willingness="hesitant">The man was very
+                disheartened, and he thought, "It would be better to share the last bit with the
+                children."</action></p>
+        <p>But the woman would not listen to him, scolded him, and criticized him. He who says A
+            must also say B, and because he had given in the first time, he had to do so the second
+            time as well.</p>
+        <p>The children were still awake and had overheard the conversation. When the adults were
+            asleep, <action agency="active" gender="male" willingness="eager">Hansel got up again
+                and wanted to gather pebbles as he had done before,</action> but the <action
+                agency="active" gender="female" willingness="eager">woman had locked the
+                door,</action> and <action agency="active" gender="male" willingness="eager">Hansel
+                could not get out. But he comforted his little sister and said, "Don't cry, Gretel.
+                Sleep well. God will help us."</action></p>
+        <p><action agency="active" gender="female" willingness="eager">Early the next morning the
+                woman came and got the children from their beds. They received their little pieces
+                of bread, even less than the last time.</action> On the way to the woods, Hansel
+            crumbled his piece in his pocket, then often stood still, and threw crumbs onto the
+            ground.</p>
+        <p>"Hansel, why are you always stopping and looking around?" said his father. "Keep walking
+            straight ahead."</p>
+        <p>"I can see my pigeon sitting on the roof. It wants to say good-bye to me."</p>
+        <p><descriptor type="negative" gender="male">"Fool,"</descriptor> said the woman, "that
+            isn't your pigeon. That's the morning sun shining on the chimney."</p>
+        <p>But little by little <action agency="active" gender="male" willingness="eager">Hansel
+                dropped all the crumbs onto the path.</action>
+            <action agency="active" gender="female" willingness="eager">The woman took them deeper
+                into the woods than they had ever been in their whole lifetime.</action></p>
+        <p>Once again a large fire was made, and the mother said, "Sit here, children. If you get
+            tired you can sleep a little. We are going into the woods to cut wood. We will come and
+            get you in the evening when we are finished."</p>
+        <p>When it was midday <action agency="active" gender="female" willingness="eager">Gretel
+                shared her bread with Hansel, who had scattered his piece along the path.</action>
+            <action agency="passive" gender="mixed" willingness="eager">Then they fell asleep, and
+                evening passed, but no one came to get the poor children.</action></p>
+        <p>It was dark at night when they awoke, and <action agency="active" gender="male"
+                willingness="eager">Hansel comforted Gretel and said, "Wait, when the moon comes up
+                I will be able to see the crumbs of bread that I scattered, and they will show us
+                the way back home."</action></p>
+        <p>When the moon appeared <action agency="active" gender="mixed" willingness="eager">they
+                got up, but they could not find any crumbs,</action> for the many thousands of birds
+            that fly about in the woods and in the fields had pecked them up.</p>
+        <p>Hansel said to Gretel, "We will find our way," but they did not find it.</p>
+        <p><action agency="active" gender="mixed" willingness="eager">They walked through the entire
+                night and the next day from morning until evening, but they did not find their way
+                out of the woods.</action> They were terribly hungry, for they had eaten only a few
+            small berries that were growing on the ground. And because they were so tired that their
+            legs would no longer carry them, <action agency="passive" gender="mixed"
+                willingness="eager">they lay down under a tree and fell asleep.</action> It was
+            already the third morning since they had left the father's house. <action
+                agency="active" gender="mixed" willingness="eager">They started walking again, but
+                managed only to go deeper and deeper into the woods.</action> If help did not come
+            soon, they would perish. At midday they saw a little snow-white bird sitting on a
+            branch. It sang so beautifully that they stopped to listen. When it was finished it
+            stretched its wings and flew in front of them. They followed it until they came to a
+            little house. The bird sat on the roof, and when they came closer, they saw that the
+            little house was built entirely from bread with a roof made of cake, and the windows
+            were made of clear sugar.</p>
+        <p>"Let's help ourselves to a good meal," said Hansel. "I'll eat a piece of the roof, and
+            Gretel, you eat from the window. That will be sweet."</p>
+        <p><action agency="active" gender="male" willingness="eager">Hansel reached up and broke off
+                a little of the roof to see how it tasted,</action> while Gretel stood next to the
+            windowpanes and was nibbling at them. Then a gentle voice called out from inside:</p>
+        <lg>
+            <l>Nibble, nibble, little mouse,</l>
+            <l>Who is nibbling at my house?</l>
+            <l>The children answered:</l>
+            <l>The wind, the wind,</l>
+            <l>The heavenly child.</l>
+        </lg>
+        <p>They continued to eat, without being distracted. Hansel, who very much like the taste of
+            the roof, <action agency="active" gender="male" willingness="eager">tore down another
+                large piece,</action> and <action agency="active" gender="female"
+                willingness="eager">Gretel poked out an entire round windowpane.</action> Suddenly
+            the door opened, and <descriptor type="negative" gender="female">a woman, as old as the
+                hills and leaning on a crutch,</descriptor> came creeping out. Hansel and Gretel
+            were so frightened that they dropped what they were holding in their hands.</p>
+        <p>But the <descriptor type="neutral" gender="female">old</descriptor> woman shook her head
+            and said, "Oh, you dear children, who brought you here? Just come in and stay with me.
+            No harm will come to you."</p>
+        <p><action agency="active" gender="female" willingness="eager">She took them by the hand and
+                led them into her house. Then she served them a good meal:</action> milk and
+            pancakes with sugar, apples, and nuts. Afterward <action agency="active" gender="female"
+                willingness="eager">she made two nice beds for them,</action> decked in white.
+                <action agency="passive" gender="mixed" willingness="eager">Hansel and Gretel went
+                to bed, thinking they were in heaven.</action> But the <descriptor type="neutral"
+                gender="female">old</descriptor> woman had only pretended to be friendly. She was a
+                <descriptor type="negative" gender="female">wicked witch</descriptor>
+            <action agency="active" gender="female" willingness="eager">who was lying in wait there
+                for children. She had built her house of bread only in order to lure them to her,
+                and if she captured one, she would kill him, cook him, and eat him; and for her that
+                was a day to celebrate.</action></p>
+        <p><descriptor type="negative" gender="female">Witches have red eyes and cannot see very
+                far, but they have a sense of smell like animals, and know when humans are
+                approaching.</descriptor></p>
+        <p><action agency="active" gender="female" willingness="eager">When Hansel and Gretel came
+                near to her, she laughed <descriptor type="negative" gender="female"
+                    >wickedly</descriptor> and spoke <descriptor type="negative" gender="female"
+                    >scornfully</descriptor>, "Now I have them. They will not get away from me
+                again."</action></p>
+        <p>Early the next morning, before they awoke, she got up, went to their beds, and looked at
+            the <descriptor type="positive" gender="mixed"> two of them lying there so peacefully,
+                with their full red cheeks.</descriptor> "They will be a good mouthful," she mumbled
+            to herself. <action agency="active" gender="female" willingness="eager">Then she grabbed
+                Hansel with her withered hand and carried him to a little stall, where she locked
+                him behind a cage door.</action> Cry as he might, there was no help for him.</p>
+        <p><action agency="active" gender="female" willingness="eager">Then she shook Gretel and
+                cried,</action> "Get up, <descriptor type="negative" gender="female"
+                >lazybones!</descriptor> Fetch water and cook something good for your brother. He is
+            locked outside in the stall and is to be fattened up. When he is fat I am going to eat
+            him."</p>
+        <p><action agency="passive" gender="female" willingness="hesitant">Gretel began to cry, but
+                it was all for nothing. She had to do what the witch demanded.</action> Now Hansel
+            was given the best things to eat every day, but Gretel received nothing but crayfish
+            shells.</p>
+        <p>Every morning the <descriptor type="neutral" gender="female">old</descriptor> woman crept
+            out to the stall and shouted, "Hansel, stick out your finger, so I can feel if you are
+            fat yet."</p>
+        <p><action agency="active" gender="male" willingness="eager">But Hansel stuck out a little
+                bone,</action> and the <descriptor type="neutral" gender="female">old</descriptor>
+            woman, who had bad eyes and could not see the bone, thought it was Hansel's finger, and
+            she wondered why he didn't get fat.</p>
+        <p>When four weeks had passed and Hansel was still thin, impatience overcame her, and
+                <action gender="female" agency="active" willingness="eager">she would wait no
+                longer.</action> "Hey, Gretel!" she shouted to the girl, "Hurry up and fetch some
+            water. Whether Hansel is fat or thin, <action agency="active" gender="female"
+                willingness="eager">tomorrow I am going to slaughter him and boil him."</action></p>
+        <p>Oh, how <action agency="passive" gender="female" willingness="hesitant">the poor little
+                sister sobbed as she was forced to carry the water, and how the tears streamed down
+                her cheeks!</action> "Dear God, please help us," she cried. "If only the wild
+            animals had devoured us in the woods, then we would have died together."</p>
+        <p>"Save your slobbering," said the <descriptor type="neutral" gender="female"
+                >old</descriptor> woman. "It doesn't help you at all."</p>
+        <p><action agency="passive" gender="female" willingness="hesitant">The next morning Gretel
+                had to get up early, hang up the kettle with water, and make a fire.</action></p>
+        <p>"First we are going to bake," said the <descriptor type="neutral" gender="female"
+                >old</descriptor> woman. "I have already made a fire in the oven and kneaded the
+            dough."</p>
+        <p><action agency="active" gender="female" willingness="eager">She pushed poor Gretel
+                outside to the oven,</action> from which fiery flames were leaping. "Climb in," said
+            the witch, "and see if it is hot enough to put the bread in yet." And when Gretel was
+            inside, she intended to close the oven, and bake her, and eat her as well.</p>
+        <p>But Gretel saw what she had in mind, so she said, "I don't know how to do that. How can I
+            get inside?"</p>
+        <p>"<descriptor type="negative" gender="female">Stupid goose,"</descriptor> said the
+                <descriptor type="neutral" gender="female">old</descriptor> woman. The opening is
+            big enough. See, I myself could get in." And she crawled up stuck her head into the
+            oven.</p>
+        <p><action agency="active" gender="female" willingness="eager">Then Gretel gave her a shove,
+                causing her to fall in. Then she closed the iron door and secured it with a
+                bar.</action> The <descriptor type="neutral" gender="female">old</descriptor> woman
+            began to howl frightfully. <action agency="active" gender="female" willingness="eager"
+                >But Gretel ran away, and the <descriptor type="negative" gender="female">godless
+                    witch</descriptor> burned up miserably. Gretel ran straight to Hansel, unlocked
+                his stall, and cried, "Hansel, we are saved. The <descriptor type="negative"
+                    gender="female">old witch</descriptor> is dead."</action></p>
+        <p><action agency="active" gender="male" willingness="eager">Then Hansel jumped out, like a
+                bird from its cage when someone opens its door.</action> How happy they were! They
+            threw their arms around each other's necks, jumped with joy, and kissed one another.
+            Because they now had nothing to fear, they went into the witch's house. In every corner
+            were chests of pearls and precious stones.</p>
+        <p>"These are better than pebbles," said Hansel, filling his pockets.</p>
+        <p>Gretel said, <action gender="female" agency="active" willingness="eager">"I will take
+                some home with me as well," and she filled her apron full.</action></p>
+        <p>"But now we must leave," said Hansel, "and get out of these witch-woods."</p>
+        <p>After walking a few hours they arrived at a large body of water. "We cannot get across,"
+            said Hansel. "I cannot see a walkway or a bridge."</p>
+        <p>"There are no boats here," answered Gretel, "but there is a white duck swimming. If I ask
+            it, it will help us across."</p>
+        <p><action agency="active" gender="female" willingness="eager">Then she called
+            out:</action></p>
+        <lg>
+            <l>Duckling, duckling,</l>
+            <l>Here stand Gretel and Hansel.</l>
+            <l>Neither a walkway nor a bridge,</l>
+            <l>Take us onto your white back.</l>
+        </lg>
+        <p>The duckling came up to them, and Hansel climbed onto it, then asked his <descriptor
+                type="neutral" gender="female">little sister</descriptor> to sit down next to
+            him.</p>
+        <p>"No," answered Gretel. "That would be too heavy for the duckling. It should take us
+            across one at a time."</p>
+        <p>That is what the good animal did, and when they were safely on the other side, and had
+            walked on a little while, the woods grew more and more familiar to them, and finally
+            they saw the father's house in the distance. <action agency="active" gender="mixed"
+                willingness="eager">They began to run, rushed inside, and threw their arms around
+                the father's neck.</action></p>
+        <p>The <descriptor type="positive" gender="male">man had not had even one happy hour since
+                he had left the children in the woods.</descriptor> However, the woman had died.
+            Gretel shook out her apron, scattering pearls and precious stones around the room, and
+            Hansel added to them by throwing one handful after the other from his pockets.</p>
+        <p> Now all their cares were at an end, and they lived happily together.</p>
+        <lg>
+            <l>My tale is done,</l>
+            <l>A mouse has run.</l>
+            <l>And whoever catches it can make for himself from it a large, large fur cap.</l>
+        </lg>
+        <ending happy_ending="true"/>
+    </body>
+</fairytale>
