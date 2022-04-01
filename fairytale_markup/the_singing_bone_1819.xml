@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Downloads/grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <fairytale>
     <metadata>
         <title>The Singing Bone</title>
@@ -132,7 +132,7 @@
             murdered man came to light.</p>
 
         <p>The <descriptor type="negative" gender="male">wicked</descriptor> brother could not deny
-            the deed. He <action agency="passive" gender="male" willingness="hesitent">was sewn into
+            the deed. He <action agency="passive" gender="male" willingness="hesitant">was sewn into
                 a sack and drowned alive</action>. The <action agency="passive" gender="male"
                 willingness="neutral">murdered</action> man's bones <action agency="passive"
                 gender="male" willingness="neutral">were laid to rest in a beautiful grave in the

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Downloads/grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <fairytale>
     <metadata>
         <title>Rumpelstiltskin</title>
@@ -37,7 +37,7 @@
             The <descriptor type="neutral" gender="male">little</descriptor> man <action
                 agency="active" gender="male" willingness="eager">came again</action>. She <action
                 agency="active" gender="female" willingness="eager">gave him a ring from her
-                hand</action>, and he <action agency="active" gender="male" willingness="eaegr"
+                hand</action>, and he <action agency="active" gender="male" willingness="eager"
                 >turned it all into gold</action>.</p>
 
         <p>The third night the king <action agency="passive" gender="female" willingness="hesitant"

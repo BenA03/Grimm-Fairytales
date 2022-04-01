@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Downloads/grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <fairytale>
     <metadata>
         <title>Rumpelstiltskin</title>
@@ -96,7 +96,7 @@
             <action agency="passive" gender="female" willingness="neutral">became
             queen</action>.</p>
 
-        <p>A year later she brought a <descriptor type="positive" gender="neutral">beautiful
+        <p>A year later she brought a <descriptor type="positive" gender="female">beautiful
                 child</descriptor> to the world. She thought no more about the <descriptor
                 type="neutral" gender="male">little man</descriptor>, but suddenly he appeared in
             her room and said, "Now give me that which you promised."</p>
