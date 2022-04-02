@@ -138,3 +138,35 @@ div.scrollable
 {
     margin-bottom: 30px;
 }
+
+
+/* All these classes manage the hover-over capabilities in the reading view */
+span.hover {
+  background-color: yellow;
+  padding: 20px;
+  display: none;
+}
+
+span.hoverable:hover + .hover {
+  display: block;
+}
+
+.male_action {
+    background-color: #99CCFF;
+}
+.female_action {
+    background-color: #FF9999;
+}
+
+.mixed_action {
+    background-color: #C0C0C0;
+}
+.male_descriptor{
+    background-color: #B2FF66;
+}
+.female_descriptor {
+    background-color: #FFB266;
+}
+.mixed_descriptor {
+    background-color: #C0C0C0;
+}
