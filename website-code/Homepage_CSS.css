@@ -142,7 +142,7 @@ div.scrollable
 
 /* All these classes manage the hover-over capabilities in the reading view */
 span.hover {
-  background-color: yellow;
+  background-color: #DCDCDC;
   padding: 20px;
   display: none;
 }
