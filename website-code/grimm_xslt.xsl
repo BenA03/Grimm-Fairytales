@@ -27,6 +27,20 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    <!-- handle lines and lg's -->
+    <xsl:template match="lg">
+        <lg>
+            <xsl:apply-templates/>
+        </lg>
+    </xsl:template>
+    
+    <xsl:template match="l">
+        <l>
+            <xsl:apply-templates/>
+        </l>
+    </xsl:template>
+    
     <!-- Action elements -->
     <xsl:template match="action">
         <xsl:choose>
