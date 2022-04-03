@@ -29,7 +29,7 @@
     </xsl:template>
     
     <!-- handle lines and lg's -->
-    <xsl:template match="lg">
+    <xsl:template match="lg"> <!-- Change <lg> and <l> elements into spans with specific classes -->
         <lg>
             <xsl:apply-templates/>
         </lg>
