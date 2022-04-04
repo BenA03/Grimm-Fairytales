@@ -40,13 +40,13 @@ table {
     background-color: rgba(70, 165, 65, 0.9);
     width: 70%;
      */
-     
+
     /* Trying out a white color scheme */
-    background-color: white; 
+    background-color: white;
     opacity: 0.95;
     width: 80%;
     /* end of experimental change */
-    
+
     border: 2px solid black;
     height: auto;
     padding: 2%;
@@ -99,7 +99,7 @@ div.scrollable
 {
     border: 1px solid grey;
     height: 250px;
-    overflow-y:auto;
+    overflow-y: auto;
 }
 
 /* The same look of .scrollable, but without the scrolling */
@@ -154,13 +154,15 @@ div.outline
 
 /* All these classes manage the hover-over capabilities in the reading view */
 span.hover {
-  background-color: #DCDCDC;
-  padding: 20px;
-  display: none;
+    background-color: #DCDCDC;
+    padding: 20px;
+    display: none;
 }
 
 span.hoverable:hover + .hover {
-  display: block;
+    display: inline-block;
+    position: absolute;
+    margin-top: 17px;
 }
 
 .male_action {
@@ -173,7 +175,7 @@ span.hoverable:hover + .hover {
 .mixed_action {
     background-color: #C0C0C0;
 }
-.male_descriptor{
+.male_descriptor {
     background-color: #B2FF66;
 }
 .female_descriptor {
