@@ -191,7 +191,6 @@ span.hoverable:hover + .hover {
 }
 
 .dual{
-    margin: 20px;
     width: auto;
 }
 
@@ -199,3 +198,7 @@ span.hoverable:hover + .hover {
 display: none;
 }
 
+.top{
+margin: 10px;
+align-items: flex-start;
+}
