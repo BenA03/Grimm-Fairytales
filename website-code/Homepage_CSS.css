@@ -199,6 +199,11 @@ display: none;
 }
 
 .top{
+align-items: flex-start;
+}
+
+.half{
+width: 50%;
 margin: 10px;
 align-items: flex-start;
 }
