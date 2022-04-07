@@ -184,3 +184,18 @@ span.hoverable:hover + .hover {
 .mixed_descriptor {
     background-color: #C0C0C0;
 }
+
+/* These classes manage formatting in the dual-display in the reading view */
+.storyFill {
+  flex-grow: 1;
+}
+
+.dual{
+    margin: 20px;
+    width: auto;
+}
+
+.invis {
+display: none;
+}
+
