@@ -27,39 +27,23 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    
     <!-- handle lines and lg's -->
-    <xsl:template match="lg"> <!-- Change <lg> and <l> elements into spans with specific classes -->
-        <lg>
+    <xsl:template match="lg"> <!-- Changed <lg> and <l> elements into spans with specific classes -->
+        <span class="lg">
             <xsl:apply-templates/>
-        </lg>
+        </span>
     </xsl:template>
     
     <xsl:template match="l">
-        <l>
+        <span class="l">
             <xsl:apply-templates/>
-        </l>
+        </span>
     </xsl:template>
-    
     <!-- Action elements -->
-    <xsl:template match="action">
-        <xsl:choose>
-            <xsl:when test="@gender eq 'male'">
-                <span class="hoverable male_action">
+    <xsl:template match="action"> <!-- Replaced <when> with specified attribute values in the <span> classes -->
+                <span class="hoverable {@gender}_action">
                     <xsl:apply-templates/>
                 </span>
-            </xsl:when>
-            <xsl:when test="@gender eq 'female'">
-                <span class="hoverable female_action">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@gender eq 'mixed'">
-                <span class="hoverable mixed_action">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-        </xsl:choose>
         <span class="hover">
             <xsl:value-of select="@agency"/>
             <xsl:text>, </xsl:text>
@@ -70,23 +54,9 @@
     </xsl:template>
     <!-- Descriptor elements -->
     <xsl:template match="descriptor">
-        <xsl:choose>
-            <xsl:when test="@gender eq 'male'">
-                <span class="hoverable male_descriptor">
+                <span class="hoverable {@gender}_descriptor">
                     <xsl:apply-templates/>
                 </span>
-            </xsl:when>
-            <xsl:when test="@gender eq 'female'">
-                <span class="hoverable female_descriptor">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@gender eq 'mixed'">
-                <span class="hoverable mixed_descriptor">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-        </xsl:choose>
         <span class="hover">
             <xsl:value-of select="@type"/>
             <xsl:text>, </xsl:text>
