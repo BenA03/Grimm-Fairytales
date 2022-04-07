@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Frau_Holle-1857>
-    <metadata Translator="D. L. Ashliman" Year="1857"
-        Source="https://sites.pitt.edu/~dash/grimm024.html" StoryNumber="24"/>
-    <title>Frau Holle</title>
-    <author>Jacob and Wilhelm Grimm</author>
+<fairytale>
+    <metadata>
+        <title>Frau Holle (1857)</title>
+        <author>Jacob and Wilhelm Grimm</author>
+    </metadata>
+    <body>
     <p>A widow had two daughters, the one was <descriptor type="positive" gender="female"
             >beautiful</descriptor> and <descriptor type="positive" gender="female"
             >industrious</descriptor>, the other <descriptor type="negative" gender="female"
@@ -110,5 +111,6 @@
         <l>Our dirty girl is here anew.</l>
     </lg>
     <p>And the pitch stuck fast to her, and did not come off as long as she lived.</p>
-    <happy_ending value="true"/>
-</Frau_Holle-1857>
+</body>
+    <ending happy_ending="true"/>
+</fairytale>

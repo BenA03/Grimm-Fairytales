@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ironHeinrich1812>
-    <metadata Translator="D. L. Ashliman" Year="1812"
-        Source="https://sites.pitt.edu/~dash/frogking.html" StoryNumber="1"/>
-    <title>The Frog King or Iron Heinrich</title>
-    <author>Jacob and Wilhelm Grimm</author>
+<fairytale>
+    <metadata>
+        <title>Iron Heinrich (1812)</title>
+    </metadata>
+    <body>
     <p>Once upon a time there was a princess who went out into a forest and <action agency="passive"
             gender="female" willingness="neutral">sat</action> next to a cool well.</p>
     <p>She took great pleasure in <action agency="active" gender="female" willingness="eager"
@@ -136,5 +136,6 @@
         carriage was breaking apart, but it was the bands springing from <descriptor type="positive"
             gender="male">faithful</descriptor> Heinrich's heart because his master was now redeemed
         and happy.</p>
-    <happy_ending value="true"/>
-</ironHeinrich1812>
+    </body>
+    <ending happy_ending="true"/>
+</fairytale>

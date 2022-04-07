@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hans-My-Hedgehog1815>
-    <metadata Translator="D. L. Ashliman" Year="1815"
-        Source="https://sites.pitt.edu/~dash/grimm108.html" StoryNumber="108"/>
-    <title>Hans-My-Hedgehog</title>
-    <author>Jacob and Wilhelm Grimm</author>
+<fairytale>
+    <metadata>
+        <title>Hans-My-Hedgehog (1815)</title>
+    </metadata>
+    <body>
     <p>Once upon a time there was a peasant who had money and land enough, but as <descriptor
             type="positive" gender="male">rich</descriptor> as he was, there was still something
             <descriptor type="negatve" gender="male">missing from his happiness</descriptor>: He had
@@ -213,5 +213,6 @@
         <l>And has gone</l>
         <l>To Gustchen's home.</l>
     </lg>
-    <happy_ending value="true"/>
-</Hans-My-Hedgehog1815>
+    </body>
+    <ending happy_ending="true"/>
+</fairytale>
