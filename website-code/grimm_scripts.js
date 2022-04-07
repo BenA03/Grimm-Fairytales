@@ -33,10 +33,10 @@ function second(num) {
     };
     xhttp.open("GET", "readerviews/" + storylist[num - 1] + ".xhtml", true);
     xhttp.send();
-document.getElementById("closer").style.display = "block";
+    document.getElementById("closer").style.display = "block";
 }
 
 function close() {
-	document.getElementById("storyMore").style.display = "none";
-        document.getElementById("closer").style.display = "none";
+    document.getElementById("dual").style.display = "hidden";
+    document.getElementById("closer").style.display = "hidden";
 }
