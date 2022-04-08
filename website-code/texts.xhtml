@@ -19,7 +19,7 @@
         </div>
         <div class="inside">
             <h1 class="textcenter">Select a Story</h1>
-            <div class="scrollable">
+            <div class="scrollableSmall">
                 <table>
                     <tr>
                         <th>Story Number</th>
@@ -198,13 +198,13 @@
                 </table>
             </div>
             <br/>
-            <button type="button" id="storyMore" class="invis" onclick="dualDisplay()">Display
+            <button type="button" id="storyMore" class="invis yellowButton" onclick="dualDisplay()">Display
                 another story side-by-side!</button>
-            <button type="button" id="closer" class = "invis" onclick="close()">Close dual display</button>
+            <button type="button" id="closer" class = "invis yellowButton" onclick="closeDual()">Close dual display</button>
             
             <div class="container top">
-                <div id="demo" class = "half"></div>
-                <div id="dual" class="half"></div>
+                <div id="demo" class = "storyFill"></div>
+                <div id="dual" class = "hide"></div>
             </div>
             
             <br />

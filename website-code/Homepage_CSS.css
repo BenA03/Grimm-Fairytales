@@ -95,10 +95,17 @@ table {
 }
 
 /* Sets a div to a specific size and gives it an internal scroll */
-div.scrollable
+div.scrollableSmall
 {
     border: 1px solid grey;
     height: 250px;
+    overflow-y: auto;
+}
+
+div.scrollable
+{
+    border: 1px solid grey;
+    height: 400px;
     overflow-y: auto;
 }
 
@@ -187,7 +194,7 @@ span.hoverable:hover + .hover {
 
 /* These classes manage formatting in the dual-display in the reading view */
 .storyFill {
-  flex-grow: 1;
+  width: 100%;
 }
 
 .dual{
@@ -206,4 +213,13 @@ align-items: flex-start;
 width: 50%;
 margin: 10px;
 align-items: flex-start;
+}
+
+.hide{
+width: 0%;
+}
+
+.yellowButton
+{
+background-color: yellow;
 }
