@@ -83,6 +83,13 @@ table {
     justify-content: center;
 }
 
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Temporary fix for centering bulleted flex containers */
 .ignoreBullets
 {
@@ -194,32 +201,32 @@ span.hoverable:hover + .hover {
 
 /* These classes manage formatting in the dual-display in the reading view */
 .storyFill {
-  width: 100%;
+    width: 100%;
 }
 
-.dual{
+.dual {
     width: auto;
 }
 
 .invis {
-display: none;
+    display: none;
 }
 
-.top{
-align-items: flex-start;
+.top {
+    align-items: flex-start;
 }
 
-.half{
-width: 50%;
-margin: 10px;
-align-items: flex-start;
+.half {
+    width: 50%;
+    margin: 10px;
+    align-items: flex-start;
 }
 
-.hide{
-width: 0%;
+.hide {
+    width: 0%;
 }
 
 .yellowButton
 {
-background-color: yellow;
+    background-color: yellow;
 }
