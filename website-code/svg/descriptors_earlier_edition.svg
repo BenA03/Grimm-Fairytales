@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="500 0 600 600">
+    <g>
+        <text text-anchor="middle" x="800" y="50" font-size="30">How are men, women, and mixed groups described in the earlier edition? (1812-1815)</text>
+        <text text-anchor="middle"
+            x="800"
+            y="545"
+            font-size="20"
+            fill="green">Green: Positive</text>
+        <text text-anchor="middle"
+            x="800"
+            y="570"
+            font-size="20"
+            fill="orange">Yellow: Neutral</text>
+        <text text-anchor="middle"
+            x="800"
+            y="595"
+            font-size="20"
+            fill="red">Red: Negative</text>
+        <text text-anchor="middle" x="400" y="500">Male
+            Characters</text>
+        <circle cx="400"
+            cy="300"
+            r="150"
+            fill="green"
+            stroke="black"
+            stroke-width="1"/>
+        <circle cx="400"
+            cy="300"
+            r="75"
+            fill="none"
+            stroke="yellow"
+            stroke-width="150"
+            stroke-dasharray="155.09128289873664 1000"/>
+        <g transform="matrix(1 0 0 -1 0 400) translate(0,-200)">
+            <circle cx="400"
+                cy="300"
+                r="75"
+                fill="none"
+                stroke="red"
+                stroke-width="150"
+                stroke-dasharray="202.81167763680943 942.4777960769379"/>
+        </g>
+        <circle cx="400"
+            cy="300"
+            r="150"
+            fill="none"
+            stroke="black"
+            stroke-width="2"/>
+        <text text-anchor="middle" x="800" y="500">Female
+            Characters</text>
+        <circle cx="800"
+            cy="300"
+            r="150"
+            fill="green"
+            stroke="black"
+            stroke-width="1"/>
+        <circle cx="800"
+            cy="300"
+            r="75"
+            fill="none"
+            stroke="yellow"
+            stroke-width="150"
+            stroke-dasharray="89.3728944555717 1000"/>
+        <g transform="matrix(1 0 0 -1 0 400) translate(0,-200)">
+            <circle cx="800"
+                cy="300"
+                r="75"
+                fill="none"
+                stroke="red"
+                stroke-width="150"
+                stroke-dasharray="182.8081932045785 942.4777960769379"/>
+        </g>
+        <circle cx="800"
+            cy="300"
+            r="150"
+            fill="none"
+            stroke="black"
+            stroke-width="2"/>
+        <text text-anchor="middle" x="1200" y="500">Mixed
+            Groups (both males and females)</text>
+        <circle cx="1200"
+            cy="300"
+            r="150"
+            fill="green"
+            stroke="black"
+            stroke-width="1"/>
+        <g transform="matrix(1 0 0 -1 0 400) translate(0,-200)">
+            <circle cx="1200"
+                cy="300"
+                r="75"
+                fill="none"
+                stroke="red"
+                stroke-width="150"
+                stroke-dasharray="471.23889803846896 942.4777960769379"/>
+        </g>
+        <circle cx="800"
+            cy="300"
+            r="150"
+            fill="none"
+            stroke="black"
+            stroke-width="2"/>
+    </g>
+</svg>
