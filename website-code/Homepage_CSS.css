@@ -230,3 +230,11 @@ span.hoverable:hover + .hover {
 {
     background-color: yellow;
 }
+
+/* Analysis page classes */
+svg.svg
+{
+    width: 50%;
+    
+    overflow: visible
+}
