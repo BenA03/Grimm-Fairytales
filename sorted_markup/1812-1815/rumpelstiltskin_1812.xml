@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata>
+        <title>Rumpelstiltskin</title>
+        <source>Source: Jacob and Wilhelm Grimm, "Rumpelstilzchen," Kinder- und Hausmärchen, 1st ed.
+            (Berlin: Realschulbuchhandlung, <year>1812</year>), v. 1, no. 55, pp. 253-55.</source>
+    </metadata>
+    <body>
+        <p>Once upon a time there was a <descriptor type="neutral" gender="male">miller</descriptor>
+            who was <descriptor type="negative" gender="male">poor</descriptor>, but who had a
+                <descriptor type="positive" gender="female">beautiful</descriptor> daughter. Now it
+            happened that he <action agency="passive" gender="male" willingness="eager">got into a
+                conversation with the king and said to him: "I have a daughter who knows the art of
+                turning straw into gold."</action></p>
+
+        <p>So the king <action agency="active" gender="male" willingness="eager">immediately sent
+                for the miller's daughter and ordered her to turn a whole room full of straw into
+                gold in one night</action>. And if she could not do it, she would have to die. She
+                <action agency="passive" gender="female" willingness="hesitant">was locked in the
+                room, and she sat there and cried, because for her life she did not know how the
+                straw would turn into gold</action>.</p>
+
+        <p>Then suddenly a <descriptor type="neutral" gender="male">little</descriptor> man <action
+                agency="active" gender="male" willingness="eager">appeared before her, and said:
+                "What will you give me, if I turn this all into gold?"</action> She <action
+                agency="active" gender="female" willingness="hesitant">took off her necklace and
+                gave it to the <descriptor type="neutral" gender="male">little</descriptor>
+                man</action>, and he <action agency="active" gender="male" willingness="eager">did
+                what he had promised</action>.</p>
+
+        <p>The next morning the king <action agency="passive" gender="male" willingness="eager"
+                >found the room filled with gold, and his heart became even more <descriptor
+                    type="negative" gender="male">greedy</descriptor></action>. He put the miller's
+            daughter into an even larger room filled with straw, and told her to <action
+                agency="passive" gender="female" willingness="hesitant">turn it into gold</action>.
+            The <descriptor type="neutral" gender="male">little</descriptor> man <action
+                agency="active" gender="male" willingness="eager">came again</action>. She <action
+                agency="active" gender="female" willingness="eager">gave him a ring from her
+                hand</action>, and he <action agency="active" gender="male" willingness="eager"
+                >turned it all into gold</action>.</p>
+
+        <p>The third night the king <action agency="passive" gender="female" willingness="hesitant"
+                >had her locked in a third room, which was larger than the first two, and entirely
+                filled with straw</action>. "If you succeed this time, <action agency="active"
+                gender="male" willingness="eager">I'll <action agency="passive" gender="female"
+                    willingness="neutral">make you my wife</action></action>," he said.</p>
+
+        <p>Then the <descriptor type="neutral" gender="male">little</descriptor> man came and said,
+                "<action agency="active" gender="male" willingness="eager">I'll do it
+            again</action>, but you <action agency="passive" gender="female" willingness="hesitant"
+                >must promise me the first child that you have with the king</action>."</p>
+
+        <p>In her distress she <action agency="active" gender="female" willingness="hesitant">made
+                the promise</action>, and when the king <action agency="active" gender="male"
+                willingness="eager">saw that this straw too had been turned into gold, he took the
+                miller's daughter as his wife</action>.</p>
+
+        <p>Soon thereafter the queen <action agency="active" gender="female" willingness="neutral"
+                >delivered a child</action>. Then the <descriptor type="neutral" gender="male"
+                >little</descriptor> man <action agency="active" gender="male" willingness="eager"
+                >appeared before her and demanded the child that had been promised him</action>. The
+            queen <action agency="passive" gender="female" willingness="hesitant">begged him to let
+                her keep the child, offering him great riches in its place</action>.</p>
+
+        <p>Finally he said, "I'll <action agency="active" gender="male" willingness="eager">be back
+                to get the child in three days</action>. But <action agency="passive"
+                gender="female" willingness="neutral">if by then you know my name, you can keep the
+                child</action>.!"</p>
+
+        <p>For two days the queen <action agency="passive" gender="female" willingness="hesitant"
+                >pondered what the <descriptor type="neutral" gender="male">little</descriptor>
+                man's name might be, but she could not think of anything, and became very
+                sad</action>. On the third day the king <action agency="passive" gender="male"
+                willingness="eager">came home from a hunt and told her how, two days earlier, while
+                hunting deep in a dark forest, he had come upon a little house</action>. A
+                <descriptor type="neutral" gender="male">comical</descriptor>
+            <descriptor type="neutral" gender="male">little</descriptor> man <action agency="active"
+                gender="male" willingness="eager">was there, jumping about as if on one leg, and
+                crying out</action>:</p>
+
+        <lg>
+            <l><action agency="active" gender="male" willingness="eager">Today I'll bake; tomorrow
+                    I'll brew</action>.</l>
+            <l><action agency="active" gender="male" willingness="eager">Then I'll fetch the queen's
+                    new child</action>.</l>
+            <l>It is good that no one knows</l>
+            <l>Rumpelstiltskin is my name.</l>
+        </lg>
+
+        <p>The queen <action agency="passive" gender="female" willingness="eager">was overjoyed to
+                hear this</action>.</p>
+
+        <p>Then the <descriptor type="negative" gender="male">dangerous</descriptor>
+            <descriptor type="neutral" gender="male">little</descriptor> man arrived and asked:
+            "Your majesty, what is my name?"</p>
+
+        <p>"Is your name Conrad?"</p>
+
+        <p>"No."</p>
+
+        <p>"Is your name Heinrich?"</p>
+
+        <p>"No."</p>
+
+        <p>"Then could your name be Rumpelstiltskin?"</p>
+
+        <p>"The devil <action agency="passive" gender="female" willingness="eager">told you
+                that</action>!" shouted the <descriptor type="neutral" gender="male"
+                >little</descriptor> man. He <action agency="active" gender="male"
+                willingness="hesitant">ran away angrily, and never came back</action>.</p>
+        <ending happy_ending="true"/>
+    </body>
+</fairytale>

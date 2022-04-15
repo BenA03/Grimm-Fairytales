@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../grimm_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<fairytale>
+    <metadata>
+        <title>Little Red Cap</title>
+        <author>Jacob and Wilhelm Grimm</author>
+        <source>Source: "Rotkäppchen," Kinder- und Hausmärchen, gesammelt durch die Brüder Grimm,
+            vol. 1 (Göttingen: Verlag der Dieterichschen Buchhandlung, <year>1857</year>), no. 26,
+            pp. 140-44.</source>
+        <translator>Translated by D. L. Ashliman. © 2000-2002.</translator>
+    </metadata>
+
+    <body>
+        <p>Once upon a time there was a <descriptor type="positive" gender="female"
+                >sweet</descriptor>
+            <descriptor type="neutral" gender="female">little</descriptor> girl. Everyone who saw
+            her liked her, but most of all her grandmother, who did not know what to give the child
+            next. Once she <action agency="active" gender="female" willingness="eager">gave her a
+                little cap made of red velvet</action>. Because it suited her so well, and she
+            wanted to wear it all the time, she <action agency="passive" gender="female"
+                willingness="neutral">came to be known as Little Red Cap</action>.</p>
+
+        <p>One day her mother said to her, "Come Little Red Cap. Here is a piece of cake and a
+            bottle of wine. Take them to your grandmother. She is <descriptor type="negative"
+                gender="female">sick</descriptor> and <descriptor type="negative" gender="female"
+                >weak</descriptor>, and they will do her well. Mind your manners and give her my
+            greetings. Behave yourself on the way, and do not leave the path, or you might fall down
+            and break the glass, and then there will be nothing for your grandmother. And when you
+            enter her parlor, don't forget to say 'Good morning,' and don't peer into all the
+            corners first."</p>
+
+        <p><action agency="active" gender="female" willingness="eager">"I'll do everything just
+                right," said Little Red Cap, shaking her mother's hand</action>.</p>
+
+        <p>The grandmother lived out in the woods, a half hour from the village. When Little Red Cap
+            entered the woods a wolf came up to her. <action agency="passive" gender="female"
+                willingness="neutral">She did not know what a <descriptor type="negative"
+                    gender="male">wicked</descriptor> animal he was, and was not afraid of
+                him</action>.</p>
+
+        <p>"Good day to you, Little Red Cap."</p>
+
+        <p>"Thank you, wolf."</p>
+
+        <p>"Where are you going so early, Little Red Cap?"</p>
+
+        <p>"To grandmother's."</p>
+
+        <p>"And what are you carrying under your apron?"</p>
+
+        <p>"Grandmother is <descriptor type="negative" gender="female">sick</descriptor> and
+                <descriptor type="negative" gender="female">weak</descriptor>, and I <action
+                agency="active" gender="female" willingness="eager">am taking her some cake and
+                wine</action>. We baked yesterday, and they should be good for her and give her
+            strength."</p>
+
+        <p>"Little Red Cap, just where does your grandmother live?"</p>
+
+        <p>"Her house is good quarter hour from here in the woods, under the three large oak trees.
+            There's a hedge of hazel bushes there. You must know the place," said Little Red
+            Cap.</p>
+
+        <p>The wolf thought to himself, "Now that <descriptor type="positive" gender="female"
+                >sweet</descriptor> young thing is a tasty bite for me. She will taste even better
+            than the old woman. You must <descriptor type="negative" gender="male">be
+                sly</descriptor>, and you can catch them both."</p>
+
+        <p>He <action agency="active" gender="male" willingness="eager">walked along a little while
+                with Little Red Cap, then he said, "Little Red Cap, just look at the beautiful
+                flowers that are all around us. Why don't you go and take a look? And I don't
+                believe you can hear how beautifully the birds are singing. You are walking along as
+                though you were on your way to school. It is very beautiful in the
+            woods."</action></p>
+
+        <p>Little Red Cap <action agency="active" gender="female" willingness="eager">opened her
+                eyes and when she saw the sunbeams dancing to and fro through the trees and how the
+                ground was covered with beautiful flowers, she thought, "If a take a fresh bouquet
+                to grandmother, she will be very pleased. Anyway, it is still early, and I'll be
+                home on time." And she ran off the path into the woods looking for flowers. Each
+                time she picked one she thought that she could see an even more beautiful one a
+                little way off, and she ran after it, going further and further into the
+                woods</action>. But the wolf <action agency="active" gender="male"
+                willingness="eager">ran straight to the grandmother's house and knocked on the
+                door</action>.</p>
+
+        <p>"Who's there?"</p>
+
+        <p>"Little Red Cap. I'm <action agency="active" gender="male" willingness="eager">bringing
+                you some cake and wine</action>. Open the door."</p>
+
+        <p>"Just press the latch," called out the grandmother. "I'm <descriptor type="negative"
+                gender="female">too weak</descriptor> to get up."</p>
+
+        <p>The wolf <action agency="active" gender="male" willingness="eager">pressed the latch, and
+                the door opened. He stepped inside, went straight to the grandmother's bed, and ate
+                her up. Then he put on her clothes, put her cap on his head, got into her bed, and
+                pulled the curtains shut</action>.</p>
+
+        <p>Little Red Cap <action agency="active" gender="female" willingness="neutral">had run
+                after the flowers. After she had gathered so many that she could not carry any more,
+                she remembered her grandmother, and then continued on her way to her house</action>.
+            She found, to her surprise, that the door was open. She <action agency="active"
+                gender="female" willingness="hesitant">walked into the parlor, and everything looked
+                so strange that she thought, "Oh, my God, why am I so afraid? I usually like it at
+                grandmother's."</action></p>
+
+        <p>She <action agency="active" gender="female" willingness="neutral">called out, "Good
+                morning!"</action> but <action agency="passive" gender="female"
+                willingness="neutral">received no answer</action>.</p>
+
+        <p>Then <action agency="active" gender="female" willingness="hesitant">she went to the bed
+                and pulled back the curtains</action>. Grandmother <action agency="passive"
+                gender="female" willingness="neutral">was lying there with her cap pulled down over
+                her face and <descriptor type="negative" gender="female">looking very
+                    strange</descriptor>.</action></p>
+
+        <p>"Oh, grandmother, <descriptor type="neutral" gender="male">what big ears you
+                have</descriptor>!"</p>
+
+        <p>"All the better to hear you with."</p>
+
+        <p>"Oh, grandmother, <descriptor type="neutral" gender="male">what big eyes you
+                have</descriptor>!"</p>
+
+        <p>"All the better to see you with."</p>
+
+        <p>"Oh, grandmother, <descriptor type="neutral" gender="male">what big hands you
+                have</descriptor>!"</p>
+
+        <p>"All the better to grab you with!"</p>
+
+        <p>"Oh, grandmother, <descriptor type="negative" gender="male">what a horribly big mouth you
+                have</descriptor>!"</p>
+
+        <p>"All the better to eat you with!"</p>
+
+        <p>The wolf had scarcely finished speaking when he <action agency="active" gender="male"
+                willingness="eager">jumped from the bed with a single leap and ate up <descriptor
+                    type="negative" gender="female">poor</descriptor> Little Red Cap. As soon as the
+                wolf had satisfied his desires, he climbed back into bed, fell asleep, and began to
+                snore very loudly</action>.</p>
+
+        <p>A huntsman was just passing by. He thought, "The <descriptor type="neutral"
+                gender="female">old</descriptor> woman is <action agency="passive" gender="female"
+                willingness="neutral">snoring so loudly</action>. You <action agency="passive"
+                gender="male" willingness="eager">had better see if something is wrong with
+                her</action>."</p>
+
+        <p>He <action agency="active" gender="male" willingness="eager">stepped into the parlor, and
+                when he approached the bed, he saw the wolf lying there. "So here I find you, you
+                    <descriptor type="neutral" gender="male">old</descriptor>
+                <descriptor type="negative" gender="male">sinner</descriptor>," he said.</action> "I
+                <action agency="active" gender="male" willingness="eager">have been hunting for you
+                a long time</action>."</p>
+
+        <p>He <action agency="active" gender="male" willingness="eager">was about to aim his rifle
+                when it occurred to him that the wolf might have eaten the grandmother, and that she
+                still might be rescued. So instead of shooting, he took a pair of scissors and began
+                to cut open the wolf's belly</action>. After a few cuts he saw the red cap shining
+            through., and after a few more cuts the girl <action agency="passive" gender="female"
+                willingness="eager">jumped out, crying, "Oh, I was so frightened! It was so dark
+                inside the wolf's body!"</action></p>
+
+        <p>And then the grandmother <action agency="passive" gender="female" willingness="neutral"
+                >came out as well, alive but hardly able to breathe</action>. Then Little Red Cap
+                <action agency="active" gender="female" willingness="eager">fetched some large
+                stones. She filled the wolf's body with them</action>, and <action agency="passive"
+                gender="male" willingness="neutral">when he woke up and tried to run away, the
+                stones were so heavy that he immediately fell down dead</action>.</p>
+
+        <p>The three of them were happy. The huntsman <action agency="active" gender="male"
+                willingness="eager">skinned the wolf and went home with the pelt</action>. The
+            grandmother <action agency="active" gender="female" willingness="eager">ate the cake and
+                drank the wine that Little Red Cap had brought</action>. And Little Red Cap thought,
+                "<action agency="active" gender="female" willingness="eager">As long as I live, I
+                will never leave the path and run off into the woods by myself if mother tells me
+                not to</action>."</p>
+
+        <p>They also tell how Little Red Cap <action agency="passive" gender="female"
+                willingness="eager">was taking some baked things to her grandmother another time,
+                when another wolf <action agency="active" gender="male" willingness="eager">spoke to
+                    her and wanted her to leave the path</action></action>. But Little Red Cap
+                <action agency="active" gender="female" willingness="eager">took care and went
+                straight to grandmother's</action>. She told her that she had seen the wolf, and
+            that he had wished her a good day, but had stared at her in a wicked manner. "If we
+            hadn't been on a public road, he <action agency="passive" gender="female"
+                willingness="neutral">would have eaten me up</action>," she said.</p>
+
+        <p>"Come," said the grandmother. "<action agency="active" gender="female"
+                willingness="eager">Let's lock the door, so he can't get in</action>."</p>
+
+        <p>Soon afterward the wolf <action agency="active" gender="male" willingness="eager">knocked
+                on the door and called out, "Open up, grandmother. It's Little Red Cap, and I'm
+                bringing you some baked things."</action></p>
+
+        <p>They <action agency="active" gender="female" willingness="eager">remained silent, and did
+                not open the door</action>. Gray-Head <action agency="active" gender="male"
+                willingness="eager">crept around the house several times, and finally jumped onto
+                the roof. He wanted to wait until Little Red Cap went home that evening, then follow
+                her and eat her up in the darkness</action>. But the grandmother saw what he was up
+            to. There was a large stone trough in front of the house.</p>
+
+        <p>"Fetch a bucket, Little Red Cap," she said to the child. "Yesterday I cooked some
+            sausage. Carry the water that I boiled them with to the trough." Little Red Cap <action
+                agency="active" gender="female" willingness="eager">carried water until the large,
+                large trough was clear full</action>. The smell of sausage arose into the wolf's
+            nose. He <action agency="active" gender="male" willingness="eager">sniffed and looked
+                down, stretching his neck so long that he could no longer hold himself, and he began
+                to slide.</action> He <action agency="passive" gender="male" willingness="neutral"
+                >slid off the roof, fell into the trough, and drowned</action>. And Little Red Cap
+                <action agency="active" gender="female" willingness="eager">returned home
+                happily</action>, and no one harmed her.</p>
+        <ending happy_ending="true"/>
+    </body>
+</fairytale>
