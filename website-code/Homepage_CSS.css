@@ -11,7 +11,7 @@ body {
 /* This manages the header that displays the website name, right above the nav bar */
 div.webpageHeader
 {
-    font-family: Aclonica, Arial, Helvetica, sans-serif;
+    font-family: Luminari, Aclonica, Arial, Helvetica, sans-serif;
     font-size: 120%;
     color: white;
     text-align: center;
