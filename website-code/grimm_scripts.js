@@ -9,6 +9,7 @@ function loadDoc(num) {
     xhttp.open("GET", "readerviews/" + storylist[num - 1] + ".xhtml", true);
     xhttp.send();
     document.getElementById("storyMore").style.display = "block";
+    document.getElementById("jumpStatement").style.display = "block";
 }
 function dualDisplay() {
     document.getElementById("storyMore").style.display = "block";
