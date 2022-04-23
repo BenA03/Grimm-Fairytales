@@ -5,19 +5,20 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Goudy Old Style", Arial, Helvetica, sans-serif;
 }
 
 /* This manages the header that displays the website name, right above the nav bar */
 div.webpageHeader
 {
-    font-family: Luminari, Aclonica, Arial, Helvetica, sans-serif;
+    font-family: Luminari, "Goudy Old Style", Arial, Helvetica, sans-serif;
     font-size: 120%;
     color: white;
     text-align: center;
 }
 
 body {
+    font-size: 1.2em;
     margin: 0;
     padding: 0;
 }
@@ -26,6 +27,7 @@ table,
 th,
 td {
     border: 1px solid;
+    font-size: 1.2em;
 }
 
 table {
@@ -235,6 +237,6 @@ span.hoverable:hover + .hover {
 svg.svg
 {
     width: 50%;
-    
+
     overflow: visible
 }
