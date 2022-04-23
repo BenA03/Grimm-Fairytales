@@ -117,10 +117,29 @@ div.scrollable
     overflow-y: auto;
 }
 
+td {
+    text-align: left;
+}
+
+td:first-child {
+    text-align: right;
+}
+
 /* The same look of .scrollable, but without the scrolling */
 div.outline
 {
     border: 1px solid grey;
+}
+
+.stick
+{
+ position: fixed;
+ margin-left: auto;
+ margin-right: auto;
+ background-color: white;
+ top:20%;
+ left: 90%;
+ border: 2px solid black;
 }
 
 .collapse
@@ -227,15 +246,44 @@ span.hoverable:hover + .hover {
     width: 0%;
 }
 
+.tableButton
+{
+    width: 49.3%;
+}
+
+button
+{
+    font-family: Luminari, "Goudy Old Style", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tableTwo
+{
+    width: 100%;
+}
+
 .yellowButton
 {
-    background-color: yellow;
+    margin-bottom: 10px;
+    padding: 10px 24px;
+    border: 2px solid black;
+}
+
+.halfNoPadding
+{
+    width: 50%;
+    align-items: flex-start;
+}
+
+.right {
+    justify-content: flex-end;
+    margin-left: auto;
 }
 
 /* Analysis page classes */
 svg.svg
 {
     width: 50%;
-
     overflow: visible
 }
