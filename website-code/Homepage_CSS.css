@@ -143,7 +143,7 @@ div.outline
  margin-right: auto;
  background-color: white;
  top:20%;
- left: 90%;
+ left: 90.5%;
  border: 2px solid black;
 }
 
@@ -224,6 +224,11 @@ span.hoverable:hover + .hover {
     background-color: #C0C0C0;
 }
 
+.yellowHighlight
+{
+    background-color: yellow;
+}
+
 /* These classes manage formatting in the dual-display in the reading view */
 .storyFill {
     width: 100%;
@@ -284,6 +289,11 @@ button
 .right {
     justify-content: flex-end;
     margin-left: auto;
+}
+
+.smallMargins
+{
+    margin: 1px;
 }
 
 /* Analysis page classes */

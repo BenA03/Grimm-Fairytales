@@ -9,6 +9,7 @@ function loadDoc(num) {
     xhttp.open("GET", "readerviews/" + storylist[num - 1] + ".xhtml", true);
     xhttp.send();
     document.getElementById("storyMore").style.display = "block";
+    document.getElementById("tooltip").style.display = "block";
     document.getElementById("jumpStatement").style.display = "block";
 }
 function dualDisplay() {
@@ -19,7 +20,7 @@ function dualDisplay() {
             document.getElementById("dual").innerHTML = this.responseText;
         }
     };
-    xhttp.open("GET", "readerviews/story_list.xhtml", true);
+    xhttp.open("GET", "readerviews/story_listFour.xhtml", true);
     xhttp.send();
     document.getElementById("dual").style.display = "block";  
     document.getElementById("dual").style.width = "50%";

@@ -128,6 +128,7 @@
                 </table>
             </div>
             <br />
+            <div class = "invis" id = "tooltip"><p>Hover over <span class = "yellowHighlight hoverable">highlighted text</span> to reveal more.<span class = "hover">more information about a descriptor or action will appear!</span></p></div>
             <button type="button" id="storyMore" class="invis yellowButton" onclick="dualDisplay()"
                 >Display another story side-by-side!</button>
             <button type="button" id="closer" class="invis yellowButton" onclick="closeDual()">Close
@@ -142,15 +143,24 @@
                     top</a></p>
         </div>
         <div class="stick">
-            <p class="collapse"><strong>Male:</strong>
-                <span class="male_action">actions</span> and <span class="male_descriptor"
-                    >descriptors</span><br />
-                <strong>Female:</strong>
-                <span class="female_action">actions</span> and <span class="female_descriptor"
-                    >descriptors</span><br />
-                <strong>Mixed:</strong>
-                <span class="mixed_action">actions</span> and <span class="mixed_descriptor"
-                    >descriptors</span></p>
+            <p class="collapse"><strong>Male:</strong></p>
+            <ul class = "smallMargins">
+                    <li><span class="male_action">actions</span></li>
+                    <li><span class="male_descriptor"
+                        >descriptors</span></li>
+                </ul>
+            <p class="collapse"><strong>Female:</strong></p>
+            <ul class = "smallMargins">
+                <li><span class="female_action">actions</span></li>
+                <li><span class="female_descriptor"
+                    >descriptors</span></li>
+                </ul>
+            <p class="collapse"><strong>Mixed:</strong></p>
+            <ul class = "smallMargins">
+                <li><span class="mixed_action">actions</span></li> 
+                <li><span class="mixed_descriptor"
+                    >descriptors</span></li>
+            </ul>
         </div>
     </body>
 </html>
