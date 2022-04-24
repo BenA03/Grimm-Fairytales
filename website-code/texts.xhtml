@@ -128,11 +128,18 @@
                 </table>
             </div>
             <br />
-            <div class = "invis" id = "tooltip"><p>Hover over <span class = "yellowHighlight hoverable">highlighted text</span> to reveal more.<span class = "hover">more information about a descriptor or action will appear!</span></p></div>
-            <button type="button" id="storyMore" class="invis yellowButton" onclick="dualDisplay()"
-                >Display another story side-by-side!</button>
-            <button type="button" id="closer" class="invis yellowButton" onclick="closeDual()">Close
-                dual display</button>
+            <div class="container">
+                <div class="invis halfNoPadding" id="tooltip">
+                    <p>Hover over <span class="yellowHighlight hoverable">highlighted text</span> to
+                        reveal more.           <span class="hover">more information about a descriptor or
+                            action will appear!</span></p></div>
+                <div class = "halfNoPadding">
+                    <button type="button" id="storyMore" class="invis right yellowButton"
+                        onclick="dualDisplay()"><span>Display another story side-by-side!</span></button>
+                    <button type="button" id="closer" class="invis right yellowButton"
+                        onclick="closeDual()"><span>Close dual display</span></button>
+                </div>
+            </div>
             <div class="container top">
                 <div id="demo" class="storyFill"></div>
                 <div id="dual" class="hide"></div>
@@ -144,22 +151,19 @@
         </div>
         <div class="stick">
             <p class="collapse"><strong>Male:</strong></p>
-            <ul class = "smallMargins">
-                    <li><span class="male_action">actions</span></li>
-                    <li><span class="male_descriptor"
-                        >descriptors</span></li>
-                </ul>
+            <ul class="smallMargins">
+                <li><span class="male_action">actions</span></li>
+                <li><span class="male_descriptor">descriptors</span></li>
+            </ul>
             <p class="collapse"><strong>Female:</strong></p>
-            <ul class = "smallMargins">
+            <ul class="smallMargins">
                 <li><span class="female_action">actions</span></li>
-                <li><span class="female_descriptor"
-                    >descriptors</span></li>
-                </ul>
+                <li><span class="female_descriptor">descriptors</span></li>
+            </ul>
             <p class="collapse"><strong>Mixed:</strong></p>
-            <ul class = "smallMargins">
-                <li><span class="mixed_action">actions</span></li> 
-                <li><span class="mixed_descriptor"
-                    >descriptors</span></li>
+            <ul class="smallMargins">
+                <li><span class="mixed_action">actions</span></li>
+                <li><span class="mixed_descriptor">descriptors</span></li>
             </ul>
         </div>
     </body>
