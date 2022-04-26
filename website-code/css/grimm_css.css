@@ -181,7 +181,7 @@ div.outline
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+body.index a.index, body.methodology a.methodology, body.texts a.texts, body.analysis a.analysis, body.conclusion a.conclusion {
     background-color: #46A541;
     color: white;
 }
