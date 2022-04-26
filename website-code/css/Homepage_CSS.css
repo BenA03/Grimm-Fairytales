@@ -1,0 +1,335 @@
+/* This produces a background for the page and sets the fonts for the website */
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/010/844/921/large/xinyao-zhang-1.jpg?1526519274);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: "Goudy Old Style", Arial, Helvetica, sans-serif;
+}
+
+/* This manages the header that displays the website name, right above the nav bar */
+div.webpageHeader
+{
+    font-family: Luminari, "Goudy Old Style", Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    color: white;
+    text-align: center;
+}
+
+body {
+    font-size: 1.15em;
+    margin: 0;
+    padding: 0;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+table {
+    width: 100%;
+}
+
+/* A class intended for div that creates a centered translucent box that can store content. Multiple can be featured in a page
+ *  Code adapted from http://aesop.obdurodon.org/ */
+.inside {
+    /* The green, transparent boxes
+    box-shadow: 20px 20px 50px black;
+    background-color: rgba(70, 165, 65, 0.9);
+    width: 70%;
+     */
+
+    /* Trying out a white color scheme */
+    background-color: white;
+    opacity: 0.95;
+    width: 80%;
+    /* end of experimental change */
+
+    border: 2px solid black;
+    height: auto;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+/* centers text */
+.textcenter {
+    text-align: center;
+}
+
+/* Generic flex container */
+.container {
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.one {
+    width: auto;
+    height: 20%;
+    margin: 20px;
+}
+
+.two {
+    width: 25%;
+    margin: 20px;
+}
+
+.flexCenter {
+    justify-content: center;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Temporary fix for centering bulleted flex containers */
+.ignoreBullets
+{
+    margin-right: 2.3em;
+}
+
+/* preserves ratios of images when put into flexbox */
+.flexImage {
+    object-fit: contain;
+}
+
+/* Sets a div to a specific size and gives it an internal scroll */
+div.scrollableSmall
+{
+    border: 1px solid grey;
+    height: 250px;
+    overflow-y: auto;
+}
+
+div.scrollable
+{
+    border: 1px solid grey;
+    height: 400px;
+    overflow-y: auto;
+}
+
+td {
+    text-align: left;
+}
+
+.scrollableSmall td:last-child
+{
+    width: 60%;
+}
+
+td:first-child {
+    text-align: right;
+}
+
+/* The same look of .scrollable, but without the scrolling */
+div.outline
+{
+    border: 1px solid grey;
+}
+
+.stick
+{
+    position: fixed;
+    display:block;
+    background-color: white;
+    top: 20%;
+    right:0%;
+    font-size: 0.85em;
+    border: 2px solid black;
+    margin-right: 1px;
+    overflow: auto;
+}
+
+.collapse
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* A series of classes that are responsible for navigation bar creation
+ * The following code was adapted from https://www.w3schools.com/howto/howto_js_topnav.asp */
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2; /*text color*/
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #46A541;
+    color: white;
+}
+
+/* Add a margin to the bottom */
+.navOffset
+{
+    margin-bottom: 30px;
+}
+
+
+/* All these classes manage the hover-over capabilities in the reading view */
+span.hover {
+    background-color: #DCDCDC;
+    padding: 20px;
+    display: none;
+}
+
+span.hoverable:hover + .hover {
+    display: inline-block;
+    position: absolute;
+    margin-top: 17px;
+}
+
+.male_action {
+    background-color: #99CCFF;
+}
+.female_action {
+    background-color: #FF9999;
+}
+
+.mixed_action {
+    background-color: #C0C0C0;
+}
+.male_descriptor {
+    background-color: #B2FF66;
+}
+.female_descriptor {
+    background-color: #FFB266;
+}
+.mixed_descriptor {
+    background-color: #C0C0C0;
+}
+
+.yellowHighlight
+{
+    background-color: yellow;
+}
+
+/* These classes manage formatting in the dual-display in the reading view */
+.storyFill {
+    width: 100%;
+}
+
+.dual {
+    width: auto;
+}
+
+.invis {
+    display: none;
+}
+
+.top {
+    align-items: flex-start;
+}
+
+.half {
+    width: 50%;
+    margin: 10px;
+    align-items: flex-start;
+}
+
+.hide {
+    width: 0%;
+}
+
+.tableButton
+{
+    width: 49.3%;
+}
+
+button
+{
+    font-family: Luminari, "Goudy Old Style", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tableTwo
+{
+    width: 100%;
+}
+
+
+.yellowButton
+{
+    margin-bottom: 10px;
+    padding: 15px 35px;
+    border: 2px solid black;
+    background-color: rgba(60, 0, 60, 0.5);
+}
+
+/* This code was adapted from https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate1 */
+.yellowButton span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.yellowButton span:after {
+    content: '\22d9';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.yellowButton:hover span {
+    padding-right: 25px;
+}
+
+.yellowButton:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+/*  */
+
+.halfNoPadding
+{
+    width: 50%;
+    align-items: flex-start;
+}
+
+.right {
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.smallMargins
+{
+    margin: 1px;
+}
+
+/* Analysis page classes */
+svg.svg
+{
+    width: 50%;
+    overflow: visible
+}
