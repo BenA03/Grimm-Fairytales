@@ -6,7 +6,7 @@ function loadDoc(num) {
             document.getElementById("demo").innerHTML = this.responseText;
         }
     };
-    xhttp.open("GET", "readerviews/" + storylist[num - 1] + ".xhtml", true);
+    xhttp.open("GET", "data/readerviews/" + storylist[num - 1] + ".xhtml", true);
     xhttp.send();
     document.getElementById("storyMore").style.display = "block";
     document.getElementById("tooltip").style.display = "block";
@@ -20,7 +20,7 @@ function dualDisplay() {
             document.getElementById("dual").innerHTML = this.responseText;
         }
     };
-    xhttp.open("GET", "readerviews/story_listFour.xhtml", true);
+    xhttp.open("GET", "data/readerviews/story_listFour.xhtml", true);
     xhttp.send();
     document.getElementById("dual").style.display = "block";  
     document.getElementById("dual").style.width = "50%";
@@ -39,7 +39,7 @@ function second(num) {
             document.getElementById("dual").innerHTML = this.responseText;
         }
     };
-    xhttp.open("GET", "readerviews/" + storylist[num - 1] + ".xhtml", true);
+    xhttp.open("GET", "data/readerviews/" + storylist[num - 1] + ".xhtml", true);
     xhttp.send();
     document.getElementById("closer").style.display = "block";
 }
