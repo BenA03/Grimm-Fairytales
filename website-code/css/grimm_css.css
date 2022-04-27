@@ -109,6 +109,10 @@ table {
     align-items: flex-start;
 }
 
+.smallishMargins{
+    margin-left: 10px;
+}
+
 /* Temporary fix for centering bulleted flex containers */
 .ignoreBullets
 {
@@ -385,6 +389,13 @@ svg.svg
     overflow: visible
 }
 
+svg.svg2
+{
+    width: 60%;
+    overflow: visible;
+    font-size: 1.7em;
+}
+
 .footer
 {
     padding: 10px;
@@ -400,4 +411,48 @@ svg.svg
 .lighterLink
 {
     color: #2767E8;
+}
+
+/* Colors for bar chart */
+.passive
+{
+    background-color: orange;
+}
+
+.active{
+    background-color: red;
+}
+
+.male{
+    background-color: #000033; /* dark blue */
+    color: white;
+}
+
+.female {
+     background-color: #0000FF; /* medium blue */
+     color: white;
+}
+
+.mixed
+{
+    background-color: #9999FF; /* light blue */
+}
+
+.hesitant{
+    background-color: #003300;
+    color: white;
+}
+
+.neutral{
+    background-color: #4C9900;
+}
+
+.eager{
+    background-color: #99FF33;
+}
+
+.xScroll
+{
+    border: 1px solid grey;
+    overflow: visible;
 }

@@ -1,0 +1,4359 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="50 -600 1050 600"
+     width="100%">
+   <text text-anchor="middle" x="1134" y="-500" font-size="30">How are men, women, and mixed groups described across both editions?</text>
+   <g transform="scale(.75) translate(150, -150)">
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-94.5" transform="rotate(90)">Frau Holle (1812)</text>
+      <g>
+         <rect x="52.5"
+               y="-303.3333333333333334"
+               width="30"
+               height="93.3333333333333334"
+               fill="red"/>
+         <rect x="52.5"
+               y="-410"
+               width="30"
+               height="106.6666666666666666"
+               fill="orange"/>
+         <rect x="94.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="94.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="94.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="136.5"
+               y="-223.3333333333333334"
+               width="30"
+               height="13.3333333333333334"
+               fill="#003300"/>
+         <rect x="136.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="120"
+               fill="#4C9900"/>
+         <rect x="136.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-283.5" transform="rotate(90)">Girl without Hands</text>
+      <g>
+         <rect x="241.5" y="-285" width="30" height="75" fill="red"/>
+         <rect x="241.5" y="-410" width="30" height="125" fill="orange"/>
+         <rect x="283.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="283.5"
+               y="-401.6666666666666666"
+               width="30"
+               height="91.6666666666666666"
+               fill="#0000FF"/>
+         <rect x="283.5"
+               y="-410"
+               width="30"
+               height="8.3333333333333334"
+               fill="#9999FF"/>
+         <rect x="325.5"
+               y="-218.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#003300"/>
+         <rect x="325.5"
+               y="-343.3333333333333334"
+               width="30"
+               height="125"
+               fill="#4C9900"/>
+         <rect x="325.5"
+               y="-410"
+               width="30"
+               height="66.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-472.5" transform="rotate(90)">Hansel and Gretel</text>
+      <g>
+         <rect x="430.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="red"/>
+         <rect x="430.5"
+               y="-410"
+               width="30"
+               height="136.8421052631578948"
+               fill="orange"/>
+         <rect x="472.5"
+               y="-273.1578947368421052"
+               width="30"
+               height="63.1578947368421052"
+               fill="#000033"/>
+         <rect x="472.5"
+               y="-350.350877192982456"
+               width="30"
+               height="77.1929824561403508"
+               fill="#0000FF"/>
+         <rect x="472.5"
+               y="-409.9999999999999998"
+               width="30"
+               height="59.6491228070175438"
+               fill="#9999FF"/>
+         <rect x="514.5"
+               y="-234.5614035087719298"
+               width="30"
+               height="24.5614035087719298"
+               fill="#003300"/>
+         <rect x="514.5"
+               y="-269.6491228070175438"
+               width="30"
+               height="35.087719298245614"
+               fill="#4C9900"/>
+         <rect x="514.5"
+               y="-410"
+               width="30"
+               height="140.3508771929824562"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-661.5" transform="rotate(90)">Hans-My-Hedgehog (1815)</text>
+      <g>
+         <rect x="619.5"
+               y="-280.4225352112676056"
+               width="30"
+               height="70.4225352112676056"
+               fill="red"/>
+         <rect x="619.5"
+               y="-410"
+               width="30"
+               height="129.5774647887323944"
+               fill="orange"/>
+         <rect x="661.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="160.5633802816901408"
+               fill="#000033"/>
+         <rect x="661.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#0000FF"/>
+         <rect x="661.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="703.5"
+               y="-226.9014084507042254"
+               width="30"
+               height="16.9014084507042254"
+               fill="#003300"/>
+         <rect x="703.5"
+               y="-370.5633802816901408"
+               width="30"
+               height="143.6619718309859154"
+               fill="#4C9900"/>
+         <rect x="703.5"
+               y="-410"
+               width="30"
+               height="39.4366197183098592"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-850.5" transform="rotate(90)">Iron Heinrich (1812)</text>
+      <g>
+         <rect x="808.5"
+               y="-267.1428571428571428"
+               width="30"
+               height="57.1428571428571428"
+               fill="red"/>
+         <rect x="808.5"
+               y="-410"
+               width="30"
+               height="142.8571428571428572"
+               fill="orange"/>
+         <rect x="850.5"
+               y="-286.1904761904761904"
+               width="30"
+               height="76.1904761904761904"
+               fill="#000033"/>
+         <rect x="850.5"
+               y="-410"
+               width="30"
+               height="123.8095238095238096"
+               fill="#0000FF"/>
+         <rect x="850.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="892.5"
+               y="-248.0952380952380952"
+               width="30"
+               height="38.0952380952380952"
+               fill="#003300"/>
+         <rect x="892.5"
+               y="-310"
+               width="30"
+               height="61.9047619047619048"
+               fill="#4C9900"/>
+         <rect x="892.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1039.5" transform="rotate(90)">Little Brier-Rose</text>
+      <g>
+         <rect x="997.5" y="-210" width="30" height="0" fill="red"/>
+         <rect x="997.5" y="-410" width="30" height="200" fill="orange"/>
+         <rect x="1039.5" y="-310" width="30" height="100" fill="#000033"/>
+         <rect x="1039.5" y="-410" width="30" height="100" fill="#0000FF"/>
+         <rect x="1039.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#003300"/>
+         <rect x="1081.5" y="-210" width="30" height="0" fill="#4C9900"/>
+         <rect x="1081.5" y="-410" width="30" height="200" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1228.5" transform="rotate(90)">Little Red Cap</text>
+      <g>
+         <rect x="1186.5"
+               y="-274.7058823529411764"
+               width="30"
+               height="64.7058823529411764"
+               fill="red"/>
+         <rect x="1186.5"
+               y="-410"
+               width="30"
+               height="135.2941176470588236"
+               fill="orange"/>
+         <rect x="1228.5"
+               y="-280.588235294117647"
+               width="30"
+               height="70.588235294117647"
+               fill="#000033"/>
+         <rect x="1228.5"
+               y="-410"
+               width="30"
+               height="129.411764705882353"
+               fill="#0000FF"/>
+         <rect x="1228.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1270.5"
+               y="-221.7647058823529412"
+               width="30"
+               height="11.7647058823529412"
+               fill="#003300"/>
+         <rect x="1270.5"
+               y="-262.9411764705882354"
+               width="30"
+               height="41.1764705882352942"
+               fill="#4C9900"/>
+         <rect x="1270.5"
+               y="-410.0000000000000002"
+               width="30"
+               height="147.0588235294117648"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1417.5" transform="rotate(90)">Little Snow-White</text>
+      <g>
+         <rect x="1375.5" y="-310" width="30" height="100" fill="red"/>
+         <rect x="1375.5" y="-410" width="30" height="100" fill="orange"/>
+         <rect x="1417.5" y="-210" width="30" height="0" fill="#000033"/>
+         <rect x="1417.5" y="-410" width="30" height="200" fill="#0000FF"/>
+         <rect x="1417.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1459.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="33.3333333333333334"
+               fill="#003300"/>
+         <rect x="1459.5"
+               y="-310"
+               width="30"
+               height="66.6666666666666666"
+               fill="#4C9900"/>
+         <rect x="1459.5" y="-410" width="30" height="100" fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1606.5" transform="rotate(90)">Rapunzel</text>
+      <g>
+         <rect x="1564.5"
+               y="-292.7586206896551724"
+               width="30"
+               height="82.7586206896551724"
+               fill="red"/>
+         <rect x="1564.5"
+               y="-410"
+               width="30"
+               height="117.2413793103448276"
+               fill="orange"/>
+         <rect x="1606.5"
+               y="-299.6551724137931034"
+               width="30"
+               height="89.6551724137931034"
+               fill="#000033"/>
+         <rect x="1606.5"
+               y="-403.103448275862069"
+               width="30"
+               height="103.4482758620689656"
+               fill="#0000FF"/>
+         <rect x="1606.5"
+               y="-410"
+               width="30"
+               height="6.896551724137931"
+               fill="#9999FF"/>
+         <rect x="1648.5"
+               y="-216.896551724137931"
+               width="30"
+               height="6.896551724137931"
+               fill="#003300"/>
+         <rect x="1648.5"
+               y="-251.3793103448275862"
+               width="30"
+               height="34.4827586206896552"
+               fill="#4C9900"/>
+         <rect x="1648.5"
+               y="-410"
+               width="30"
+               height="158.6206896551724138"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1795.5" transform="rotate(90)">Rumpelstiltskin</text>
+      <g>
+         <rect x="1753.5"
+               y="-293.8709677419354838"
+               width="30"
+               height="83.8709677419354838"
+               fill="red"/>
+         <rect x="1753.5"
+               y="-410"
+               width="30"
+               height="116.1290322580645162"
+               fill="orange"/>
+         <rect x="1795.5"
+               y="-319.6774193548387096"
+               width="30"
+               height="109.6774193548387096"
+               fill="#000033"/>
+         <rect x="1795.5"
+               y="-410"
+               width="30"
+               height="90.3225806451612904"
+               fill="#0000FF"/>
+         <rect x="1795.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="1837.5"
+               y="-268.064516129032258"
+               width="30"
+               height="58.064516129032258"
+               fill="#003300"/>
+         <rect x="1837.5"
+               y="-287.4193548387096774"
+               width="30"
+               height="19.3548387096774194"
+               fill="#4C9900"/>
+         <rect x="1837.5"
+               y="-410"
+               width="30"
+               height="122.5806451612903226"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-1984.5" transform="rotate(90)">The Robber Bridegroom</text>
+      <g>
+         <rect x="1942.5" y="-235" width="30" height="25" fill="red"/>
+         <rect x="1942.5" y="-410" width="30" height="175" fill="orange"/>
+         <rect x="1984.5" y="-335" width="30" height="125" fill="#000033"/>
+         <rect x="1984.5" y="-410" width="30" height="75" fill="#0000FF"/>
+         <rect x="1984.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2026.5" y="-235" width="30" height="25" fill="#003300"/>
+         <rect x="2026.5"
+               y="-243.3333333333333334"
+               width="30"
+               height="8.3333333333333334"
+               fill="#4C9900"/>
+         <rect x="2026.5"
+               y="-410"
+               width="30"
+               height="166.6666666666666666"
+               fill="#99FF33"/>
+      </g>
+      <text x="-200" y="-2173.5" transform="rotate(90)">The Singing Bone</text>
+      <g>
+         <rect x="2131.5" y="-290" width="30" height="80" fill="red"/>
+         <rect x="2131.5" y="-410" width="30" height="120" fill="orange"/>
+         <rect x="2173.5" y="-400" width="30" height="190" fill="#000033"/>
+         <rect x="2173.5" y="-410" width="30" height="10" fill="#0000FF"/>
+         <rect x="2173.5" y="-410" width="30" height="0" fill="#9999FF"/>
+         <rect x="2215.5" y="-230" width="30" height="20" fill="#003300"/>
+         <rect x="2215.5" y="-270" width="30" height="40" fill="#4C9900"/>
+         <rect x="2215.5" y="-410" width="30" height="140" fill="#99FF33"/>
+      </g>
+   </g>
+   <g transform="scale(.75) translate(150, -150)">
+      <line x1="25" y1="-210" x2="2268" y2="-210" stroke="black"/>
+      <line x1="25" y1="-210" x2="25" y2="-435" stroke="black"/>
+      <line x1="25"
+            y1="-260"
+            x2="2268"
+            y2="-260"
+            stroke="black"
+            stroke-dasharray="3"/>
+      <text x="-25" y="-255" stroke="black" fill="black">25%</text>
+      <line x1="25"
+            y1="-310"
+            x2="2268"
+            y2="-310"
+            stroke="black"
+            stroke-dasharray="3"/>
+      <text x="-25" y="-305" stroke="black" fill="black">50%</text>
+      <line x1="25"
+            y1="-360"
+            x2="2268"
+            y2="-360"
+            stroke="black"
+            stroke-dasharray="3"/>
+      <text x="-25" y="-355" stroke="black" fill="black">75%</text>
+      <line x1="25"
+            y1="-410"
+            x2="2268"
+            y2="-410"
+            stroke="black"
+            stroke-dasharray="3"/>
+      <text x="-25" y="-405" stroke="black" fill="black">100%</text>
+   </g>
+</svg>
