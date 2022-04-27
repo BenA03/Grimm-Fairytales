@@ -11,6 +11,13 @@ body {
     background-position: center;
     background-attachment: fixed;
     font-family: "Goudy Old Style", Arial, Helvetica, sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+    flex: 1;
 }
 
 /* This manages the header that displays the website name, right above the nav bar */
@@ -155,10 +162,10 @@ div.outline
 .stick
 {
     position: fixed;
-    display:block;
+    display: block;
     background-color: white;
     top: 20%;
-    right:0%;
+    right: 0%;
     font-size: 0.85em;
     border: 2px solid black;
     margin-right: 1px;
@@ -176,7 +183,7 @@ div.outline
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333; 
+    background-color: #333;
     overflow: hidden;
     border-bottom: black 1px solid;
 }
@@ -198,7 +205,11 @@ div.outline
 }
 
 /* Add a color to the active/current link */
-body.index a.index, body.methodology a.methodology, body.texts a.texts, body.analysis a.analysis, body.conclusion a.conclusion {
+body.index a.index,
+body.methodology a.methodology,
+body.texts a.texts,
+body.analysis a.analysis,
+body.conclusion a.conclusion {
     background-color: #46A541;
     color: white;
 }
