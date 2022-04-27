@@ -13,6 +13,7 @@ function loadDoc(num) {
     document.getElementById("key").style.display = "block";
     document.getElementById("toggleKey").style.display = "block";
     document.getElementById("jumpStatement").style.display = "block";
+    document.getElementById("toggleKey").innerHTML = "<span>Hide the key on the right</span>"
 }
 function dualDisplay() {
     document.getElementById("storyMore").style.display = "block";
