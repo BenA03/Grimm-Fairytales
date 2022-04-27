@@ -380,8 +380,10 @@ svg.svg
     background-color: #333;
     color: #f8f4f4;
     border-top: 1px solid black;
-    margin-top: 30px;
-    bottom: 0%;
+    bottom: 0;
+    margin-bottom: 0px;
+    font-size: 0.7em;
+    margin-top: auto;
 }
 
 .lighterLink
