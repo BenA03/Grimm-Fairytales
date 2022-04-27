@@ -87,8 +87,14 @@ table {
 .center
 {
     display: block;
+    align-items: flex-start;
     margin-left: auto;
     margin-right: auto;
+}
+
+.alignTop
+{
+    align-items: flex-start;
 }
 
 /* Temporary fix for centering bulleted flex containers */
