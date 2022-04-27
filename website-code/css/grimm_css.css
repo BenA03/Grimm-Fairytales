@@ -5,7 +5,7 @@ body {
      * https://cdn.pixabay.com/photo/2013/02/13/02/37/painting-81194_960_720.jpg
      * https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369540060l/22917.jpg 
      * https://cdn.pixabay.com/photo/2013/02/13/02/37/painting-81194_960_720.jpg */
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/2e/Forest_alt_by_adampaquette-d966m8r.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2021/04/04/13/27/cat-6150076_1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -381,6 +381,7 @@ svg.svg
     color: #f8f4f4;
     border-top: 1px solid black;
     margin-top: 30px;
+    bottom: 0%;
 }
 
 .lighterLink
