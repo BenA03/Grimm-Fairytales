@@ -160,8 +160,9 @@ div.outline
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: #333; 
     overflow: hidden;
+    border-bottom: black 1px solid;
 }
 
 /* Style the links inside the navigation bar */
@@ -198,6 +199,7 @@ span.hover {
     background-color: #DCDCDC;
     padding: 20px;
     display: none;
+    border-style: inset;
 }
 
 span.hoverable:hover + .hover {
@@ -338,8 +340,8 @@ svg.svg
 {
     padding: 10px;
     background-color: #333;
-    color: white;
-    border: 1px solid black;
+    color: #f8f4f4;
+    border-top: 1px solid black;
 }
 
 .lighterLink
