@@ -333,3 +333,16 @@ svg.svg
     width: 50%;
     overflow: visible
 }
+
+.footer
+{
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: 1px solid black;
+}
+
+.lighterLink
+{
+    color: #2767E8;
+}
