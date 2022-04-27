@@ -199,7 +199,6 @@ span.hover {
     background-color: #DCDCDC;
     padding: 20px;
     display: none;
-    border-style: inset;
 }
 
 span.hoverable:hover + .hover {
@@ -311,6 +310,14 @@ button
     opacity: 1;
     right: 0;
 }
+
+.yellowButton:active span {
+    opacity: 1;
+    right: 0;
+    transition: 0.5s;
+    right: 5px;
+}
+
 /*  */
 
 .halfNoPadding
@@ -319,9 +326,20 @@ button
     align-items: flex-start;
 }
 
+.percent140
+{
+    width: 140%;
+}
+
 .right {
     justify-content: flex-end;
     margin-left: auto;
+}
+
+.left
+{
+    justify-content: flex-start;
+    margin-right: auto;
 }
 
 .smallMargins

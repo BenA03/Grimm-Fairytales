@@ -10,6 +10,8 @@ function loadDoc(num) {
     xhttp.send();
     document.getElementById("storyMore").style.display = "block";
     document.getElementById("tooltip").style.display = "block";
+    document.getElementById("key").style.display = "block";
+    document.getElementById("toggleKey").style.display = "block";
     document.getElementById("jumpStatement").style.display = "block";
 }
 function dualDisplay() {
@@ -51,4 +53,18 @@ function closeDual() {
     document.getElementById("demo").style.marginRight = "0px";
     document.getElementById("dual").style.marginLeft = "0px";
     document.getElementById("closer").style.display = "none";
+}
+
+
+function toggleKey()
+{
+    var toggledElement = document.getElementById("key");
+    var control = document.getElementById("toggleKey"); 
+  if (toggledElement.style.display === "block") {
+    toggledElement.style.display = "none";
+    control.innerHTML = "<span>Display a key for the highlights</span>"
+  } else {
+    toggledElement.style.display = "block";
+    control.innerHTML = "<span>Hide the key on the right</span>"
+  }
 }

@@ -127,6 +127,8 @@
                 <div class = "halfNoPadding">
                     <button type="button" id="storyMore" class="invis right yellowButton"
                         onclick="dualDisplay()"><span>Display another story side-by-side!</span></button>
+                    <button type="button" id="toggleKey" class="invis right yellowButton"
+                        onclick="toggleKey()"><span>Hide the key on the right</span></button>
                     <button type="button" id="closer" class="invis right yellowButton"
                         onclick="closeDual()"><span>Close dual display</span></button>
                 </div>
@@ -140,7 +142,7 @@
             <p class="textcenter invis" id="jumpStatement"><a href="#topPage">Jump back to the
                     top</a></p>
         </div>
-        <div class="stick">
+        <div class="stick invis" id="key">
             <p class="collapse"><strong>Male:</strong></p>
             <ul class="smallMargins">
                 <li><span class="male_action">actions</span></li>
