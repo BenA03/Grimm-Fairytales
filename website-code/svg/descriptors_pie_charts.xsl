@@ -53,7 +53,7 @@
                         <xsl:if test="$neutMale ne 0">
                             <circle cx="{$xSpacing * 1}" cy="300" r="{$circleSize div 2}"
                                 fill="none" stroke="yellow" stroke-width="{$circleSize}"
-                                stroke-dasharray="{$circumference * $neutMale div $allMale div 2} 1000"
+                                stroke-dasharray="{$circumference * $neutMale div $allMale div 2} 1000"/>
                             />
                         </xsl:if>
 
