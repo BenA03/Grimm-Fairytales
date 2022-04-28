@@ -16,7 +16,7 @@ body {
     flex-direction: column;
 }
 
-main{
+main {
     flex: 1;
 }
 
@@ -109,7 +109,7 @@ table {
     align-items: flex-start;
 }
 
-.smallishMargins{
+.smallishMargins {
     margin-left: 10px;
 }
 
@@ -419,18 +419,18 @@ svg.svg2
     background-color: orange;
 }
 
-.active{
+.active {
     background-color: red;
 }
 
-.male{
+.male {
     background-color: #000033; /* dark blue */
     color: white;
 }
 
 .female {
-     background-color: #0000FF; /* medium blue */
-     color: white;
+    background-color: #0000FF; /* medium blue */
+    color: white;
 }
 
 .mixed
@@ -438,16 +438,16 @@ svg.svg2
     background-color: #9999FF; /* light blue */
 }
 
-.hesitant{
+.hesitant {
     background-color: #003300;
     color: white;
 }
 
-.neutral{
+.neutral {
     background-color: #4C9900;
 }
 
-.eager{
+.eager {
     background-color: #99FF33;
 }
 
