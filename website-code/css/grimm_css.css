@@ -110,7 +110,7 @@ table {
 }
 
 .smallishMargins {
-    margin-left: 10px;
+    margin: 10px;
 }
 
 /* Temporary fix for centering bulleted flex containers */
